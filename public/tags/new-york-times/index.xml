@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New York Times on Miss Otter</title>
+    <link>http://localhost:1313/tags/new-york-times/</link>
+    <description>Recent content in New York Times on Miss Otter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/new-york-times/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Due longform sulle elezioni americane (e qualche extra)</title>
+      <link>http://localhost:1313/biblioteca/fiordafiore/due-longform-sulle-elezioni-americane-e-qualche-extra/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/biblioteca/fiordafiore/due-longform-sulle-elezioni-americane-e-qualche-extra/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Mancano ormai solo due settimane alle elezioni presidenziali americane, evento che tiene tutto il mondo con il fiato sospeso dato che, inevitabilmente, il risultato avrà ripercussioni politiche ed economiche sullo scacchiere globale. Ho ricevuto ieri sera una email da degli amici americani che si chiudeva con queste parole:&lt;/p&gt;
+&lt;p&gt;“To those of you who are fortunate enough not to have lived in this country for the past four years, we hope that you know that not everyone here is as insanely ignorant and dangerous as our present administration would have you believe.  We pray that this nightmare will end in a few weeks, and that we will soon start on our journey to a better future.”&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

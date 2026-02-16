@@ -1,0 +1,35 @@
+---
+title: "Longform - Il punto sul Covid-19 negli Stati Uniti"
+date: 2021-01-18
+categories: ["FiorDaFiore"]
+tags: ["barney graham", "bellevue hospital", "biontech", "coronavirus", "covid", "covid-19", "jason mclellan", "lawrence wright", "mers", "moderna", "mRNA", "nih", "pfizer", "rna messaggero", "rsv", "stati uniti", "the plague year", "USA", "vaccino"]
+---
+
+![](plague_year.jpg)
+](https://www.newyorker.com/magazine/2021/01/04/the-plague-year)
+
+Segnalo questo lunghissimo (la versione audio dura più di 3 ore) ma [imperdibile articolo](https://www.newyorker.com/magazine/2021/01/04/the-plague-year) che fa il punto su quasi un anno di pandemia da Covid-19 negli Stati Uniti.
+
+L’autore è Lawrence Wright, giornalista, scrittore e sceneggiatore, pluripremiata penna del New Yorker, autore di innumerevoli articoli, di dieci saggi (fra cui il favoloso *The Looming Tower* che gli è valso il Pulitzer e a cui mi riprometto di dedicare un post a parte) e di due romanzi, l’ultimo dei quali, recentissimo e profetico, parla di una pandemia.
+
+In questo longform Wright parte dalla Cina e dalle prime notizie trapelate sul virus, poi si infila nella Casa Bianca di Trump e segue l’andamento inquietante della gestione della crisi, tratteggiando le figure di chi, spesso inascoltato, ha cercato di mettere in guardia il governo e di far adottare misure di prevenzione adeguate. Fa un racconto, spesso agghiacciante, dei problemi che ci sono stati con la preparazione e la distribuzione dei tamponi e della mancata collaborazione fra i governi dei singoli stati e l’amministrazione federale, il tutto accompagnato da una serie di storie personali di malattia e di cura, di guarigione e di morte. Personalmente ho trovato emozionante e a tratti persino commovente la parte dedicata al Bellevue hospital di New York, che è stato sulla linea del fronte durante la prima ondata del virus, e poi interessantissimo e illuminante il racconto di come sono nati vaccini di Moderna e Pfizer.
+
+Quest’ultima parte era così interessante che non ho resistito e ne ho fatto una sintesi, integrandola con un po’ di altre informazioni, a beneficio mio e di chiunque sia interessato a sapere qualcosa di più su quello che fra qualche settimana o mese ci inietteranno nel braccio.
+
+*            *            *
+
+Barney Graham è il direttore del Laboratorio di patogenesi virale del Centro di ricerca sui vaccini del *National Institute of Health* americano. Si occupa da vent’anni di vaccini per i virus respiratori. Per molti anni ha lavorato sul Virus respiratorio sinciziale umano (RSV), una delle poche malattie infettive che colpiscono i bambini sotto i cinque anni a non avere ancora un vaccino. Graham e Jason McLellan, un biologo strutturale dell’Università del Texas che a sua volta ha lavorato a lungo alla ricerca di un vaccino per l’HIV, hanno fatto ricerca sulla proteina dell’RSV per stabilizzarla, trasformarla in un antigene e creare un vaccino che è da poco arrivato alla fase III della sperimentazione clinica.
+
+Dopo la comparsa nel 2012 del coronavirus portatore della MERS (Sindrome respiratoria mediorientale), grazie alla microscopia crioelettronica, una tecnologia disponibile solo dal 2013, i ricercatori sono stati finalmente in grado di visualizzare in maniera ottimale le proteine virali e sono riusciti a modificare la proteina “spike” (uno di quei “chiodini” che si vedono sulla superficie del virus nelle immagini al microscopio e ci danno l’impressione che abbia una corona, caratteristica da cui deriva il nome di questa classe di virus) della MERS. Hanno formulato un vaccino che è stato testato con successo sui topi ma non è arrivato alla fase di sperimentazione clinica per mancanza di fondi e di una reale necessità, dato che il virus è sparito con la stessa rapidità con cui si era manifestato.
+
+Nel corso degli ultimi tre anni il laboratorio di Graham ha lavorato a un test dimostrativo per verificare il livello di preparazione ad affrontare eventi pandemici, usando come patogeno proprio il coronavirus della MERS, e ha stretto una collaborazione con l’azienda *Moderna* per creare un prototipo di vaccino basato sull’RNA messaggero.
+
+Il vaccino funziona così: contiene l’RNA messaggero necessario per produrre una replica della proteina “spike” del coronavirus. Una volta iniettato, l’RNA messaggero dice alle nostre cellule di iniziare a produrre le proteine “spike”. Il nostro sistema immunitario le riconosce come antigeni, elementi estranei, e produce gli anticorpi necessari a neutralizzarle. In questo modo, se e quando il virus dovesse tentare di introdursi nelle nostre cellule, il sistema immunitario sarebbe in grado di riconoscerlo e combatterlo.
+
+Il laboratorio di patogenesi virale guidato da Graham si stava preparando a iniziare la sperimentazione clinica di questo prototipo quando dalla Cina sono arrivate le prime notizie sul nuovo coronavirus.
+
+La sequenza del sars-CoV-2 è stata condivisa in rete dagli scienziati cinesi il 10 gennaio, Graham e McLellan hanno iniziato subito a lavorare sulla sua proteina “spike” e in soli tre giorni hanno formulato e inviato a *Moderna* le istruzioni per preparare il vaccino.
+
+Generalmente ci vogliono anni per passare dalla formulazione di un vaccino alla sua produzione, in questo caso *Moderna* ha preparato le dosi per i primi test in sei settimane. I test sugli animali hanno dato buoni risultati e la fase I della sperimentazione clinica è iniziata il 16 marzo, quasi contemporaneamente all’inizio della produzione su larga scala. La proteina modificata da Graham e McLellan è alla base anche del vaccino sviluppato da *Pfizer* e *BioNTech*, la cui fase III di sperimentazione (42.000 volontari) è iniziata a fine luglio, assieme a quella del vaccino *Moderna* (30.000 volontari). I ricercatori si aspettavano che i test mostrassero un’efficacia fra il 70 e l’80 per cento, ma entrambi i vaccini hanno superato la soglia del 90%.
+
+La produzione su larga scala dei vaccini che non hanno ancora ottenuto l’autorizzazione da parte delle agenzie del farmaco dei vari paesi è stato un fattore fondamentale per accorciare i tempi. *Moderna, Sanofi, Novavax, Johnson & Johnson* e altre aziende hanno potuto farlo grazie ai dodici miliardi di dollari messi a disposizione dal programma *Warp Speed* del governo americano (una delle poche azioni positive attribuibili all’amministrazione Trump nella lotta al coronavirus, motivata forse dalla speranza che si arrivasse alla distribuzione di un vaccino prima delle elezioni di novembre). *Pfizer* e *BioNTech* hanno invece deciso di non accettare i fondi del programma, ma *BioNTech* ha ricevuto 45 milioni di dollari di finanziamento dal governo tedesco e le due aziende hanno comunque firmato un accordo da circa due miliardi di dollari con il programma *Warp Speed* per la vendita agli Stati Uniti dei primi cento milioni di dosi prodotte.

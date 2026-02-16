@@ -1,0 +1,10 @@
+baseURL = 'https://missotter.com'
+languageCode = 'it'
+title = 'Miss Otter'
+theme = 'clarity'
+
+[params]
+  author = 'Miss Otter'
+  description = 'Un viaggio nella narrazione del reale'
+  mainSections = ['breadcrumbs', 'biblioteca', 'traduzioni']
+  customCSS = ["css/custom.css"]
