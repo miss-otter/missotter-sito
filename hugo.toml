@@ -3,15 +3,75 @@ languageCode = 'it'
 title = 'Miss Otter'
 theme = 'clarity'
 
+# Disabilita completamente tags e categorie
+disableKinds = ["taxonomy", "term"]
+
+[taxonomies]
+  # Lasciamo vuoto per disabilitare
+  
 [params]
   author = 'Miss Otter'
   description = 'Un viaggio nella narrazione del reale'
   mainSections = ['breadcrumbs', 'biblioteca', 'traduzioni']
+  
+  # CSS personalizzato
   customCSS = ["css/custom.css"]
-
+  
+  # Disabilita bottoni di condivisione
+  showShare = false
+  
+  # Disabilita tags (0 = nessuno mostrato)
+  numberOfTagsShown = 0
+  
+  # Usa Page Bundles (immagini nella cartella del post)
+  usePageBundles = true
+  
+  # Nascondi data di lettura stimata
+  # showReadingTime = false
+  
+  # Logo/Titolo
+  # logo = "images/logo.png"  # Decommentare se hai un logo
+  
+  # Footer
+  since = 2020
+  
 [params.social]
   twitter = ""
   github = ""
   linkedin = ""
   facebook = ""
-  instagram = "" 
+  instagram = ""
+
+# Menu principale
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Miss Otter"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "breadcrumbs"
+    name = "Breadcrumbs"
+    url = "/breadcrumbs/"
+    weight = 2
+  [[menu.main]]
+    identifier = "traduzioni"
+    name = "Traduzioni"
+    url = "/traduzioni/"
+    weight = 3
+  [[menu.main]]
+    identifier = "biblioteca"
+    name = "La biblioteca"
+    url = "/biblioteca/"
+    weight = 4
+  [[menu.main]]
+    identifier = "chi-sono"
+    name = "Chi sono"
+    url = "/chi-sono/"
+    weight = 5
+
+# Configurazione markup
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Permette HTML nei file Markdown
