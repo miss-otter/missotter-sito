@@ -65,7 +65,9 @@ article a[href*="/tags/"],
 /* Nasconde "Share on:" e i bottoni social nelle liste */
 article .share,
 .post_item .share,
-.excerpt .share {
+.excerpt .share,
+.post_share,
+.post.share {
   display: none !important;
 }
 
@@ -81,7 +83,9 @@ aside .tags,
 #tags,
 h2 + .tags,
 [class*="tag-cloud"],
-.widget_tag_cloud {
+.widget_tag_cloud,
+.taxonomy,
+.mt-4.taxonomy {
   display: none !important;
 }
 
