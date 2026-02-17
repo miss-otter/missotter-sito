@@ -1,0 +1,179 @@
+/* ===========================================
+   MISS OTTER - CSS CUSTOM PER TEMA CLARITY
+   =========================================== */
+
+/* --- COLORI BASE --- */
+:root {
+  --text-color: #2d2d2d;
+  --bg-color: #fafaf8;
+  --accent-color: #556b58;
+  --link-color: #556b58;
+  --heading-color: #556b58;
+  --haze: #f5f5f3;
+}
+
+/* --- LINK E HEADER --- */
+a {
+  color: var(--accent-color);
+}
+
+a:hover {
+  color: #7a9580;
+}
+
+header {
+  background: #ffffff;
+}
+
+/* --- TITOLI --- */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--heading-color);
+}
+
+/* --- NAVIGAZIONE --- */
+.nav a {
+  color: var(--accent-color);
+}
+
+.nav a:hover {
+  color: #7a9580;
+}
+
+/* ===========================================
+   FIX: NASCONDERE I TAG NELLA LISTA POST
+   I tag appaiono come muro di testo - li nascondiamo
+   =========================================== */
+
+/* Nasconde i tag nei post della homepage/liste */
+.post_tags,
+.post-meta .tags,
+article .tags,
+.post_item .tags,
+.excerpt .tags {
+  display: none !important;
+}
+
+/* Mostra i tag SOLO nella pagina singola del post */
+.post_content .tags,
+.single .tags,
+article.post .post_tags {
+  display: block !important;
+}
+
+/* ===========================================
+   FIX: SIDEBAR TAGS TROPPO LUNGA
+   =========================================== */
+
+/* Limita altezza della sezione tags nella sidebar */
+.sidebar .tags,
+aside .tags,
+.widget_tag_cloud {
+  max-height: 300px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+/* Oppure nascondila completamente */
+/*
+.sidebar .tags,
+aside .tags {
+  display: none;
+}
+*/
+
+/* ===========================================
+   FIX: ICONE SOCIAL (mancano font icons)
+   Sostituisce con testo se le icone non caricano
+   =========================================== */
+
+/* Nascondi le icone social rotte nella lista post */
+.share,
+.share_icons,
+.post_share,
+article .share,
+.post_item .share {
+  display: none !important;
+}
+
+/* Mostra condivisione solo nel post singolo */
+.single .share,
+.post_content .share {
+  display: flex !important;
+}
+
+/* ===========================================
+   FIX: PULIZIA HOMEPAGE
+   =========================================== */
+
+/* Rimuove elementi troppo affollati */
+.post_item .post_meta {
+  font-size: 0.9em;
+  color: #666;
+}
+
+/* Meno spazio per i metadati */
+.post_item .read_more {
+  margin-top: 0.5rem;
+}
+
+/* ===========================================
+   ESTETICA GENERALE
+   =========================================== */
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+/* Card dei post più pulite */
+.post_item,
+.post {
+  background: #ffffff;
+  border-radius: 4px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+.post_item:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+/* Titoli dei post */
+.post_item h2 a,
+.post_item h3 a,
+.post_title a {
+  color: var(--heading-color);
+  text-decoration: none;
+}
+
+.post_item h2 a:hover,
+.post_item h3 a:hover,
+.post_title a:hover {
+  color: #7a9580;
+}
+
+/* Footer */
+footer {
+  background: var(--haze);
+  border-top: 1px solid #e0e0e0;
+}
+
+/* ===========================================
+   CATEGORIE
+   =========================================== */
+
+.categories a,
+.category a {
+  background: var(--accent-color);
+  color: #ffffff !important;
+  padding: 0.2em 0.6em;
+  border-radius: 3px;
+  font-size: 0.85em;
+  text-decoration: none;
+}
+
+.categories a:hover,
+.category a:hover {
+  background: #7a9580;
+}
