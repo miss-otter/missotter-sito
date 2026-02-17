@@ -8,3 +8,10 @@ theme = 'clarity'
   description = 'Un viaggio nella narrazione del reale'
   mainSections = ['breadcrumbs', 'biblioteca', 'traduzioni']
   customCSS = ["css/custom.css"]
+
+[params.social]
+  twitter = ""
+  github = ""
+  linkedin = ""
+  facebook = ""
+  instagram = ""
