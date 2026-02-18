@@ -3,6 +3,7 @@ title: "How it all began/1 - Una strana coincidenza"
 date: 2013-05-15
 categories: ["Oldies"]
 tags: ["lontre", "otters"]
+thumbnail: "pink-floyd-piper-at-the-gates-of-dawn-front.jpg"
 ---
 
 Miss Otter, ovvero la storia della mia passione per le lontre.

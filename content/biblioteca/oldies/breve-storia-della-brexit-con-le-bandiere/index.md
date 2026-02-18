@@ -3,6 +3,7 @@ title: "Breve storia della Brexit con le bandiere"
 date: 2019-10-13
 categories: ["Oldies"]
 tags: []
+thumbnail: "collabblues_brexit_it.png"
 ---
 
 ![](collabblues_brexit_it.png)

@@ -3,6 +3,7 @@ title: "La travagliata storia di un omicidio eccellente avvenuto sessant’anni 
 date: 2021-05-11
 categories: ["NuoviArrivi"]
 tags: ["17 settembre 1961", "cold case", "cold case Hammarskj\u00f6ld", "congo", "Dag Hammarskj\u00f6ld", "documentario", "mads brugger", "mohamed chande othman", "nazioni unite", "nobel peace prize", "nobel per la pace", "ONU", "operazione celeste", "ravi somaiya", "saimr", "sundance", "the golden thread"]
+thumbnail: "golden_thread.jpg"
 ---
 
 ![](golden_thread.jpg)

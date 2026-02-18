@@ -3,6 +3,7 @@ title: "Il sogno incompiuto degli Stati Uniti"
 date: 2015-11-01
 categories: ["Oldies"]
 tags: ["2015", "blacklivesmatter", "ferrara", "gary younge", "internazionale", "intfe", "isabel wilkerson", "jose antonio vargas", "kristina kay robinson", "sogno incompiuto", "stati uniti", "teatro comunale", "undocumented", "vargas", "white people", "wilkerson", "younge"]
+thumbnail: "jose.jpg"
 ---
 
 ![jose](jose.jpg)

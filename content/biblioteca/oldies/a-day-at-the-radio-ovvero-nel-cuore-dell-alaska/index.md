@@ -3,6 +3,7 @@ title: "A day at the radio, ovvero nel cuore dell’Alaska"
 date: 2013-10-11
 categories: ["Oldies"]
 tags: ["Alaska", "dietro le quinte", "Marina Petrillo", "radio", "Radio popolare"]
+thumbnail: "pic1.jpg"
 ---
 
 Ebbene sì, cari ascoltatori e followi che amate l’Alaska quanto me, invidiatemi pure, perché ho avuto l’onore e il privilegio di un’esperienza unica, e ve la voglio raccontare.

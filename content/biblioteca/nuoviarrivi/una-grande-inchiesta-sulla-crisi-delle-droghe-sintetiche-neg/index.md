@@ -3,6 +3,7 @@ title: "Una grande inchiesta sulla crisi delle droghe sintetiche negli Stati Uni
 date: 2020-10-16
 categories: ["NuoviArrivi"]
 tags: ["ben westhoff", "cina", "dipendenza da oppioidi", "droga", "fentanil", "fentanyl", "giornalismo", "giornalismo investigativo", "inchiesta", "NSP", "nuove sostanze psicoattive", "precursori", "wuhan", "yuancheng"]
+thumbnail: "fentanyl.jpg"
 ---
 
 ![](fentanyl.jpg)

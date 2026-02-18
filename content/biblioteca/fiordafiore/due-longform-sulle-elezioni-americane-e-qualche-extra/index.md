@@ -3,6 +3,7 @@ title: "Due longform sulle elezioni americane (e qualche extra)"
 date: 2020-10-19
 categories: ["FiorDaFiore"]
 tags: ["barton gellman", "donald trump", "elezioni americane", "evan osnos", "evan ratliff", "gellman", "joe biden", "longform", "new york times", "osnos", "podcast", "segnalazioni", "the atlantic", "the new yorker"]
+thumbnail: "biden_center_2.jpg"
 ---
 
 Mancano ormai solo due settimane alle elezioni presidenziali americane, evento che tiene tutto il mondo con il fiato sospeso dato che, inevitabilmente, il risultato avrà ripercussioni politiche ed economiche sullo scacchiere globale. Ho ricevuto ieri sera una email da degli amici americani che si chiudeva con queste parole:

@@ -3,6 +3,7 @@ title: "Gerusalemme /2"
 date: 2015-05-20
 categories: ["Oldies"]
 tags: []
+thumbnail: "wpid-foto-3_2-jpg.jpeg"
 ---
 
 Mi piace la mia scuola.

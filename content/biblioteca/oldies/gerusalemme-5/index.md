@@ -3,6 +3,7 @@ title: "Gerusalemme /5"
 date: 2015-05-30
 categories: ["Oldies"]
 tags: ["ebrei", "Gerusalemme", "muro del pianto", "shabbat", "strani incontri"]
+thumbnail: "foto-2-1.jpg"
 ---
 
 Il repertorio degli "strani incontri" dopo due settimane in questa città si è notevolmente arricchito. Qui c'è di tutto e si incontra di tutto, perché al di là delle categorie elementari che impari presto a distinguere (semplificando molto: ebreo laico, ebreo ultraortodosso, musulmano, turista) non sei mai del tutto sicuro di chi hai di fronte, Di solito si inizia con un "where are you from?" ma prima della quarta o quinta domanda è davvero difficile capire qualcosa.

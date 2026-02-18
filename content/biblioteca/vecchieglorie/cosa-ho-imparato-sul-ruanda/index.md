@@ -3,6 +3,7 @@ title: "Cosa ho imparato sul Ruanda"
 date: 2013-11-15
 categories: ["Oldies", "VecchieGlorie"]
 tags: ["genocidio", "Gourevitch", "letture", "libri", "Ruanda"]
+thumbnail: "gourevitch_2.jpg"
 ---
 
 ![](gourevitch_2.jpg)

@@ -3,6 +3,7 @@ title: "Gerusalemme /3 - ma in verità è Betlemme"
 date: 2015-05-21
 categories: ["Oldies"]
 tags: ["banksy", "Betlemme", "murales", "muro"]
+thumbnail: "wpid-foto.jpg"
 ---
 
 Oggi, complici l'arietta fresca e il pomeriggio libero, dopo la scuola ho deciso di andarmene un po' in giro per Betlemme a fare del turismo alternativo. Ormai con Betlemme ci ho preso la mano, le persone sono gentilissime e per la maggior parte si fanno i cazzi loro e ti lasciano in pace, salvo darti una mano volentieri se chiedi. Fanno eccezione i tassisti "abusivi" e le guide turistiche improvvisate ma quello è normale, sono lì apposta per acchiappare turisti smarriti e comunque si trova sempre il modo di far due chiacchiere in maniera civile. Dunque dicevo che mi sono concessa un po' di tempo per andare a caccia di murales. Banksy, ovviamente! Sono partita dalle istruzioni che ho trovato su [questa pagina](http://www.thewholeworldisaplayground.com/banksy-bethlehem-street-art/), e sono partita male, cercavo l'angelo ma non avevo preso bene nota dell'indicazione del posto, quindi nisba. Vagando senza meta mi sono imbattuta nell'[ufficio turistico palestinese](http://www.visitpalestine.ps) e ho provato a chiedere lì.

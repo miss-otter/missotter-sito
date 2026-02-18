@@ -3,6 +3,7 @@ title: "C’è un altro libro da leggere su Edward Snowden e il datagate"
 date: 2020-10-01
 categories: ["NuoviArrivi"]
 tags: ["ashkan soltani", "barton gellman", "citizenfour", "dark mirror", "datagate", "errore di sistema", "glenn greenwald", "laura poitras", "marty baron", "NSA", "pulitzer", "Snowden", "spotlight", "washington post"]
+thumbnail: "dark_mirror.jpg"
 ---
 
 ![](dark_mirror.jpg)

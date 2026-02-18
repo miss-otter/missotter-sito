@@ -3,6 +3,7 @@ title: "La storia del secondo capolavoro che Harper Lee non ha mai scritto."
 date: 2020-09-11
 categories: ["NuoviArrivi"]
 tags: []
+thumbnail: "furious-hours-jkt.jpg"
 ---
 
 ![](furious-hours-jkt.jpg)

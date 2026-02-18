@@ -3,6 +3,7 @@ title: "Ritorno alle origini | John Hersey – Hiroshima"
 date: 2021-11-02
 categories: ["VecchieGlorie"]
 tags: ["6 agosto 1945", "a bell for adano", "barbara jean day", "bbc radio", "frances ann cannon", "giappone", "giornalismo narrativo", "hersey", "hibakusha", "hiroshima", "hiroshima - the aftermath", "JFK", "john fitzgerald kennedy", "john hersey", "Life", "mortisia addams", "non-fiction", "norman mailer", "paris review", "pulitzer", "the new yorker", "Time magazine", "tom wolfe", "truman capote", "una campana per adano", "william shawn"]
+thumbnail: "copertina_newyorker_31081946.jpg"
 ---
 
 ![](copertina_newyorker_31081946.jpg)

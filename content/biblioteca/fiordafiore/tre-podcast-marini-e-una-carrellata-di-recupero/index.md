@@ -3,6 +3,7 @@ title: "Tre podcast marini e una carrellata di recupero"
 date: 2022-08-16
 categories: ["FiorDaFiore"]
 tags: ["andrea doria", "andy rocchelli", "archivio luce", "chora media", "corea del nord", "costa concordia", "davide savelli", "diabolik", "gabriele cruciata", "giovanni bianconi", "il dito di dio", "la ballata dell&#039;andrea doria", "la citt\u00e0 dei vivi", "la gabbia dei matti", "la volpe scapigliata", "luca bizzarri", "marco damilano", "mario calabresi", "mauro pescio", "nicola lagioia", "pablo trincia", "podcast", "pong su", "richard baker", "romanzo quirinale", "simone pieranni", "sydney morning herald", "taiwan perch\u00e9", "the age", "the last voyage of the pong su", "un uomo chiamato diabolik", "veleno"]
+thumbnail: "marini.png"
 ---
 
 ![](marini.png)

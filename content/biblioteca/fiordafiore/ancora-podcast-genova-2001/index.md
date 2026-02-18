@@ -3,6 +3,7 @@ title: "Ancora podcast – Genova 2001"
 date: 2021-08-24
 categories: ["FiorDaFiore"]
 tags: ["annalisa camilli", "bolzaneto", "diaz", "g8", "genoa social forum", "genova", "genova 2001", "genova per tutti", "il salto", "internazionale", "limoni", "podcast", "rai radio tre"]
+thumbnail: "genova_collage_orizzontale.jpg"
 ---
 
 ![](genova_collage_orizzontale.jpg)

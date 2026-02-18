@@ -3,6 +3,7 @@ title: "How it all began/2 - Le americane e lo scozzese"
 date: 2013-05-26
 categories: ["Oldies"]
 tags: ["lontre", "otters"]
+thumbnail: "otter-rosa.jpg"
 ---
 
 Dopo i primi esordi, la mia passione per le lontre è continuata, forte e costante.

@@ -3,6 +3,7 @@ title: "In viaggio con i migranti dall'Afghanistan all'Europa"
 date: 2023-01-03
 categories: ["NuoviArrivi"]
 tags: ["aeroporto di kabul", "afghanistan", "alavi", "atene", "diario di viaggio", "exarchia", "faiz", "grecia", "hafez", "hazara", "iran", "jim huylebroek", "kabul", "khalili", "matthieu aikins", "migranti", "moria", "new york times magazine", "nytmagazine", "pakistan", "recensione", "saadi", "saffo", "saggio", "viaggio"]
+thumbnail: "copertina-1.png"
 ---
 
 ![](copertina-1.png)

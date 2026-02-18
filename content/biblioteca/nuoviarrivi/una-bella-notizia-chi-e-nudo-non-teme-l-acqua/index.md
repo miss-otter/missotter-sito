@@ -3,6 +3,7 @@ title: "Una bella notizia – Chi è nudo non teme l’acqua "
 date: 2024-01-10
 categories: ["NuoviArrivi"]
 tags: ["aeroporto di kabul", "afghanistan", "atene", "chi \u00e8 nudo non teme l'acqua", "grecia", "huginn e muninn", "i corvi", "iperborea", "iran", "luca fusari", "matthieu aikins", "nuova collana", "nuovo libro", "pakistan", "saggistica narrativa", "traduzione", "turchia"]
+thumbnail: "chi_e_nudo_2.jpg"
 ---
 
 ![](chi_e_nudo_2.jpg)

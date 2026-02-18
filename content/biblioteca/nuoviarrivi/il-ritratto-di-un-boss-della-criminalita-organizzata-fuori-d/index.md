@@ -3,6 +3,7 @@ title: "Il ritratto di un boss della criminalità organizzata fuori da ogni sche
 date: 2020-11-04
 categories: ["NuoviArrivi"]
 tags: ["armi", "bitcoin", "cocaina", "criminalit\u00e0 organizzata", "dea", "evan ratliff", "filippine", "metanfetamine", "milizie", "paul calder le roux", "paul le roux", "recensione", "satoshi nakamoto", "somalia", "the mastermind", "traffico di armi", "traffico di droga", "truecrypt"]
+thumbnail: "mastermind.jpg"
 ---
 
 ![](mastermind.jpg)

@@ -3,6 +3,7 @@ title: "Breve rassegna primaverile di podcast italiani"
 date: 2021-04-06
 categories: ["FiorDaFiore"]
 tags: ["121269", "alberto nerazzini", "alessia cerantola", "andrea sceresini", "cecilia anesi", "cecilia sala", "chiara lalli", "dino maglio", "gianfranco franciosi", "giulio rubino", "guido salvini", "irpi media", "la piena", "marta russo", "matteo caccia", "piazza fontana", "podcast", "podcast giornalistico", "podcast investigativo", "polvere", "verified"]
+thumbnail: "image.png"
 ---
 
 Sarà il caso, passata anche la Pasqua, di scrivere qualcosa sui podcast italiani che ho ascoltato lo scorso anno, prima che quelli del 2021 prendano il sopravvento.

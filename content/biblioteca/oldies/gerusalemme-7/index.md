@@ -3,6 +3,7 @@ title: "Gerusalemme /7"
 date: 2015-06-02
 categories: ["Oldies"]
 tags: ["art-sistance", "festival", "Gerusalemme", "musrara", "quartiere"]
+thumbnail: "img_8116.jpg"
 ---
 
 Bene, chiarito che finché qui fuori non finisce la baraonda dormire sarà impossibile perché sento la musica di almeno tre concerti più quella dell'installazione video nel giardino accanto, tanto vale che provi a raccontare questo [Musrara Mix Festival ](http://www.musraramixfest.org.il/)che mi son trovata intorno.

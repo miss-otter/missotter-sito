@@ -3,6 +3,7 @@ title: "Chernobyl spiegata molto bene"
 date: 2020-12-27
 categories: ["NuoviArrivi"]
 tags: ["adam higginbotham", "centrale nucleare", "chernobyl", "disastro nucleare", "giornalismo", "giornalismo narrativo", "hbo", "mezzanotte a chernobyl", "midnight in chernobyl", "nucleare", "nucleare civile", "preghiera per chernobyl", "pripyat", "reattore numero 4", "Svetlana Aleksievi\u010d", "ulana khomyuk", "valeri legasov"]
+thumbnail: "midnight-in-chernobyl-9781501134630_xlg.jpg"
 ---
 
 ![](midnight-in-chernobyl-9781501134630_xlg.jpg)

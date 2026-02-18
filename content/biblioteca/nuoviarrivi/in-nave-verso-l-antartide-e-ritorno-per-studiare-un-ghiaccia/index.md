@@ -3,6 +3,7 @@ title: "In nave verso l’Antartide (e ritorno) per studiare un ghiacciaio"
 date: 2024-01-16
 categories: ["NuoviArrivi"]
 tags: ["anna crawford", "antartide", "baia di amundsen", "carolyn beeler", "donne in antartide", "Elizabeth Rush", "geofisica", "geologia", "GHC", "ghiacciaio", "International Thwaites glacier collaboration", "jeff goodell", "livello del mare", "nathaniel b palmer", "oceanografia", "pulitzer", "punta arenas", "rising", "rompighiaccio", "shackleton", "st. andrews university", "TARSAN", "terra del fuoco", "the quickening", "THOR", "thwaites"]
+thumbnail: "copertina.jpg"
 ---
 
 ![](copertina.jpg)

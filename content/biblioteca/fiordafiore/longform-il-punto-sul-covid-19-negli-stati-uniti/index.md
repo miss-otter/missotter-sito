@@ -3,6 +3,7 @@ title: "Longform - Il punto sul Covid-19 negli Stati Uniti"
 date: 2021-01-18
 categories: ["FiorDaFiore"]
 tags: ["barney graham", "bellevue hospital", "biontech", "coronavirus", "covid", "covid-19", "jason mclellan", "lawrence wright", "mers", "moderna", "mRNA", "nih", "pfizer", "rna messaggero", "rsv", "stati uniti", "the plague year", "USA", "vaccino"]
+thumbnail: "plague_year.jpg"
 ---
 
 ![](plague_year.jpg)

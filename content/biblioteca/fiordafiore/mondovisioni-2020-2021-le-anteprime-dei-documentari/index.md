@@ -3,6 +3,7 @@ title: "Mondovisioni 2020-2021 - le anteprime dei documentari"
 date: 2020-10-08
 categories: ["FiorDaFiore"]
 tags: ["documentari", "hong kong moments", "internazionale", "mondovisioni", "oeconomia", "reunited", "the fever", "we hold the line"]
+thumbnail: "mondovisioni.jpg"
 ---
 
 ![](mondovisioni.jpg)

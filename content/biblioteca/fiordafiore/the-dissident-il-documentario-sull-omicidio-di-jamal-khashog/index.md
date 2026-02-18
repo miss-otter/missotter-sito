@@ -3,6 +3,7 @@ title: "The Dissident – il documentario sull’omicidio di Jamal Khashoggi"
 date: 2021-03-03
 categories: ["FiorDaFiore"]
 tags: ["agn\u00e8s callamard", "arabia saudita", "bryan fogel", "documentario", "hatice cengiz", "icarus", "irfan fidan", "jamal khashoggi", "jeff bezos", "joe biden", "mbs", "miocinema", "netflix", "omicidio", "on demand", "primavere arabe", "sundance", "washington post"]
+thumbnail: "the_dissident.jpg"
 ---
 
 ![](the_dissident.jpg)

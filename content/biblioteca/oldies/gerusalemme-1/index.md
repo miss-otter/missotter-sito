@@ -3,6 +3,7 @@ title: "Gerusalemme /1"
 date: 2015-05-18
 categories: ["Oldies"]
 tags: ["Betlemme", "Gerusalemme", "murasha", "muro", "musrara", "rugelach", "sidro", "viaggio"]
+thumbnail: "jerusalem_garden2.jpg"
 ---
 
 ![](jerusalem_garden2.jpg)

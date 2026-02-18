@@ -3,6 +3,7 @@ title: "Rodolfo Walsh, Operazione massacro"
 date: 2020-11-16
 categories: ["VecchieGlorie"]
 tags: ["a sangue freddo", "carlos alberto lizaso", "desaparecidos", "desiderio fernandez suarez", "dittatura argentina", "enriqueta muniz", "esa mujer", "evita per\u00f3n", "francisco garibotti", "giornalismo narrativo", "horacio di chiano", "jose leon suarez", "juan carlos livraga", "juan jose valle", "julio troxler", "lettera aperta", "mario brion", "miguel angel giunta", "nicolas carranza", "norberto gavino", "operazione massacro", "quella donna", "reinaldo benavidez", "revista anfibia", "rodolfo walsh", "rogelio diaz", "tomas eloy martinez", "truman capote", "vicente damian rodriguez", "walsh"]
+thumbnail: "operazione_massacro_2.jpg"
 ---
 
 ![](operazione_massacro_2.jpg)

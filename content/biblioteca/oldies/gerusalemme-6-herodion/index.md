@@ -3,6 +3,7 @@ title: "Gerusalemme /6 - Herodion"
 date: 2015-05-30
 categories: ["Oldies"]
 tags: []
+thumbnail: "herodion9as.jpg"
 ---
 
 Lungo la strada che da Gerusalemme porta a Hebron, guardando in lontananza sulla sinistra, si scorge a tratti una montagna imponente dalla forma curiosa e del tutto atipica.

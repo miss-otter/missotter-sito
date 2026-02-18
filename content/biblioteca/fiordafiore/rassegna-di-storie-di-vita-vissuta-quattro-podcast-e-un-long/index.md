@@ -3,6 +3,7 @@ title: "Rassegna di storie di vita vissuta – quattro podcast e un longform (bo
 date: 2023-09-18
 categories: ["FiorDaFiore"]
 tags: ["addio a domani", "anna delvey", "anna sorokin", "argentina", "bolero havana", "carla vitantonio", "chora media", "corea del nord", "desaparecidos", "figlie", "inventing anna", "io ero il milanese", "jessica pressler", "julia garner", "longform", "lorenzo s", "mauro pescio", "myanmar swing", "netfilx", "new york magazine", "podcast", "pyongyang", "pyongyang blues", "rai play sound", "sabrina efionayi", "sara poma", "shonda rhimes", "storia del mio nome", "the cut", "una ragazza del novecento"]
+thumbnail: "storie_vere_canva.png"
 ---
 
 ![](storie_vere_canva.png)

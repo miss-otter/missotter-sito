@@ -177,3 +177,16 @@ footer {
 .category a:hover {
   background: #7a9580;
 }
+/* Immagini autori in Traduzioni - stile uniforme */
+.content img[src*="edited"],
+.content img[src*="byler"],
+.content img[src*="somaiya"],
+.content img[src*="mediavilla"],
+.content img[src*="hankir"],
+.content img[src*="altman"],
+.content img[src*="clare"] {
+  width: 200px;
+  height: auto;
+  filter: sepia(100%) hue-rotate(70deg) saturate(60%);
+  border-radius: 4px;
+}

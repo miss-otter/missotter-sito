@@ -3,6 +3,7 @@ title: "Tutto l’orrore dei campi di rieducazione dello Xinjiang nel resoconto 
 date: 2022-04-06
 categories: ["NuoviArrivi"]
 tags: ["add editore", "black mirror", "campi di rieducazione", "cina", "columbia global reports", "darren byler", "Gulbahar Haitiwaji", "in the camps", "leak", "panopticon", "podcast", "primo levi", "terror capitalism", "the intercept", "uiguri", "xinjiang"]
+thumbnail: "in_the_camps.png"
 ---
 
 ![](in_the_camps.png)

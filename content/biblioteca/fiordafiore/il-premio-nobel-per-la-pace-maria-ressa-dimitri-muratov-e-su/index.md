@@ -3,6 +3,7 @@ title: "Il premio Nobel per la pace – Maria Ressa, Dimitri Muratov e, sullo sf
 date: 2021-12-29
 categories: ["FiorDaFiore"]
 tags: ["anna politkovskaja", "cineagenzia", "dimitri muratov", "documentari", "eric bergkraut", "facebook", "festivaletteratura", "internazionale a Ferrara", "letter to anna", "marc wiese", "maria ressa", "masha novikova", "mondovisioni", "niklas elmehed", "nobel peace prize", "nobel per la pace", "novaja gazeta", "pagine nascoste", "seven years on the frontline", "social network", "we hold the line"]
+thumbnail: "ressa_muratov.jpg"
 ---
 
 ![](ressa_muratov.jpg)

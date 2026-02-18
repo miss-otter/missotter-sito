@@ -3,6 +3,7 @@ title: "I podcast finalisti ai dig awards 2024"
 date: 2024-09-29
 categories: ["FiorDaFiore"]
 tags: ["adolescenti problematici", "BBC asian network", "BBC sound", "bloodlines", "brazen", "canada", "Caravaggio", "CBC podcasts", "cina", "contrabbando", "cosa nostra", "daesh", "DIG", "DIG awards 2024", "emma lehman", "extradition", "gooned", "huseyn celil", "imara jones", "ISIS", "kevin young", "mafia", "orfani", "podcast", "poonam taneja", "raqqa", "simon willis", "Stato Islamico", "the anti-trans hate machine", "The professor", "translash podcasts", "troubled teens", "TTI", "TVO podcasts", "TVO Today", "uiguri", "vedove", "William Veres", "xinjiang", "yusuf zine"]
+thumbnail: "antitrans.png"
 ---
 
 Dal 18 al 22 settembre a Modena si è tenuta l’edizione 2024 del DIG festival, un appuntamento al quale avrei molto voluto partecipare. Purtroppo non ho potuto e mi dispiace di aver perso, oltre ai workshop e ai talk, l’occasione di vedere, se non tutti, molti dei film selezionati quest'anno. Si tratta generalmente di produzioni che non hanno una grande distribuzione, quindi le occasioni per vederli sono rare. Per consolarmi, ho ascoltato tutti i podcast finalisti (per chi volesse cimentarsi, li trovate [qui](https://dig-awards.org/news/podcast-finalisti-2024/)) e ve li presento. Sì, lo so, sarebbe stato più bello pubblicare il post prima delle premiazioni, creare un po’ di aspettativa e fare una figura migliore azzeccando il vincitore ma, ahimè, mi è mancato il tempo.   

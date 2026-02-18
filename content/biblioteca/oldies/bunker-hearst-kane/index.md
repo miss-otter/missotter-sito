@@ -3,6 +3,7 @@ title: "Bunker - Hearst - Kane"
 date: 2015-02-04
 categories: ["Oldies"]
 tags: ["Bunker", "Charles Foster Kane", "Citizen Kane", "Educazione di una canaglia", "Edward Bunker", "Hearst", "Hearst Castle", "Kublai Khan", "Louise Fazenda", "Marco Polo", "Orson Welles", "Quarto Potere", "Samuel Taylor Coleridge", "William Randolph Hearst", "Xanadu"]
+thumbnail: "mr-blue.jpg"
 ---
 
 Che cos’hanno in comune il più giovane detenuto nella storia del carcere di San Quintino, un ricchissimo magnate dell’editoria americana del secolo scorso e una delle pietre miliari della storia del cinema americano, se non addirittura mondiale?

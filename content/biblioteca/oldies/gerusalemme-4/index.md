@@ -3,6 +3,7 @@ title: "Gerusalemme /4"
 date: 2015-05-26
 categories: ["Oldies"]
 tags: ["armeni", "canti", "chiesa", "Gerusalemme", "messa", "San Giacomo"]
+thumbnail: "wpid-foto-1_1-jpg.jpeg"
 ---
 
 Venerdì pomeriggio.

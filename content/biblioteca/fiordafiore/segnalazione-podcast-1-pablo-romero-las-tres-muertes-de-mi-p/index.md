@@ -3,6 +3,7 @@ title: "Segnalazione podcast #1 – Pablo Romero – Las tres muertes de mi padr
 date: 2021-02-08
 categories: ["FiorDaFiore"]
 tags: ["el mundo", "ETA", "las tres muertes de mi padre", "pablo romero", "podcast", "podcast giornalistico", "podcast investigativo", "recensione", "spagnolo"]
+thumbnail: "image.png"
 ---
 
 Aggiungo finalmente alla mia raccolta una segnalazione audio.
