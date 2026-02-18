@@ -6,7 +6,6 @@ tags: ["6 agosto 1945", "a bell for adano", "barbara jean day", "bbc radio", "fr
 ---
 
 ![](copertina_newyorker_31081946.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2021/11/copertina_newyorker_31081946.jpg)
 
 Oggi per la raccolta “vecchieglorie” rispolvero un testo che ha lasciato in me un’impressione indelebile, sia per la materia trattata, a cui è impossibile restare indifferenti, sia per la qualità della scrittura. Parlo di ritorno alle origini perché questo testo – cui la facoltà di giornalismo della New York University ha attribuito [il primo posto fra i 100 migliori esempi di giornalismo americano del XX secolo](https://stephens.hosting.nyu.edu/Top%20100%20page.html) – rappresenta in qualche modo il capostipite del giornalismo narrativo.
 

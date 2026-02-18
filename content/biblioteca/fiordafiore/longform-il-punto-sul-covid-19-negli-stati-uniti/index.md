@@ -6,7 +6,6 @@ tags: ["barney graham", "bellevue hospital", "biontech", "coronavirus", "covid",
 ---
 
 ![](plague_year.jpg)
-](https://www.newyorker.com/magazine/2021/01/04/the-plague-year)
 
 Segnalo questo lunghissimo (la versione audio dura più di 3 ore) ma [imperdibile articolo](https://www.newyorker.com/magazine/2021/01/04/the-plague-year) che fa il punto su quasi un anno di pandemia da Covid-19 negli Stati Uniti.
 

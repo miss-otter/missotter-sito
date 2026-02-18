@@ -14,7 +14,6 @@ Se non sapete che cos’è potete leggere una spiegazione chiara [qui](https://w
 Dicevamo però che quando il benchmark è quello è difficile poi accontentarsi di un prodotto qualunque, sia nei contenuti che nella forma. Inizio le mie segnalazioni in tono minore, con un piccolo lavoro spagnolo che non è recentissimo e non è una superproduzione, ma ha lasciato in me un’impressione durevole. 
 
 ![](image.png)
-](https://missotter.wordpress.com/wp-content/uploads/2021/02/image.png)
 
 [Las tres muertes de mi padre
 [Di Pablo Romero

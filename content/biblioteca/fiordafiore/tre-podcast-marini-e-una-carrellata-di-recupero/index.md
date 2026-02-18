@@ -6,7 +6,6 @@ tags: ["andrea doria", "andy rocchelli", "archivio luce", "chora media", "corea 
 ---
 
 ![](marini.png)
-](https://missotter.wordpress.com/wp-content/uploads/2022/08/marini.png)
 
 Non mi sembra possibile, è dalla scorsa estate che non segnalo un podcast! Il tempo è volato e io sono stata molto egoista. Per farmi perdonare vi faccio una veloce carrellata dei miei ascolti degli ultimi mesi e poi, visto che molti di voi saranno al mare sotto un ombrellone, situazione ideale per gli ascolti, vi propongo tre podcast a soggetto “marino”, tre podcast che, ognuno a modo suo, parlano di navi.
 
@@ -17,7 +16,6 @@ Cominciamo (bene) proprio dall’inizio, ovvero da *[La volpe scapigliata](https
 Esaurita la lunghissima premessa, veniamo ai tre podcast che ho pensato di consigliarvi:
 
 ![](dito.jpg)
-](https://open.spotify.com/show/7r4owruhMrR2us6mAN7xDQ)
 
 [Il dito di Dio, voci dalla Concordia
 [Di Pablo Trincia
@@ -34,7 +32,6 @@ Leggevo in [un’intervista](https://www.culturamente.it/societa/pablo-trincia-p
 Io questo approccio lo patisco sempre un po’. Come, in Veleno, non avevo apprezzato la scelta di andare a cercare il “bambino zero” a trent’anni di distanza, praticamente braccandolo per strada, anche qui mi sembra che si faccia un passo di troppo. Certo, questo racconto ti fa entrare nella storia e toccare con mano quello che è successo, quanto tempo è durato, come ha stravolto gli animi di chi, sulla nave incagliata e pericolosamente inclinata, c’è rimasto molto a lungo. Ma a che prezzo? È davvero necessario usare la mano pesante? Vale la pena di andare a mettere il dito nella piaga e risvegliare i ricordi di chi ha sofferto? Se ne poteva fare a meno e raccontare comunque una storia avvincente? Me lo domando e lo domando a voi.
 
 ![](doria.jpg)
-](https://www.archivioluce.com/2022/06/27/la-ballata-dellandrea-doria/)
 
 [La ballata dell’Andrea Doria
 [Di Davide Savelli - voce narrante di Luca Bizzarri
@@ -49,7 +46,6 @@ Il podcast ci fa rivivere la storia del suo ultimo viaggio, durante il quale il 
 La vicenda è appassionante, la qualità sonora e la scrittura del podcast sono alte, Davide Savelli è un autore e regista di esperienza con alle spalle numerose produzioni audiovisive. Questo, se da un lato rende molto godibile la fruizione delle puntate, dall’altro perde un po’ di spontaneità, nel senso che sembra di ascoltare l’audio di un documentario alla tv e, contrariamente a ciò a cui molti podcast (del tipo che piace a me, perlomeno) ci hanno abituati, non c'è un autore in primo piano e non traspare nulla del lavoro di “costruzione” del podcast. L’effetto è ordinato, gradevole ma un po’ freddo. Nelle puntate si intervallano la voce narrante di Luca Bizzarri, che fa il suo lavoro egregiamente, le voci di qualche testimone e di alcuni esperti, ma il pregio principale sono naturalmente i fantastici materiali audio dell’epoca, recuperati dall’archivio Luce e montati con maestria.
 
 ![](pongsu.png)
-](https://www.theage.com.au/pong-su)
 
 [The Last Voyage of the Pong Su
 [Di Richard Baker

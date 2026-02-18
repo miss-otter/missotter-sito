@@ -13,15 +13,13 @@ Seduta su uno scalino nel cortile della chiesa di San Giacomo attendo pazienteme
 
 Il cortile è bello e ombroso, la pietra bianca domina qui come ovunque e l'ombra delle mura alte offre sollievo dalla calura, ma non è un luogo accogliente. Il pronao della chiesa è chiuso da una cancellata di ferro e ogni altra porta o andito che affaccia sul cortile porta la scritta "Private", "Do not enter" o "No visitors beyond this point". Alle tre si aprono i cancelli, nel cortile ormai si è radunata una piccola folla di turisti, molto più numerosi dei fedeli, a onor del vero. Prima di entrare, io che leggo sempre tutto e sono ligia alle regole, osservo il cartello posto accanto alla porta.
 
-![image](http://missotter.wordpress.com/wp-content/uploads/2015/05/wpid-foto-1_1-jpg.jpeg)
-](http://missotter.wordpress.com/wp-content/uploads/2015/05/wpid-foto-1_1-jpg.jpeg)
+![image](wpid-foto-1_1-jpg.jpeg)
 
 Ok, tutto abbastanza ragionevole, e il punto 5 in una città come questa è tutt'altro che scontato, ma vogliamo parlare dei punti 4b e 4c? Non ce la posso fare! E infatti la nonnina seduta sulla panca accanto a me, tutta vestita di nero, appena inizia la messa mi tocca bruscamente un ginocchio e mi fa segno di scavallare le gambe.
 
 La chiesa è buia, fresca e bella, la parte bassa delle pareti è coperta di piastrelle bianche a disegni blu che ricordano tanto le piastrelle del sud della Spagna o del Portogallo, la parte superiore è affrescata. Le panche corrono solo lungo le pareti o attorno alle colonne. Dal soffitto pendono decine di lampade d'argento col vetro colorato. Ecco l'unica foto che sono riuscita a rubare entrando.
 
-![image](http://missotter.wordpress.com/wp-content/uploads/2015/05/wpid-foto-2_1-jpg.jpeg)
-](http://missotter.wordpress.com/wp-content/uploads/2015/05/wpid-foto-2_1-jpg.jpeg)
+![image](wpid-foto-2_1-jpg.jpeg)
 
 La messa è breve, per fortuna, tutta cantata, ed è un andirivieni di pretini e pretoni più o meno sobriamente abbigliati, alcuni indossano un lungo mantello nero col cappuccio e una stola a motivi rossi e oro sulle spalle, sopra il mantello. Cantano quasi tutto il tempo, divisi in due gruppi. Non ho potuto fare altre fotografie, per via del divieto e dei rimproveri dei pretoni barbuti, ma di nascosto dalla nonnina sono riuscita a registrare un po' di canti. Se fate attenzione, oltre al tintinnare del turibolo, potete sentir cantare anche lei.
 

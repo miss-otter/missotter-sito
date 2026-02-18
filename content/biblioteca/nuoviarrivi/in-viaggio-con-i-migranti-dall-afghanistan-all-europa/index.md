@@ -6,7 +6,6 @@ tags: ["aeroporto di kabul", "afghanistan", "alavi", "atene", "diario di viaggio
 ---
 
 ![](copertina-1.png)
-](https://www.harpercollins.com/products/the-naked-dont-fear-the-water-matthieu-aikins?variant=39348715716642)
 
 [Matthieu Aikins
 [The Naked don't Fear the Water

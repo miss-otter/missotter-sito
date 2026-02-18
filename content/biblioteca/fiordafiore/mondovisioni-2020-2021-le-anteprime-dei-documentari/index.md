@@ -6,7 +6,6 @@ tags: ["documentari", "hong kong moments", "internazionale", "mondovisioni", "oe
 ---
 
 ![](mondovisioni.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2020/10/mondovisioni.jpg)
 
 Lo scorso fine settimana al festival di Internazionale a Ferrara ho visto cinque dei sei documentari presentati in anteprima nazionale all’interno della rassegna Mondovisioni, edizione 2020-2021. Dopo l’anteprima, la rassegna è partita per il tour nelle sale cinematografiche italiane, i film sono in proiezione in questi giorni a Roma, al Palazzo delle esposizioni e a Lugo di Romagna, il seguito della programmazione lo troverete via via aggiornato in [questa pagina](https://www.cineagenzia.it/progetti/mondovisioni-i-documentari-di-internazionale-2020-2021/).
 

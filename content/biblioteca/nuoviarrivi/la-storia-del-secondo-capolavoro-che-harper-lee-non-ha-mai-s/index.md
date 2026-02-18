@@ -6,7 +6,6 @@ tags: []
 ---
 
 ![](furious-hours-jkt.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2020/09/furious-hours-jkt.jpg)
 
 **[Casey Cep
 [FURIOUS HOURS

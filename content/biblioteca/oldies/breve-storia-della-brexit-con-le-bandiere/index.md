@@ -6,7 +6,6 @@ tags: []
 ---
 
 ![](collabblues_brexit_it.png)
-](https://missotter.wordpress.com/wp-content/uploads/2021/01/collabblues_brexit_it.png)
 
 Il genio che ha creato questa storia si chiama Collab blues (lo trovate su Twitter: [@Collabblues](https://twitter.com/Collabblues)), è un avvocato francese appassionato di storia il cui senso dell'umorismo gli vale il titolo di erede onorario dei Monty Python. Con questo spirito ha deciso di farsi beffe (che altro si poteva fare, d'altronde?) dei vicini d'oltremanica.
 

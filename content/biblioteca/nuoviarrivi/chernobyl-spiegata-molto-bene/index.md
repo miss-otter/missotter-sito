@@ -6,7 +6,6 @@ tags: ["adam higginbotham", "centrale nucleare", "chernobyl", "disastro nucleare
 ---
 
 ![](midnight-in-chernobyl-9781501134630_xlg.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2020/12/midnight-in-chernobyl-9781501134630_xlg.jpg)
 
 [Midnight in Chernobyl
 [The Untold Story of the World’s Greatest Nuclear Disaster

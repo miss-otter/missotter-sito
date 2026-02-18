@@ -6,7 +6,6 @@ tags: ["agn\u00e8s callamard", "arabia saudita", "bryan fogel", "documentario", 
 ---
 
 ![](the_dissident.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2021/03/the_dissident.jpg)
 
 Oggi vi segnalo un'opera di stretta attualità che ha (purtroppo) richiami diretti alla cronaca internazionale degli ultimi giorni. 
 

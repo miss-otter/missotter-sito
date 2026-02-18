@@ -35,6 +35,5 @@ Tutto lì? A quanto pare sì, si erano dimenticati di accenderlo prima che inizi
 Mi chiede se può offrirmi qualcosa, se voglio un bicchier d'acqua magari, ma io ho adocchiato la finestra e le chiedo se posso uscire sul balcone. Credo che sia una delle case con la vista migliore di tutta Gerusalemme. Non ho osato fare fotografie da lì, ma questa l'ho scattata poco dopo da una terrazza pubblica cinque o sei metri sotto quel balcone.
 
 ![foto 2 (1)](foto-2-1.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2015/05/foto-2-1.jpg)
 
 Non so se rende l'idea, dovete immaginarvi di allargarla a 180°, si vede tutto, tutta la città vecchia, la moschea di Al Aqsa, tutto il monte degli ulivi sullo sfondo, un delirio! Non me ne volevo più andare, avrei potuto restare lì a guardare il panorama per ore. Abbiamo chiacchierato amabilmente per un po', io, lei e la madre (che - poverina - ha una casa a due passi dalla Metropolitan Opera House di New York, Upper West Side Manhattan, tanto per capirsi), poi è arrivato il marito, e con lui l'ora di mettersi a tavola. Ho salutato e sono uscita, riprendendo la mia passeggiata per i vicoli bui della città vecchia.

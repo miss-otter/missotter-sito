@@ -6,7 +6,6 @@ tags: ["2015", "blacklivesmatter", "ferrara", "gary younge", "internazionale", "
 ---
 
 ![jose](jose.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2015/10/jose.jpg)
 
 Uno degli incontri più interessanti a cui ho assistito durante l’ultimo festival di Internazionale, all’inizio di ottobre, aveva come titolo *Stati Uniti. Il sogno incompiuto*, con riferimento non tanto al sogno americano, quanto al sogno nel sogno, quello di Martin Luther King, nel cinquantesimo anniversario, al cospetto di una stagione di violenze molto ben rappresentata in queste parole.
 

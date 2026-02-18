@@ -6,7 +6,6 @@ tags: ["Betlemme", "Gerusalemme", "murasha", "muro", "musrara", "rugelach", "sid
 ---
 
 ![](jerusalem_garden2.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2021/01/jerusalem_garden2.jpg)
 
 Per riassumere il viaggio con una frase potrei dire che son dovuta venire a Gerusalemme per fare una doccia calda e bere un bicchiere di sidro, dato che nessuna delle due cose ieri era disponibile a casa mia.
 

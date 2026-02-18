@@ -10,21 +10,21 @@ Miss Otter, ovvero la storia della mia passione per le lontre.
 Tutto è cominciato in qualche modo a mia insaputa, quando da ragazzina ascoltavo gli album dei Pink Floyd, iniziavo a masticare un po' di inglese e fantasticavo sul significato di certi titoli, soprattutto di questo:
 
 [caption id="attachment_14" align="aligncenter" width="750"]
-![Pink Floyd - The Piper at the Gates of Dawn](http://missotter.wordpress.com/wp-content/uploads/2013/05/pink-floyd-piper-at-the-gates-of-dawn-front.jpg?w=750)
-](http://missotter.wordpress.com/wp-content/uploads/2013/05/pink-floyd-piper-at-the-gates-of-dawn-front.jpg) Pink Floyd - The Piper at the Gates of Dawn[/caption]
+![Pink Floyd - The Piper at the Gates of Dawn](pink-floyd-piper-at-the-gates-of-dawn-front.jpg?w=750)
+ Pink Floyd - The Piper at the Gates of Dawn[/caption]
 
 L'epifania si è verificata all'università, quando per preparare la tesi di laurea ho iniziato a lavorare su questo libro:
 
 [caption id="attachment_16" align="aligncenter" width="386"]
-![Kenneth Grahame - The Wind in the Willows](http://missotter.wordpress.com/wp-content/uploads/2013/05/thewindinthewillows.jpg?w=644)
-](http://missotter.wordpress.com/wp-content/uploads/2013/05/thewindinthewillows.jpg) Kenneth Grahame - The Wind in the Willows[/caption]
+![Kenneth Grahame - The Wind in the Willows](thewindinthewillows.jpg?w=644)
+ Kenneth Grahame - The Wind in the Willows[/caption]
 
 Un libro per ragazzi, molto noto in Gran Bretagna, un po' come un Peter Pan, o un Pinocchio per noi, che racconta le avventure di una serie di animali di campagna: il rospo, il tasso, il topo, la talpa e, naturalmente, la lontra.
 Mi è capitato di leggerlo perché ho avuto il privilegio di occuparmi della sua traduzione italiana:
 
 [caption id="attachment_34" align="aligncenter" width="430"]
-![Beppe Fenoglio - Il vento nei salici](http://missotter.wordpress.com/wp-content/uploads/2013/05/ilventoneisalici.jpg?w=614)
-](http://missotter.wordpress.com/wp-content/uploads/2013/05/ilventoneisalici.jpg) Beppe Fenoglio - Il vento nei salici[/caption]
+![Beppe Fenoglio - Il vento nei salici](ilventoneisalici.jpg?w=614)
+ Beppe Fenoglio - Il vento nei salici[/caption]
 
 Già, l'amato Fenoglio. Tutta colpa sua, perché il settimo capitolo del libro è intitolato "Il pifferaro alle soglie dell'alba", un titolo davvero troppo singolare per non destare sospetti. E infatti è traduzione di "The Piper at the Gates of Dawn", capitolo in cui il topo e la talpa, accorsi in aiuto della lontra che aveva smarrito un cucciolo, lo ritrovano assopito fra gli zoccoli nientemeno che del dio Pan. The Piper.
 
@@ -35,5 +35,4 @@ Altre apparizioni delle magnifiche bestiole in Italia sono rare, se ne trovano
 Per giunta sono difficili da vedere, perché sovente hanno a disposizione spazi molto ampi, e si muovono e si mostrano (neppure sempre) solo in certi orari, che spesso non coincidono con quelli di visita. Ma a me piacciono le missioni impossibili, quindi persevero. Inutile dire che sono stata in tutti e tre i posti, e nei primi due ho visto solo della gran vegetazione. Nel terzo invece..
 
  
-![Lontra affamata](http://missotter.wordpress.com/wp-content/uploads/2013/05/dscf5167.jpg?w=750)
-](http://missotter.wordpress.com/wp-content/uploads/2013/05/dscf5167.jpg)
+![Lontra affamata](dscf5167.jpg?w=750)

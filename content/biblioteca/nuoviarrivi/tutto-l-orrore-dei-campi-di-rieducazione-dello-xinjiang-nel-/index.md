@@ -6,7 +6,6 @@ tags: ["add editore", "black mirror", "campi di rieducazione", "cina", "columbia
 ---
 
 ![](in_the_camps.png)
-](https://globalreports.columbia.edu/books/in-the-camps/)
 
 D[arren Byler
 [In the Camps - China’s High-Tech Penal Colony

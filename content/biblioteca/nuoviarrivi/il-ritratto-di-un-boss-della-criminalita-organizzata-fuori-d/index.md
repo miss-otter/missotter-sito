@@ -6,7 +6,6 @@ tags: ["armi", "bitcoin", "cocaina", "criminalit\u00e0 organizzata", "dea", "eva
 ---
 
 ![](mastermind.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2020/11/mastermind.jpg)
 
 [Evan Ratliff
 [THE MASTERMIND

@@ -6,7 +6,6 @@ tags: ["annalisa camilli", "bolzaneto", "diaz", "g8", "genoa social forum", "gen
 ---
 
 ![](genova_collage_orizzontale.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2021/08/genova_collage_orizzontale.jpg)
 
 In questa calda estate che scivola verso la conclusione, fra i miei consumi culturali ci sono stati più podcast che libri, forse perché ho avuto davvero poco tempo per starmene seduta a leggere sotto l’ombrellone. Continuo quindi con le segnalazioni di podcast e in particolare con tre produzioni italiane uscite in occasione del ventesimo anniversario del G8 di Genova.
 

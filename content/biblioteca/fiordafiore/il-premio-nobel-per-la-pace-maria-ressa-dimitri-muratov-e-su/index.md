@@ -6,7 +6,6 @@ tags: ["anna politkovskaja", "cineagenzia", "dimitri muratov", "documentari", "e
 ---
 
 ![](ressa_muratov.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2021/12/ressa_muratov.jpg)
 
 Parlando spesso, come è mia abitudine, di giornalismo, mi sembra giusto dedicare un post al premio Nobel per la pace che quest’anno è stato assegnato a due giornalisti, con questa motivazione: “per il loro impegno nella salvaguardia della libertà di espressione, condizione necessaria per la democrazia e per una pace durevole”. Il premio è stato assegnato a Maria Ressa e Dimitri Muratov in rappresentanza di “tutti i giornalisti che si battono per la libertà di espressione in un mondo in cui la democrazia e la libertà di stampa si confrontano con condizioni sempre più difficili”.
 

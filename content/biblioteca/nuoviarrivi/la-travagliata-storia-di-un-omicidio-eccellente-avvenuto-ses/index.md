@@ -6,7 +6,6 @@ tags: ["17 settembre 1961", "cold case", "cold case Hammarskj\u00f6ld", "congo",
 ---
 
 ![](golden_thread.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2021/05/golden_thread.jpg)
 
 [Ravi Somaiya
 [The Golden Thread - The Cold War Mystery Surrounding the Death of Dag Hammarskjöld

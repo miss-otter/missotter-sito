@@ -5,7 +5,7 @@ categories: []
 tags: []
 ---
 
-![](https://missotter.wordpress.com/wp-content/uploads/2020/09/biblioteca_cesena.jpg)
+![](biblioteca_cesena.jpg)
 
 # 
 

@@ -12,7 +12,6 @@ La mia selezione, come sempre ristretta all’ambito giornalistico, si limita a 
 I primi due podcast che segnalo sono a mio parere riusciti solo fino a un certo punto, ma destano comunque un certo interesse.
 
 ![](image.png)
-](https://missotter.wordpress.com/wp-content/uploads/2021/04/image.png)
 
 [La piena, il meccanico dei narcos
 [Di Matteo Caccia e Mauro Pescio
@@ -27,7 +26,6 @@ Le mie perplessità nascono dal fatto che la storia è tutta sbilanciata, senza 
 *            *            *
 
 ![](image-1.png)
-](https://missotter.wordpress.com/wp-content/uploads/2021/04/image-1.png)
 
 [Polvere – Il caso Marta Russo
 [Di Chiara Lalli e Cecilia Sala
@@ -42,7 +40,6 @@ Le premesse per un bel lavoro ci sono tutte. La storia, che ebbe all’epoca gra
 *            *            *
 
 ![](image-2.png)
-](https://missotter.wordpress.com/wp-content/uploads/2021/04/image-2.png)
 
 [Witness DOCS - Verified
 [Di IRPI & Natasha Del Toro
@@ -59,7 +56,6 @@ La scelta dei giornalisti di Irpi, forse a rimarcare la dimensione internazional
 *            *            *
 
 ![](image-3.png)
-](https://missotter.wordpress.com/wp-content/uploads/2021/04/image-3.png)
 
 [121269 – Inchiesta su Piazza Fontana
 [Di Alberto Nerazzini e Andrea Sceresini

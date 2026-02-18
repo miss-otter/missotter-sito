@@ -8,7 +8,6 @@ tags: []
 Lungo la strada che da Gerusalemme porta a Hebron, guardando in lontananza sulla sinistra, si scorge a tratti una montagna imponente dalla forma curiosa e del tutto atipica.
 
 ![herodion9as](herodion9as.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2015/05/herodion9as.jpg)
 
 Cosa ci fa un vulcano in mezzo al deserto di Giuda? Semplice: non è un vulcano! Questo tronco di cono è opera dell'uomo, opera antica, e se guardate bene la foto noterete che la collina di sinistra è stranamente piatta. Fatto due più due, la risposta è che qualcuno ha preso la terra da una parte e l'ha messa dall'altra.
 

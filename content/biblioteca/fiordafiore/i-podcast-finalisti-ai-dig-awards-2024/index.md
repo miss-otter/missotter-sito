@@ -12,7 +12,6 @@ I podcast sono cinque, tutti in lingua inglese: una produzione è canadese, due 
 Iniziamo dagli ultimi due, che ho trovato molto interessanti.
 
 ![](antitrans.png)
-](https://missotter.wordpress.com/wp-content/uploads/2024/09/antitrans.png)
 
 The anti-trans hate machine
 Di Imara Jones e Oliver Ash Kleine
@@ -23,7 +22,6 @@ Stati Uniti, 2021-2023
 Il podcast prende avvio dal fatto che diversi stati americani, sulla spinta della necessità di “proteggere” i giovani transessuali, hanno promulgato leggi che di fatto ostacolano o impediscono l’accesso a terapie e interventi. Cercando di capire la ragione di tanta sensibilità al tema e di tanto zelo legislativo, gli autori ne individuano l’origine in una massiccia campagna di disinformazione orchestrata da ricchi e influenti esponenti della destra americana. La dimensione del fenomeno descritto è impressionante, così come il suo impatto sui media e, di conseguenza, sull’opinione pubblica. Scopo della serie, articolata per il momento su due stagioni (2021-2023), e dei suoi protagonisti è da un lato cercare di interloquire con i legislatori per cambiare il loro approccio alla questione attraverso la conoscenza dei problemi reali che i giovani transessuali e le loro famiglie si trovano ad affrontare, dall’altro sorvegliare sul modo in cui i media mainstream affrontano queste tematiche e richiamarli alla deontologia professionale e alla necessaria imparzialità. Un compito sociale ammirevole, ben descritto in questo lavoro che, a mio parere, offre numerosissimi spunti di riflessione soprattutto a chi da queste tematiche, per vissuto ed esperienze, è piuttosto lontano. Segnalo in particolare, data la mia passione per il giornalismo, l’episodio che riguarda il New York Times (S2E5).
 
 ![](gooned.png)
-](https://missotter.wordpress.com/wp-content/uploads/2024/09/gooned.png)
 
 Gooned
 Di Emma Lehman
@@ -36,7 +34,6 @@ Il secondo podcast, che ha sempre come sfondo gli Stati Uniti e, anche in questo
 Veniamo ora a due dei tre podcast investigativi.
 
 ![](theprofessor.png)
-](https://missotter.wordpress.com/wp-content/uploads/2024/09/theprofessor.png)
 
 The professor
 Di Simon Willis
@@ -47,7 +44,6 @@ Regno Unito, novembre 2023
 Vi dico subito che questa storia, pur narrata con una certa eleganza, mi è sembrata parecchio strampalata; oltretutto, finisce un po’ in niente. Chissà, forse l’autore si aspettava un finale diverso e, quando si è reso conto che il risultato non sarebbe stato quello sperato, considerato il tempo già dedicato al progetto, ha deciso comunque di produrre il podcast. Racconta la storia di William Veres, noto collezionista e mercante d’arte britannico (per dire, il suo nome figura nei database del British Museum), arrestato con l’accusa di contrabbando di opere d’arte e antichità, riciclaggio di denaro, falsificazione, frode telematica e associazione a delinquere in collusione con la criminalità organizzata italiana. Veres ha deciso di provare a offrire qualcosa alle autorità giudiziarie in cambio della propria libertà, o almeno di uno sconto di pena: vuole contribuire a ritrovare, grazie ai suoi molti contatti più o meno leciti, la *Natività con i Santi Lorenzo e Francesco d'Assisi*, olio su tela di Caravaggio trafugato nell’ottobre 1969 dall’Oratorio di San Lorenzo a Palermo, e da allora mai più ritrovato. Il dipinto ha oggi un valore esorbitante ed è stato inserito dall’FBI nella lista dei 10 più importanti capolavori rubati al mondo. La vicenda, che Simon Willis segue passo passo, si dipana fra strani incontri, telefonate reticenti e appuntamenti misteriosi con personaggi equivoci, in una zona grigia in cui è essenziale non fidarsi di nessuno. Nemmeno questa precauzione basterà però per evitare vistose fregature e riuscire nell’intento. Un particolare che mi ha infastidita, ma credo fosse inevitabile, è sentire raccontare alcuni degli aspetti meno lusinghieri del nostro paese da un osservatore straniero, con diversi ammiccamenti, un tocco un po' troppo romanzesco e qualche superficialità.
 
 ![](extradition.png)
-](https://missotter.wordpress.com/wp-content/uploads/2024/09/extradition.png)
 
 Extradition
 Di Yusuf Zine, Kevin Young
@@ -58,7 +54,6 @@ Canada, aprile-maggio 2024
 Prodotto dalla canadese TVO Today, questo podcast parla di Huseyn Celil, un uiguro con cittadinanza canadese che, rientrato in Uzbekistan per fare visita alla famiglia, è stato arrestato ed estradato in Cina, dove è stato rinchiuso in uno dei terribili campi di rieducazione dello Xingjang.  Il podcast torna sulla vicenda a più di quindici anni di distanza e cerca di far luce sulla sorte di Celil e sulla sua effettiva permanenza in vita. Da un lato il conduttore si rivolge alle autorità canadesi – accusate di non aver fatto pressioni sufficienti per ottenere il rilascio dell’uomo, probabilmente anche a causa dei molti interessi commerciali fra i due paesi - dall’altro cerca di ottenere informazioni dalla Cina, contattando attivisti uiguri in esilio, familiari di Celil ancora residenti nel paese e addirittura (dopo aver preso, con l’aiuto di un esperto, molte e laboriose precauzioni per evitare che si possa risalire alla sua identità) telefonando direttamente alla struttura carceraria nella quale si ritiene che l’uomo sia tuttora recluso, nella speranza di impietosire qualche secondino e convincerlo a rivelare informazioni utili. Il tema è scottante, la causa ottima, ma la sensazione che mi ha trasmesso è quella di un racconto un po’ claustrofobico: la maggior parte dell’indagine si svolge per telefono e i risultati che ottiene non sono, a mio parere, messi adeguatamente in risalto.
 
 ![](bloodlines.png)
-](https://missotter.wordpress.com/wp-content/uploads/2024/09/bloodlines.png)
 
 Bloodlines
 Di Poonam Taneja

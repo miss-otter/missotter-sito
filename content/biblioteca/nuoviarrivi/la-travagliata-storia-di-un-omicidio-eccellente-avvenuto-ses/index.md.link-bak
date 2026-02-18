@@ -1,0 +1,34 @@
+---
+title: "La travagliata storia di un omicidio eccellente avvenuto sessant’anni fa e tuttora irrisolto"
+date: 2021-05-11
+categories: ["NuoviArrivi"]
+tags: ["17 settembre 1961", "cold case", "cold case Hammarskj\u00f6ld", "congo", "Dag Hammarskj\u00f6ld", "documentario", "mads brugger", "mohamed chande othman", "nazioni unite", "nobel peace prize", "nobel per la pace", "ONU", "operazione celeste", "ravi somaiya", "saimr", "sundance", "the golden thread"]
+---
+
+![](golden_thread.jpg)
+](https://missotter.wordpress.com/wp-content/uploads/2021/05/golden_thread.jpg)
+
+[Ravi Somaiya
+[The Golden Thread - The Cold War Mystery Surrounding the Death of Dag Hammarskjöld
+[New York, Twelve, luglio 2020](https://www.twelvebooks.com/titles/ravi-somaiya/the-golden-thread/9781455536535/)
+
+**«Hammarskjöld stava per ottenere qualcosa quando l’hanno ucciso. Notate bene, ho detto “l’hanno ucciso”.»**
+Harry Truman, ex presidente degli Stati Uniti, Kansas City, 18 settembre 1961
+
+Iniziamo col botto: se un ex presidente degli Stati Uniti si lascia andare a una dichiarazione pubblica tanto pesante, ci dev’essere sotto qualcosa di molto grosso. In questo paese siamo purtroppo abituati ai misteri irrisolti, al punto che molti sono ormai diventati parte della nostra storia, ma non è detto che al di là dei confini nazionali le cose vadano molto meglio.
+
+Dag Hammarskjöld era uno svedese illustre. È stato segretario generale delle Nazioni Unite per due mandati, dal 1953 al 1961, durante un periodo storico complesso come quello della guerra fredda. Era una figura atipica per quel mondo: un letterato, un poeta e un amante della natura, animato da un forte idealismo. Aveva però anche grandi doti come negoziatore ed era dotato di una straordinaria capacità di leggere le persone.
+
+L’Accademia reale svedese delle scienze ha universalmente riconosciuto il suo impegno per la pace conferendogli il premio Nobel (l’unico postumo nella storia del premio) pochi mesi dopo la sua morte.
+
+Hammarskjöld è morto in Congo la notte del 17 settembre del 1961: l’aereo su cui viaggiava è precipitato durante la manovra di atterraggio. L’ipotesi dell’incidente aereo non ha mai convinto nessuno ma, sebbene siano passati quasi sessant’anni, i responsabili di quel crimine non sono mai stati individuati.
+
+Questo libro prima porta il lettore sulla scena con un excursus storico sulle travagliate vicende del Congo negli anni delle lotte per l’indipendenza dal Belgio, poi traccia un profilo di Dag Hammarskjöld e passa in rassegna le principali personalità attive sulla scena all’epoca della tragedia (politici congolesi, rappresentanti diplomatici di molte nazioni, industriali con interessi nel paese, funzionari dei servizi segreti e così via). Si dedica poi a una ricostruzione dettagliata degli eventi che hanno portato all’incidente aereo e a un’analisi puntuale delle numerose inchieste che si sono succedute nel corso degli anni, da quelle promosse dalle Nazioni Unite fino a quelle portate avanti a vario titolo da privati cittadini. Dà conto anche delle voci più improbabili circolate in merito all’accaduto, senza tralasciare di aggiornare, alla luce di nuove prove e di documenti recentemente desegretati, sugli sviluppi più recenti del caso.
+
+Se le premesse fanno immaginare un saggio ponderoso e zeppo di note, il libro, al contrario, è scorrevole e avvincente come un thriller storico. È pieno di colpi di scena e ospita una rassegna di cattivi degna di un romanzo di Agatha Christie (mercenari senza scrupoli, suprematisti bianchi, spie russe…), il tutto arricchito da una grazia e un’ironia che l’autore sembra aver ereditato dallo sfortunato protagonista della storia.
+
+Le indagini su questo omicidio eccellente non si sono mai fermate. Il [giudice tanzaniano Mohamed Chande Othman](http://www.hammarskjoldinquiry.info/pdf/ham_245_Final_UN_report_071019.pdf) (che, fra le numerose importanti cariche ricoperte, è stato pubblico ministero presso il tribunale penale internazionale di Arusha nel processo sul genocidio in Ruanda) è a capo della commissione di esperti indipendenti delle Nazioni Unite incaricata di indagare sulla vicenda. Nel settembre del 2019 la commissione ha concluso la seconda indagine (la prima è stata condotta fra il 2015 e il 2017) e nel dicembre dello stesso anno ha ottenuto un nuovo mandato per continuare l’inchiesta, ulteriormente prorogata di un anno lo scorso dicembre. Le Nazioni Unite hanno recentemente rivolto accorati inviti ai governi di diversi paesi (in particolare Stati Uniti, Regno Unito, Belgio, Francia, Germania e Sudafrica) perché nominino al proprio interno dei commissari indipendenti che provvedano a cercare, analizzare e rendere pubblici tutti i documenti relativi al caso ancora coperti da segreto. Lo sviluppo più recente è arrivato la scorsa primavera dal governo del Sudafrica che, sollecitato da articoli poco lusinghieri apparsi sulla stampa, ha ribadito la propria completa disponibilità a collaborare all’indagine della commissione ONU, e ha promesso di riprendere la ricerca dei documenti mancanti (aggiornamenti dettagliati sulle indagini si trovano [qui](http://WWW.HAMMARSKJOLDINQUIRY.INFO/) e [qui](https://WWW.DAGHAMMARSKJOLD.SE/DAG-HAMMARSKJOLD/DEATH-DAG-HAMMARSKJOLD/).
+
+Nel 2019 anche il cinema si è occupato della vicenda, con [Cold Case Hammarskjöld](https://www.dfi.dk/en/viden-om-film/filmdatabasen/film/cold-case-hammarskjold), un documentario con cui il regista danese Mads Brugger ([qui una sua intervista](https://multimedia.europarl.europa.eu/en/lux-prize-2019-interview-brugger-cold-case-hammarskjold_I180758-V_v)) si è aggiudicato il premio per la migliore regia al Sundance festival. Brugger, con lo stile eccentrico che gli è tipico, ha approfondito un particolare filone dell’indagine, legato ad alcune carte emerse in maniera del tutto casuale durante i lavori della *Commissione sudafricana per la verità e la riconciliazione* e concernenti una misteriosissima istituzione, il *South African Institute for Maritime Research*, e una altrettanto misteriosa attività denominata “Operazione Celeste”. La rilevanza dei fatti che sono emersi durante la lavorazione del film ha portato i funzionari ONU a interrogare nuovi testimoni. 
+
+Se nel corso dei decenni si è riusciti a mantenere viva l’attenzione sulla vicenda e ad avvicinarsi gradualmente alla verità, lo si deve alla pervicacia di pochi ostinati, pervicacia che meriterebbe di essere finalmente premiata. Ormai è universalmente riconosciuto che non si è trattato di un incidente e ora che i protagonisti della vicenda sono quasi tutti morti e non c’è il rischio, rivelando un segreto, di compromettere qualcuno, le speranze maggiori sono riposte negli archivi delle agenzie di intelligence di alcuni paesi, che potrebbero conservare ancora molte informazioni preziose.

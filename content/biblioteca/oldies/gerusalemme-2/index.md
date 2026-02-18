@@ -23,11 +23,9 @@ Eccoci qua, la seconda settimana è iniziata. Durante il weekend lungo sono rima
 Son tornata a scuola, dicevo, e sono stata premiata dalla fortuna. Vi ho detto della mia preferenza per il professore, ebbene: Nadia, l'altra insegnante, giovedì discuterà la tesi del suo master, quindi le faceva molto comodo avere un po' di tempo libero per prepararsi in questi giorni. Mi hanno chiesto se mi sarebbe dispiaciuto fare lezione per tutta la settimana solo col professore, e io ho magnanimamente acconsentito.
 Quindi da ieri siamo io e lui. È pesante, perché va veloce e non mi dà tregua, ma continua a piacermi molto. Oltretutto quando scrive alla lavagna non riesco a leggere la sua grafia, lui insiste nel dire che è tale e quale a quella dei libri ma non è vero! Giudicate voi.
 
-![image](http://missotter.wordpress.com/wp-content/uploads/2015/05/wpid-foto-3_2-jpg.jpeg)
-](http://missotter.wordpress.com/wp-content/uploads/2015/05/wpid-foto-3_2-jpg.jpeg)
+![image](wpid-foto-3_2-jpg.jpeg)
 
 Gli accordi ora funzionano così: lui porta biscotti e io porto parole. La settimana scorsa gli ho regalato un tocco di esotismo con "camallo" e "fondaco" e il sapore di repubbliche marinare che si portano dietro, e un po' di profumi deliziosi con "limone" e "zagara". Oggi è stato il turno di "divano", che inevitabilmente ci ha portati a divagare di scoperta in scoperta verso "sofà" e "canapé".
 Abbiamo anche, per gentile concessione, una foto del professore in tutta la sua magnificenza. Io non so se avrei osato chiedergli il permesso di fargli una foto, ma dato che ieri è stato lui a prendere il telefono e fotografarmi, dicendo "I want to remember you", ho colto la palla al balzo! E così ho scoperto un altro uomo terribilmente vanitoso: prima che gli facessi la foto ha voluto togliere gli occhiali, e dopo ha voluto controllare il risultato. Quindi ho sia il consenso che l'approvazione di Mikhail (ora sappiamo anche il nome, che non è arabo perché lui è un cristiano di fede greca ortodossa).
 
-![image](http://missotter.wordpress.com/wp-content/uploads/2015/05/wpid-foto-4-jpg2.jpeg)
-](http://missotter.wordpress.com/wp-content/uploads/2015/05/wpid-foto-4-jpg2.jpeg)
+![image](wpid-foto-4-jpg2.jpeg)

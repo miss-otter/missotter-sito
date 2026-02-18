@@ -6,7 +6,6 @@ tags: ["a sangue freddo", "carlos alberto lizaso", "desaparecidos", "desiderio f
 ---
 
 ![](operazione_massacro_2.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2020/11/operazione_massacro_2.jpg)
 
 [Rodolfo Walsh
 [Operazione massacro

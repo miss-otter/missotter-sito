@@ -6,7 +6,6 @@ tags: ["anna crawford", "antartide", "baia di amundsen", "carolyn beeler", "donn
 ---
 
 ![](copertina.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2024/01/copertina.jpg)
 
 Inizio l’anno con una nuova proposta dalle mie letture recenti. È ancora un resoconto di viaggio, ma molto diverso dal precedente: siamo su un nave rompighiaccio che, partita da Punta Arenas, nella Terra del Fuoco cilena, solca l’oceano in direzione della baia di Amundsen, in Antartide, dove si fermerà al cospetto di un ghiacciaio colossale. Ma partiamo dall’inizio.
 

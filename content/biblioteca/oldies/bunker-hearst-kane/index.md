@@ -13,7 +13,7 @@ Un castello e una piscina.
 
 [caption id="attachment_212" align="aligncenter" width="660"]
 ![Edward Bunker nel ruolo di Mr. Blue, il suo cameo ne Le iene di Quentin Tarantino.](mr-blue.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2015/02/mr-blue.jpg) Edward Bunker nel ruolo di Mr. Blue, una delle iene di Tarantino. Un cameo autoironico.[/caption]
+ Edward Bunker nel ruolo di Mr. Blue, una delle iene di Tarantino. Un cameo autoironico.[/caption]
 
 Per metà della sua vita Bunker è stato uno sbandato, un delinquente di piccolo calibro, dentro e fuori di continuo dalle prigioni californiane, nella seconda metà lo troviamo trasformato in scrittore, sceneggiatore e attore. La metamorfosi avviene attraverso uno spazio di transizione, il carcere, in cui Bunker trascorrerà, sommando i vari periodi di detenzione, ben diciotto anni della sua vita. Anni durante i quali non smetterà mai di leggere, di studiare e - da un certo momento in poi - di scrivere.  Il punto di svolta è la pubblicazione, nel 1973, del suo primo romanzo, di cui Dustin Hoffman comprerà i diritti per fare un film, *Vigilato speciale*. Non sarà l'unico dei suoi libri a essere portato sul grande schermo, e due anni dopo Bunker uscirà per l'ennesima volta di galera, per non tornarci mai più.
 
@@ -21,19 +21,19 @@ Ci fu nella vita di Bunker un incontro fortunato con una donna speciale: Louise 
 
 [caption id="attachment_211" align="aligncenter" width="454"]
 ![Louise Fazenza](louise-fazenda.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2015/02/louise-fazenda.jpg) Louise Fazenza[/caption]
+ Louise Fazenza[/caption]
 
 C’è un passo nella biografia di Edward Bunker che non ho mai dimenticato, è la descrizione di un luogo favoloso. Bunker accompagna Mrs. Wallis all’Hearst Castle di San Simeon, la sontuosa residenza che [Wiliam Randolph Hearst](http://it.wikipedia.org/wiki/William_Randolph_Hearst) fece costruire negli anni '20 su un’altura prospiciente la costa della California centrale.
 
 [caption id="attachment_210" align="aligncenter" width="660"]
 ![Veduta aerea dell'Hearst Castle](hearst-castle-san-simeon.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2015/02/hearst-castle-san-simeon.jpg) Veduta aerea dell'Hearst Castle[/caption]
+ Veduta aerea dell'Hearst Castle[/caption]
 
 Louise Wallis era molto amica di Marion Davies, l’amante di Hearst, anche lei fulgida stella del cinema muto, e proprio in virtù di questa amicizia aveva accesso al castello di Hearst anche in assenza del padrone di casa.
 
 [caption id="attachment_220" align="aligncenter" width="434"]
 ![William Randolph Hearst con Marion Davies](hearst-davies.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2015/02/hearst-davies.jpg) William Randolph Hearst con Marion Davies[/caption]
+ William Randolph Hearst con Marion Davies[/caption]
 
 Bunker e Mrs Wallis trascorrono qualche ora a San Simeon e lui descrive così un bagno solitario nella Neptune pool, la strabiliante piscina scoperta del castello (non che quella coperta fosse da meno).
 Barefoot and shirtless and carrying a towel, I went outside. It was magic hour, that time when dusk smooths all the world’s wrinkles and blemishes. Everything seemed hushed and there was a feeling of enchantment. Gone were the weighted heat and the squinting glare. The softer light brought forth the luster of the marble. There was an evening breeze just beginning; roses, red and yellow, danced in it. Jasmine was already making perfume in the air. Ever since that day the scent of Jasmine has called up my memory of San Simeon.
@@ -55,7 +55,7 @@ In meno di due minuti e senza bisogno di parole Welles ci trasmette tutta l’es
 
 [caption id="attachment_215" align="aligncenter" width="660"]
 ![Il castello di Charles Foster Kane in Quarto Potere di Orson Welles](xanadu.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2015/02/xanadu.jpg) Il castello di Charles Foster Kane in Quarto Potere di Orson Welles[/caption]
+ Il castello di Charles Foster Kane in Quarto Potere di Orson Welles[/caption]
 
 In una sequenza successiva, non meno famosa, il cinegiornale *News on the March* annuncia la morte di Kane e ne descrive la dimora con grande enfasi e dovizia di particolari, paragonandola a Xanadu, il leggendario castello di Kublai Khan che Marco Polo nel Milione ricordava così:
 (...) una cittade ch’è chiamata Giandu, la quale fee fare lo Grande Kane che regna, Coblai Kane. E àe fatto fare in questa città uno palagio di marmo e d’altre ricche pietre; le sale e le camere sono tutte dorate e è molto bellissimo marivigliosamente. E atorno a questo palagio è uno muro ch’è grande 15 miglia, e quivi àe fiumi e fontane e prati assai. E quivi tiene lo Grande Kane di molte fatte bestie, cioè cerbi, dani e cavriuoli, per dare mangiare a’ gerfalchi e a’ falconi ch’egli tiene in muda: in quello lugo egli v’à bene 200 gerfalchi. Egli medesimo vuole andare bene una volta ogne settimana (a vedere). E piú volte quando ’l Grande Kane vae per questo prato murato, porta uno leopardo in sulla groppa del cavallo; e quando egli vuole fare pigliare alcuna di queste bestie, lascia andare lo leopardo, e ’l leopardo la piglia e falla dare agli suoi gerfalchi ch’egli tiene in muda; e questo fae per suo diletto.
@@ -78,7 +78,6 @@ Fra queste due sequenze è incastonata quella - celeberrima - della morte di Kan
 Hearst, quello vero, però non è morto come Welles fa morire Kane. Non è nemmeno morto a San Simeon, ma in un'altrettanto magnifica villa di Beverly Hills in cui si era trasferito in seguito al progressivo aggravarsi della malattia. E nelle stesse ore in cui il vecchio miliardario prendeva congedo dalla vita, a mollo nella piscina del Nettuno a godersi lo spettacolo magnifico del sole che tramonta nell'Oceano Pacifico c’era proprio lui, il miserabile ladruncolo: Edward Bunker.
 
 ![Neptune Pool sunset](neptune-pool-sunset.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2015/02/neptune-pool-sunset.jpg)
 
 ______
 

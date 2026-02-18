@@ -6,7 +6,6 @@ tags: ["ben westhoff", "cina", "dipendenza da oppioidi", "droga", "fentanil", "f
 ---
 
 ![](fentanyl.jpg)
-](https://missotter.wordpress.com/wp-content/uploads/2020/10/fentanyl.jpg)
 
 [Ben Westhoff
 [FENTANYL, INC.
@@ -48,7 +47,7 @@ Lo scorso giugno Ben Westhoff ha iniziato a produrre e distribuire la newsletter
 (Fonte: https://benwesthoff.substack.com/p/ask-a-fentanyl-saleswoman)
 
 ![](image.png)
-](https://missotter.wordpress.com/wp-content/uploads/2020/10/image.png)Il reparto vendite della Yuancheng
+Il reparto vendite della Yuancheng
 
 Per capire meglio il commercio delle nuove sostanze psicoattive, nel 2017 mi sono messo in contatto con diversi produttori e distributori cinesi. Non è stato difficile, le informazioni di contatto si trovano sui loro siti. Mi sono concentrato su quelli che vendono i precursori del fentanil, gli ingredienti indispensabili per la sua produzione. I cartelli messicani ne comprano grandi quantità e poi producono in casa il fentanil che vendono negli Stati Uniti. Partendo dai precursori, il processo è molto semplice.
 
@@ -203,7 +202,6 @@ Ok, domani ti mando il certificato di autenticità. Buona giornata.
 Mindy: ecco il certificato di autenticità.
 
 ![](image-3.png)
-](https://missotter.wordpress.com/wp-content/uploads/2020/10/image-3.png)
 
 ***17 ottobre 2017***
 
@@ -296,7 +294,7 @@ La Yuancheng non è un’azienda clandestina gestita da un cartello di traffican
 Diversamente da Mindy — che mi ha confessato di avere degli scrupoli a fare quel lavoro — Kelly non sa e non si preoccupa di quello che fanno i clienti con i precursori del fentanil che gli vende.
 
 ![](image-4.png)
-](https://missotter.wordpress.com/wp-content/uploads/2020/10/image-4.png)Il reparto vendite della Yuancheng
+Il reparto vendite della Yuancheng
 
 ***11 ottobre 2017***
 
@@ -363,7 +361,7 @@ Sì. Mi fa piacere aiutarti.
 Inviamo pacchi anonimi da un chilo via DHL, in genere arrivano nel giro di cinque giorni.
 
 ![](image-7.png)
-](https://missotter.wordpress.com/wp-content/uploads/2020/10/image-7.png)Pubblicità della Yuancheng all’interno della sede dell’azienda
+Pubblicità della Yuancheng all’interno della sede dell’azienda
 
 ***16 ottobre 2017***
 
@@ -404,7 +402,7 @@ Circa la metà.
 Non ho una stanza solo per me.
 
 ![](image-8.png)
-](https://missotter.wordpress.com/wp-content/uploads/2020/10/image-8.png)L’albergo di Wuhan dove vivono i dipendenti della Yuancheng
+L’albergo di Wuhan dove vivono i dipendenti della Yuancheng
 
 *Quante persone dormono nella tua stanza?*
 
@@ -425,7 +423,7 @@ Così così.
 *Che cosa vi danno da mangiare?* Cucina cinese. Per ogni pasto ci sono due portate e una zuppa. In genere riso, pollo e verdure.
 
 ![](image-9.png)
-](https://missotter.wordpress.com/wp-content/uploads/2020/10/image-9.png)Il cuoco della mensa della Yuancheng prepara la cena
+Il cuoco della mensa della Yuancheng prepara la cena
 
 ***17 ottobre 2017***
 
@@ -526,7 +524,7 @@ Ti va di farmi vedere le loro fotografie?
 È ora di uscire, sono ancora in ufficio. Quando esco vado a fare un giro in bicicletta con un’amica.
 
 ![](image-10.png)
-](https://missotter.wordpress.com/wp-content/uploads/2020/10/image-10.png)Foto da un evento aziendale, forse un karaoke. Le scritte in alto dicono “innovazione” “laboriosità” “onestà” e “soddisfazione reciproca”.
+Foto da un evento aziendale, forse un karaoke. Le scritte in alto dicono “innovazione” “laboriosità” “onestà” e “soddisfazione reciproca”.
 
 ***19 ottobre 2017***
 
@@ -559,7 +557,7 @@ La prossima settimana.
 Mi mandano loro, non posso decidere io.
 
 ![](image-12.png)
-](https://missotter.wordpress.com/wp-content/uploads/2020/10/image-12.png)Il CEO della Yuancheng, Ye Chuan Fa, con due addette alle vendite. Entrambe si chiamano Amy e si parla di loro in Fentanyl, Inc.
+Il CEO della Yuancheng, Ye Chuan Fa, con due addette alle vendite. Entrambe si chiamano Amy e si parla di loro in Fentanyl, Inc.
 
 *Il tuo capo è un uomo molto ricco?*
 

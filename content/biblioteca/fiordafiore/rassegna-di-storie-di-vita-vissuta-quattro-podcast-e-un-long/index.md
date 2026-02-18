@@ -6,7 +6,6 @@ tags: ["addio a domani", "anna delvey", "anna sorokin", "argentina", "bolero hav
 ---
 
 ![](storie_vere_canva.png)
-](https://missotter.wordpress.com/wp-content/uploads/2023/09/storie_vere_canva.png)
 
 Piccolo sfogo. Giunti all’estate del 2023 si può dire senza troppa tema di smentita che i podcast sono diventati pervasivi: tutto è podcast, i podcast parlano di tutto e tutti ascoltano podcast.
 
@@ -19,7 +18,6 @@ Stando così le cose, credo che non abbia più molto senso fare una semplice ras
 Oggi, per esempio, ho trovato un filo logico che tiene insieme alcune delle produzioni che ho ascoltato di recente e mi sono piaciute di più.  Lasciando da parte per una volta il filone investigativo, ho deciso di proporvi alcune storie vere, racconti di vite o esperienze particolari che mi hanno appassionata.
 
 ![](pyongyang_blues.jpg)
-](https://open.spotify.com/show/64edcCmdGkTknDjhfWXCiw)
 
 [Pyongyang Blues
 [Di Carla Vitantonio
@@ -30,7 +28,6 @@ Oggi, per esempio, ho trovato un filo logico che tiene insieme alcune delle prod
 In una precedente segnalazione (quella dei [tre podcast marini](https://missotter.wordpress.com/2022/08/16/tre-podcast-marini-e-una-carrellata-di-recupero/)) ho sfiorato appena il tema, per me da sempre incredibilmente affascinante, della Corea del Nord. Questo paese impenetrabile di cui sappiamo pochissimo e che resiste, in mezzo al mondo globalizzato, in una posizione di quasi totale isolamento. Ebbene, frugando fra i libri di una casa editrice che apprezzo molto (la torinese ADD), ho scoperto per caso un podcast che racconta come si vive a Pyongyang, grazie a Carla Vitantonio, che ci è rimasta per quattro anni, prima insegnando italiano e poi lavorando per una ONG. Se anche voi siete affascinati dal mistero nordcoreano, vi consiglio di ascoltare questo podcast, per il racconto vivace delle esperienze vissute in prima persona e per la freschezza della narrazione. Pyongyang Blues [è anche un libro](https://www.addeditore.it/catalogo/carla-vitantonio-pyongyang-blues/), con lo stesso titolo, e – sempre con ADD – l’autrice ne ha pubblicati altri due, [uno sul Myanmar](https://www.addeditore.it/catalogo/carla-vitantonio-myanmar-swing/) e [uno su Cuba](https://www.addeditore.it/catalogo/carla-vitantonio-bolero-avana/), dove vive ora. Se avete apprezzato lo stile fresco e lo sguardo originale di questa narratrice, sapete come continuare l’esperienza.
 
 ![](storiadelmionome.jpg)
-](https://choramedia.com/podcast/storia-del-mio-nome/)
 
 [Storia del mio nome
 [Di Sabrina Efionayi
@@ -43,7 +40,6 @@ Proseguo segnalando uno dei miei ascolti più recenti. Sono in colpevole ritardo
 La storia, raccolta in cinque episodi molto intensi, è raccontata in prima persona dalla sua protagonista, Sabrina Efionayi, italiana di madre nigeriana nata a Castel Volturno e affidata ancora in fasce a una donna italiana, che l’ha cresciuta rispettando il suo legame con la madre biologica. È la storia di una vita che, per quanto breve – la protagonista è poco più che ventenne – contiene già tantissime esperienze e molto dolore, e spalanca finestre su un’infinità di temi. C’è la prostituzione, a cui è costretta la madre biologica di Sabrina, arrivata in Italia al seguito di una Madame nigeriana sognando tutt’altra vita. C’è lo ius soli, con lo stupore e l’amarezza di una ragazza nata e cresciuta in Italia che a diciotto anni scopre di non essere italiana. C’è Black Lives Matter, con i suoi riflessi in territorio italiano, dove la presenza di persone di colore è ancora marginale (o meno visibile?) rispetto ad altri paesi. Ci sono la povertà, il razzismo, il rapporto madre-figlia in una doppia declinazione, la ricerca della propria identità, la discriminazione. Insomma, penso che il premio attribuito a questo podcast sia del tutto meritato, e sono grata a Sabrina per aver avuto il coraggio di raccontare la sua storia e avere permesso a me, che – come molte delle persone che frequento – vivo da sempre nel privilegio bianco dandolo per scontato, di mettermi in discussione. Anche in questo caso, se non ne avete avuto abbastanza, [c’è un libro da leggere](https://www.einaudi.it/catalogo-libri/narrativa-italiana/narrativa-italiana-contemporanea/addio-a-domani-sabrina-efionayi-9788806252885/), pubblicato da Einaudi in Stile Libero Extra.
 
 ![](figlie_quadrato.jpg)
-](https://www.raiplaysound.it/programmi/figlie)
 
 [Figlie
 [Di Sara Poma
@@ -56,7 +52,6 @@ Proseguo l’esplorazione di storie di madri e figlie con una vicenda non meno i
 Questo bel racconto a due voci mi ha profondamente colpita, per due ragioni principali. Prima di tutto perché affronta una vicenda tragica a cui in passato mi sono interessata molto, quella della dittatura argentina e dei desaparecidos, e poi perché, avendo anche io perso mia madre in giovane età, mi sono molto immedesimata con le due protagoniste e mi è piaciuto scoprire dalle loro parole come sono riuscite a elaborare il lutto. Infine, un altro filo sottile collega questo podcast al precedente: Sofia in Italia guadagnerà una nuova madre, nella persona della compagna del padre, e questo rapporto nel podcast è protagonista di un finale molto bello che non vi rivelo per non rovinarvi la sorpresa.
 
 ![](milanese.jpg)
-](https://www.raiplaysound.it/programmi/ioeroilmilanese)
 
 [Io ero il milanese
 [Di Mauro Pescio
@@ -73,7 +68,6 @@ Se con La Cattura ho avuto un’ottima dimostrazione delle capacità di Pescio c
 Vi dirò solo che si parla di criminalità, di amore, di dolore, di famiglia, di delitti e pene, di destino, di redenzione, di trasformazione, di vita insomma, in un racconto che, pur non toccando corde personali e sensibili come ha fatto Figlie, mi ha più e più volte commossa fino alle lacrime. E per chi non ne avesse poi abbastanza, anche in questo caso [c’è il libro](https://www.mondadori.it/libri/io-ero-il-milanese-lorenzo-s-mauro-pescio/), edito da Mondadori.
 
 ![](anna-sorokin-50.webp)
-](https://missotter.wordpress.com/wp-content/uploads/2023/09/anna-sorokin-50.webp)
 
 [Jessica Pressler
 [How an Aspiring 'It' Girl Tricked New York's Party People — and Its Banks

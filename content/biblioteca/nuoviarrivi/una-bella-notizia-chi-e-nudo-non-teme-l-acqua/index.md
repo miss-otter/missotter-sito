@@ -6,7 +6,6 @@ tags: ["aeroporto di kabul", "afghanistan", "atene", "chi \u00e8 nudo non teme l
 ---
 
 ![](chi_e_nudo_2.jpg)
-](https://iperborea.com/titolo/652/chi-e-nudo-non-teme-lacqua)
 
 I più attenti di voi ricorderanno un gran bel libro che vi ho segnalato un anno fa, [The naked don’t fear the water, di Matthieu Aikins](https://missotter.wordpress.com/2023/01/03/in-viaggio-con-i-migranti-dallafghanistan-alleuropa/). Ebbene, ora anche chi non mastica l’inglese può leggerlo, perché la casa editrice Iperborea lo ha pubblicato a settembre, nella traduzione di Luca Fusari, con il titolo [Chi è nudo non teme l’acqua](https://iperborea.com/titolo/652/chi-e-nudo-non-teme-lacqua).
 
