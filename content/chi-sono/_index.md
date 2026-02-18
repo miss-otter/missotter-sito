@@ -1,5 +1,6 @@
 ---
 title: "Chi sono"
+layout: "single"
 ---
 
 Mi chiamo Alessandra Neve, sono una traduttrice e lavoro con tre lingue: inglese, francese e spagnolo.

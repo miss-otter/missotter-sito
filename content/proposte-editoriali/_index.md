@@ -1,5 +1,6 @@
 ---
 title: "Proposte editoriali"
+layout: "single"
 ---
 
 Questa pagina raccoglie le mie più recenti proposte editoriali, clicca sulle copertine per visualizzarle e scaricarle. Se desideri prendere visione di altri materiali o valutare un saggio di traduzione, scrivimi all'indirizzo ale (.) neve [at] gmail (.) com.

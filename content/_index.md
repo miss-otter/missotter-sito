@@ -1,5 +1,6 @@
 ---
 title: "La biblioteca di Miss Otter"
+layout: "single"
 ---
 
 La biblioteca di Miss Otter è una raccolta di recensioni, un resoconto di viaggio, un percorso di esplorazione di quella realtà proteiforme che per comodità chiamerò la *narrazione del reale*, in tutte le sue varianti e declinazioni. Ho provato a spiegarlo un po' meglio [qui](/biblioteca/).
