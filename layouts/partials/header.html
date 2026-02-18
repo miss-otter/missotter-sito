@@ -1,0 +1,85 @@
+{{- $defined := false }}
+{{- $defined := $.Site.Params.enforceDarkMode }}
+<header class="header">
+  <nav class="nav" id="nav">
+    <p class="logo">
+      {{- $customLogo := ($.Site.Params.Logo | default "icons/logo.png") }}
+      <a href="{{ absLangURL `` }}">
+        {{- if fileExists (print "assets/" $customLogo) }}
+        {{- $img := resources.Get $customLogo }}
+        {{- $imgWebp := $img.Resize "150x webp" }}
+        <img 
+          decoding="async"
+          src="{{ $imgWebp.RelPermalink }}"
+          width="{{ $imgWebp.Width }}"
+          height="{{ $imgWebp.Height }}"
+          alt="{{ $.Site.Title }}"
+        >
+        {{- else }}
+        <span class="logo_text">{{ $.Site.Title }}</span>
+        {{- end }}
+      </a>
+    </p>
+    <ul class="menu" id="menu">
+      {{- $currentPage := . }}
+      {{- range .Site.Menus.main }}
+        {{- if .HasChildren }}
+        <li class="menu_item has-children">
+          <a href="{{ .URL | absLangURL }}" class="menu_link">
+            {{ .Name }}
+            <svg class="dropdown-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </a>
+          <ul class="submenu">
+            {{- range .Children }}
+            <li class="submenu_item">
+              <a href="{{ .URL | absLangURL }}" class="submenu_link{{ if $currentPage.IsMenuCurrent `main` . }} active{{ end }}">
+                {{ .Name }}
+              </a>
+            </li>
+            {{- end }}
+          </ul>
+        </li>
+        {{- else }}
+        <li class="menu_item">
+          <a href="{{ .URL | absLangURL }}" class="{{ if or ($currentPage.IsMenuCurrent `main` .) ($currentPage.HasMenuCurrent `main` .) }}active{{ end }} menu_link">
+            {{ .Name }}
+          </a>
+        </li>
+        {{- end }}
+      {{- end }}
+    </ul>
+    {{- if not $defined }}
+    <button id="mode" class="mode" type="button" aria-label="toggle dark/light mode">
+      <span class="icon lit">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="5"></circle>
+          <line x1="12" y1="1" x2="12" y2="3"></line>
+          <line x1="12" y1="21" x2="12" y2="23"></line>
+          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+          <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+          <line x1="1" y1="12" x2="3" y2="12"></line>
+          <line x1="21" y1="12" x2="23" y2="12"></line>
+          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+          <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+        </svg>
+      </span>
+      <span class="icon dim">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+        </svg>
+      </span>
+    </button>
+    {{- end }}
+    <button id="menu_toggle" class="menu_toggle" type="button" aria-label="toggle menu">
+      <span class="icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="3" y1="12" x2="21" y2="12"></line>
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </span>
+    </button>
+  </nav>
+</header>
