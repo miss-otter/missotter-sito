@@ -40,11 +40,93 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* ===========================================
-   FIX: NASCONDERE I TAG NELLA LISTA POST
-   I tag appaiono come muro di testo - li nascondiamo
+   DROPDOWN MENU
    =========================================== */
 
-/* Nasconde i tag nei post della homepage/liste */
+.menu__item.has_dropdown {
+  position: relative;
+}
+
+.dropdown_icon {
+  margin-left: 4px;
+  vertical-align: middle;
+  transition: transform 0.2s;
+}
+
+.menu__item.has_dropdown:hover .dropdown_icon {
+  transform: rotate(180deg);
+}
+
+.dropdown_menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 180px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  padding: 0.5rem 0;
+  margin: 0;
+  list-style: none;
+  z-index: 1000;
+}
+
+.menu__item.has_dropdown:hover .dropdown_menu {
+  display: block;
+}
+
+.dropdown_item {
+  margin: 0;
+  padding: 0;
+}
+
+.dropdown_link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: var(--text);
+  text-decoration: none;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.dropdown_link:hover {
+  background: var(--theme);
+  color: var(--light);
+}
+
+@media (max-width: 992px) {
+  .dropdown_menu {
+    position: static;
+    box-shadow: none;
+    border: none;
+    padding-left: 1rem;
+    background: transparent;
+  }
+}
+
+/* ===========================================
+   IMMAGINI AUTORI TRADUZIONI
+   =========================================== */
+
+.content img[src*="edited"],
+.content img[src*="byler"],
+.content img[src*="somaiya"],
+.content img[src*="mediavilla"],
+.content img[src*="hankir"],
+.content img[src*="altman"],
+.content img[src*="clare"] {
+  width: 300px;
+  height: auto;
+  filter: sepia(100%) hue-rotate(70deg) saturate(60%);
+  border-radius: 4px;
+}
+
+/* ===========================================
+   FIX: NASCONDERE I TAG NELLA LISTA POST
+   =========================================== */
+
 .post_tags,
 .post-meta .tags,
 article .tags,
@@ -53,7 +135,6 @@ article .tags,
   display: none !important;
 }
 
-/* Mostra i tag SOLO nella pagina singola del post */
 .post_content .tags,
 .single .tags,
 article.post .post_tags {
@@ -64,7 +145,6 @@ article.post .post_tags {
    FIX: SIDEBAR TAGS TROPPO LUNGA
    =========================================== */
 
-/* Limita altezza della sezione tags nella sidebar */
 .sidebar .tags,
 aside .tags,
 .widget_tag_cloud {
@@ -73,20 +153,10 @@ aside .tags,
   overflow-x: hidden;
 }
 
-/* Oppure nascondila completamente */
-/*
-.sidebar .tags,
-aside .tags {
-  display: none;
-}
-*/
-
 /* ===========================================
-   FIX: ICONE SOCIAL (mancano font icons)
-   Sostituisce con testo se le icone non caricano
+   FIX: ICONE SOCIAL
    =========================================== */
 
-/* Nascondi le icone social rotte nella lista post */
 .share,
 .share_icons,
 .post_share,
@@ -95,7 +165,6 @@ article .share,
   display: none !important;
 }
 
-/* Mostra condivisione solo nel post singolo */
 .single .share,
 .post_content .share {
   display: flex !important;
@@ -105,13 +174,11 @@ article .share,
    FIX: PULIZIA HOMEPAGE
    =========================================== */
 
-/* Rimuove elementi troppo affollati */
 .post_item .post_meta {
   font-size: 0.9em;
   color: #666;
 }
 
-/* Meno spazio per i metadati */
 .post_item .read_more {
   margin-top: 0.5rem;
 }
@@ -125,7 +192,6 @@ body {
   color: var(--text-color);
 }
 
-/* Card dei post più pulite */
 .post_item,
 .post {
   background: #ffffff;
@@ -139,7 +205,6 @@ body {
   box-shadow: 0 2px 8px rgba(0,0,0,0.12);
 }
 
-/* Titoli dei post */
 .post_item h2 a,
 .post_item h3 a,
 .post_title a {
@@ -153,7 +218,6 @@ body {
   color: #7a9580;
 }
 
-/* Footer */
 footer {
   background: var(--haze);
   border-top: 1px solid #e0e0e0;
@@ -176,17 +240,4 @@ footer {
 .categories a:hover,
 .category a:hover {
   background: #7a9580;
-}
-/* Immagini autori in Traduzioni - stile uniforme */
-.content img[src*="edited"],
-.content img[src*="byler"],
-.content img[src*="somaiya"],
-.content img[src*="mediavilla"],
-.content img[src*="hankir"],
-.content img[src*="altman"],
-.content img[src*="clare"] {
-  width: 200px;
-  height: auto;
-  filter: sepia(100%) hue-rotate(70deg) saturate(60%);
-  border-radius: 4px;
 }

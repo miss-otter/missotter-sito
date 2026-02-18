@@ -1,4 +1,12 @@
-{{- $s := .Site.Params }}
+#!/usr/bin/env python3
+"""
+SISTEMA MENU DROPDOWN
+Sostituisce l'header.html rotto con la versione corretta
+"""
+
+from pathlib import Path
+
+HEADER_HTML = '''{{- $s := .Site.Params }}
 <header class="header">
   <nav class="nav">
     <p class="logo">
@@ -67,3 +75,89 @@
     </button>
   </nav>
 </header>
+'''
+
+CSS_DROPDOWN = '''
+/* DROPDOWN MENU */
+.menu__item.has_dropdown { position: relative; }
+.dropdown_icon { margin-left: 4px; vertical-align: middle; transition: transform 0.2s; }
+.menu__item.has_dropdown:hover .dropdown_icon { transform: rotate(180deg); }
+.dropdown_menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 180px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  padding: 0.5rem 0;
+  margin: 0;
+  list-style: none;
+  z-index: 1000;
+}
+.menu__item.has_dropdown:hover .dropdown_menu { display: block; }
+.dropdown_item { margin: 0; padding: 0; }
+.dropdown_link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: var(--text);
+  text-decoration: none;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+.dropdown_link:hover { background: var(--theme); color: var(--light); }
+
+/* IMMAGINI TRADUZIONI */
+.content img[src*="edited"] {
+  width: 200px;
+  filter: sepia(100%) hue-rotate(70deg) saturate(60%);
+  border-radius: 4px;
+}
+
+@media (max-width: 992px) {
+  .dropdown_menu { position: static; box-shadow: none; border: none; padding-left: 1rem; background: transparent; }
+}
+'''
+
+def main():
+    print("=" * 60)
+    print("SISTEMA MENU DROPDOWN")
+    print("=" * 60)
+    print()
+    
+    script_dir = Path(__file__).parent.absolute()
+    
+    # Crea cartella layouts/partials se non esiste
+    layouts_dir = script_dir / 'layouts' / 'partials'
+    layouts_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Scrivi header.html
+    header_file = layouts_dir / 'header.html'
+    
+    # Backup se esiste
+    if header_file.exists():
+        backup = header_file.with_suffix('.html.bak')
+        header_file.rename(backup)
+        print(f"✓ Backup creato: {backup.name}")
+    
+    header_file.write_text(HEADER_HTML, encoding='utf-8')
+    print(f"✓ Creato: layouts/partials/header.html")
+    
+    # Mostra CSS
+    print()
+    print("=" * 60)
+    print("AGGIUNGI QUESTO CSS A static/css/custom.css:")
+    print("=" * 60)
+    print(CSS_DROPDOWN)
+    print("=" * 60)
+    
+    print()
+    print("Poi fai commit e push!")
+    print()
+    input("Premi INVIO per chiudere...")
+
+
+if __name__ == '__main__':
+    main()
