@@ -7,10 +7,11 @@ tags: ["armi", "bitcoin", "cocaina", "criminalit\u00e0 organizzata", "dea", "eva
 
 ![](mastermind.jpg)
 
-[Evan Ratliff
-[THE MASTERMIND
-[Drugs. Empire. Murder. Betrayal.
-[New York, Random House, 2019](https://www.penguinrandomhouse.com/books/549566/the-mastermind-by-evan-ratliff/)
+[Evan Ratliff](https://www.penguinrandomhouse.com/books/549566/the-mastermind-by-evan-ratliff/)  
+THE MASTERMIND  
+Drugs. Empire. Murder. Betrayal.  
+New York, Random House, 2019  
+
 
 La storia a cui Evan Ratliff - giornalista che scrive fra gli altri per il New Yorker, Wired e National Geographic - si è dedicato per cinque anni, mettendo a rischio in più occasioni la sua stessa vita, è veramente incredibile. Narra la carriera criminale di Paul Calder Le Roux e la sua trasformazione da giovane promettente programmatore di software libero a boss di un’organizzazione criminale tentacolare e spietata.
 

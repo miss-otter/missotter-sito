@@ -8,8 +8,9 @@ tags: ["add editore", "black mirror", "campi di rieducazione", "cina", "columbia
 ![](in_the_camps.png)
 
 D[arren Byler
-[In the Camps - China’s High-Tech Penal Colony
-[Columbia Global Reports, 2021](https://globalreports.columbia.edu/books/in-the-camps/)
+[In the Camps - China’s High-Tech Penal Colony](https://globalreports.columbia.edu/books/in-the-camps/)  
+Columbia Global Reports, 2021  
+
 
 Lo Xinjiang è una regione situata all’estremità occidentale della Cina, confina con i paesi dell’Asia centrale e ospita una popolazione composta per la maggior parte da uiguri, turcofoni e musulmani, e in parte minore da cazachi, uzbechi e chirghisi. La percentuale di cinesi han, una volta in netta minoranza, è aumentata negli ultimi decenni, anche grazie a un programma specifico di sovvenzioni all’immigrazione volto a sinizzare la regione per uniformarla, dal punto di vista culturale e religioso, al resto della Cina.
 

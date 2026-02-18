@@ -7,7 +7,7 @@ tags: []
 
 Prosegue la mia collaborazione con il progetto di blog collettivo *Assaggi *di nonfiction.it. I testi che seleziono per il progetto sono spesso articoli, racconti o estratti delle opere recensite in questo spazio, i cui autori mi hanno gentilmente concesso di tradurre e pubblicare un loro scritto inedito in Italia. Per chi volesse farsi un'idea di come traduco, *Assaggi *è il posto giusto. I link sono qui, sotto le fotografie degli autori.
 
-![](darren_byler-edited-2.png?w=420)
+![](darren_byler-edited-2.png)
 
 Darren Byler
 

@@ -17,11 +17,12 @@ Esaurita la lunghissima premessa, veniamo ai tre podcast che ho pensato di consi
 
 ![](dito.jpg)
 
-[Il dito di Dio, voci dalla Concordia
-[Di Pablo Trincia
-[Produzione: Spotify Studios in collaborazione con Chora Media
-[9 episodi
-[Dicembre 2021 - gennaio 2022](https://open.spotify.com/show/7r4owruhMrR2us6mAN7xDQ)
+[Il dito di Dio, voci dalla Concordia](https://open.spotify.com/show/7r4owruhMrR2us6mAN7xDQ)  
+Di Pablo Trincia  
+Produzione: Spotify Studios in collaborazione con Chora Media  
+9 episodi  
+Dicembre 2021 - gennaio 2022  
+
 
 Il 12 gennaio di quest’anno ricorreva il decennale del naufragio della Costa Concordia. La storia la conosciamo tutti, chi non è rimasto incollato davanti a un televisore col fiato sospeso per la sorte di quelle migliaia di poveretti? Chi non ricorda il “vada a bordo, cazzo!” di Gregorio de Falco? Ebbene, quale occasione migliore del decennale per ripercorrere la vicenda? E infatti sono stati confezionati molti prodotti, il migliore dei quali a mio parere è questo podcast: avvincente, ben realizzato, con testimonianze di prima mano, da ascoltare tutto d’un fiato per rivivere quei momenti assieme ad alcuni dei protagonisti. Pablo Trincia è bravo, non si può negare. Ce lo aveva già ampiamente dimostrato con Veleno. È bravo a scegliere le storie ed è bravo anche a raccontarle. C’è sempre però nei suoi lavori qualcosa che non mi va giù.
 
@@ -33,11 +34,12 @@ Io questo approccio lo patisco sempre un po’. Come, in Veleno, non avevo appre
 
 ![](doria.jpg)
 
-[La ballata dell’Andrea Doria
-[Di Davide Savelli - voce narrante di Luca Bizzarri
-[Produzione: Chora per Archivio Luce
-[6 episodi
-[Giugno 2022](https://www.archivioluce.com/2022/06/27/la-ballata-dellandrea-doria/)
+[La ballata dell’Andrea Doria](https://www.archivioluce.com/2022/06/27/la-ballata-dellandrea-doria/)  
+Di Davide Savelli - voce narrante di Luca Bizzarri  
+Produzione: Chora per Archivio Luce  
+6 episodi  
+Giugno 2022  
+
 
 È la storia di un altro disastro marittimo. Una storia che ricorda un Titanic in tono minore, per fortuna molto minore anche nel numero delle vittime. Come il Titanic, l’Andrea Doria era il fiore all’occhiello di una flotta, un orgoglio tutto italiano: varata nel 1952, era la nave ammiraglia della Società Italia di Navigazione e il simbolo della rinascita dell’Italia dopo la seconda guerra mondiale. Molto apprezzata dal jet set internazionale, la nave percorreva la prestigiosa rotta Genova-New York. Era lussuosissima: aveva tre piscine, l’aria condizionata in tutti gli ambienti, molte opere d’arte preziose e un arredamento moderno (in gran parte poi razziato dal relitto) progettato dai maggiori designer dell’epoca, fra cui Gio Ponti.
 
@@ -47,11 +49,12 @@ La vicenda è appassionante, la qualità sonora e la scrittura del podcast sono 
 
 ![](pongsu.png)
 
-[The Last Voyage of the Pong Su
-[Di Richard Baker
-[10 episodi
-[Produzione: The Age e Sydney Morning Herald
-[Ottobre-dicembre 2019](https://www.theage.com.au/pong-su)
+[The Last Voyage of the Pong Su](https://www.theage.com.au/pong-su)  
+Di Richard Baker  
+10 episodi  
+Produzione: The Age e Sydney Morning Herald  
+Ottobre-dicembre 2019  
+
 
 La terza nave è protagonista di un podcast un po’ vecchiotto che mi è piaciuto e mi piace ancora moltissimo. Questo è in inglese e, vi avviso, molti dei protagonisti hanno un accento australiano non facilissimo da capire. Il podcast racconta la storia dell’ultimo, travagliato viaggio della Pong Su, una nave mercantile della Corea del Nord che nell’aprile del 2003 si è trovata a passare un po’ troppo vicino alle coste dello stato australiano di Victoria. Quel tratto di costa è noto per i naufragi, non ha approdi naturali ed è interessato da forti correnti; lungo di esso corre una magnifica strada litoranea e le poche persone che in quei giorni dalla strada scorsero la nave trovarono la sua presenza al largo molto strana.
 

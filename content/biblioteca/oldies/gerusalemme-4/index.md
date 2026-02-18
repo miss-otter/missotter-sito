@@ -23,4 +23,4 @@ La chiesa è buia, fresca e bella, la parte bassa delle pareti è coperta di pia
 
 La messa è breve, per fortuna, tutta cantata, ed è un andirivieni di pretini e pretoni più o meno sobriamente abbigliati, alcuni indossano un lungo mantello nero col cappuccio e una stola a motivi rossi e oro sulle spalle, sopra il mantello. Cantano quasi tutto il tempo, divisi in due gruppi. Non ho potuto fare altre fotografie, per via del divieto e dei rimproveri dei pretoni barbuti, ma di nascosto dalla nonnina sono riuscita a registrare un po' di canti. Se fate attenzione, oltre al tintinnare del turibolo, potete sentir cantare anche lei.
 
-[soundcloud url="https://api.soundcloud.com/tracks/206874945" params="auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true" width="100%" height="450" iframe="true" /]
+soundcloud url="https://api.soundcloud.com/tracks/206874945" params="auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true" width="100%" height="450" iframe="true" /]  

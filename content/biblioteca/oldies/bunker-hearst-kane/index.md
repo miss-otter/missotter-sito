@@ -11,7 +11,7 @@ Un castello e una piscina.
 
 È una lunga storia che mi è tornata in mente ascoltando [un podcast](http://www.deejay.it/audio/eddie-bunker/252747/%20) di *Dee Giallo,* la trasmissione condotta da Carlo Lucarelli su Radio DeeJay. Il racconto è affascinante e il finale, in cui Lucarelli ricorda il suo incontro con Edward Bunker al Festivaletteratura di Mantova, commovente. Mi ha ricordato un libro di Bunker che ho letto diversi anni fa: la sua autobiografia, *Education of a Felon: A Memoir*, pubblicato in Italia da Einaudi con il titolo *[Educazione di una canaglia*](http://www.einaudi.it/libri/libro/edward-bunker/educazione-di-una-canaglia/978880619143).
 
-[caption id="attachment_212" align="aligncenter" width="660"]
+caption id="attachment_212" align="aligncenter" width="660"]  
 ![Edward Bunker nel ruolo di Mr. Blue, il suo cameo ne Le iene di Quentin Tarantino.](mr-blue.jpg)
  Edward Bunker nel ruolo di Mr. Blue, una delle iene di Tarantino. Un cameo autoironico.[/caption]
 
@@ -19,19 +19,19 @@ Per metà della sua vita Bunker è stato uno sbandato, un delinquente di piccolo
 
 Ci fu nella vita di Bunker un incontro fortunato con una donna speciale: Louise Fazenda, moglie di Harold Brent Wallis, produttore per la Warner Bros di film del calibro di *Casablanca*. Lei, star del cinema muto onorata con una stella sulla Walk of fame, una volta ritiratasi dalle scene si dedicò al collezionismo di opere d’arte e alla filantropia. Bunker le fu presentato dall'avvocato Al Matthews durante un periodo di libertà sulla parola e Mrs. Wallis lo prese con sé per un po', affidandogli prima il ruolo di factotum e poi anche quello di autista. Fu sempre lei, quando Bunker venne di nuovo spedito in galera, a regalargli una macchina da scrivere, incoraggiandolo a coltivare il suo talento.
 
-[caption id="attachment_211" align="aligncenter" width="454"]
+caption id="attachment_211" align="aligncenter" width="454"]  
 ![Louise Fazenza](louise-fazenda.jpg)
  Louise Fazenza[/caption]
 
 C’è un passo nella biografia di Edward Bunker che non ho mai dimenticato, è la descrizione di un luogo favoloso. Bunker accompagna Mrs. Wallis all’Hearst Castle di San Simeon, la sontuosa residenza che [Wiliam Randolph Hearst](http://it.wikipedia.org/wiki/William_Randolph_Hearst) fece costruire negli anni '20 su un’altura prospiciente la costa della California centrale.
 
-[caption id="attachment_210" align="aligncenter" width="660"]
+caption id="attachment_210" align="aligncenter" width="660"]  
 ![Veduta aerea dell'Hearst Castle](hearst-castle-san-simeon.jpg)
  Veduta aerea dell'Hearst Castle[/caption]
 
 Louise Wallis era molto amica di Marion Davies, l’amante di Hearst, anche lei fulgida stella del cinema muto, e proprio in virtù di questa amicizia aveva accesso al castello di Hearst anche in assenza del padrone di casa.
 
-[caption id="attachment_220" align="aligncenter" width="434"]
+caption id="attachment_220" align="aligncenter" width="434"]  
 ![William Randolph Hearst con Marion Davies](hearst-davies.jpg)
  William Randolph Hearst con Marion Davies[/caption]
 
@@ -49,11 +49,11 @@ I plunged into the water. The cold shock changed my thoughts. I swam hard to war
 Through Neptune’s fluted pillars came orange twilight glare. I swam through molten gold toward the sunset fire. I was certainly in a world removed from the swarm.
 Oltre alle parole e ai ricordi di Bunker, un'evocazione molto suggestiva di quel luogo leggendario sta nella scena di apertura di *Citizen Kane* ([Quarto potere](http://it.wikipedia.org/wiki/Quarto_potere)), magistrale opera prima di Orson Welles, da lui diretta e interpretata nientemeno che nel ruolo del protagonista. Il film racconta la vita di Charles Foster Kane, magnate della stampa, la cui figura è inequivocabilmente ispirata a quella di Hearst. L'analogia è talmente smaccata che lo stesso Hearst fece di tutto per boicottarne le proiezioni, arrivò persino ad offrire alla RKO una montagna di soldi perché ne distruggesse pellicola e negativi.
 
-[embed]https://www.youtube.com/watch?v=-r0b_XeRkG4[/embed]
+embed]https://www.youtube.com/watch?v=-r0b_XeRkG4[/embed]  
 
 In meno di due minuti e senza bisogno di parole Welles ci trasmette tutta l’essenza e l’eccentricità di un luogo leggendario e chiacchierato. La sequenza vede apparire in successione, avvolti da un crepuscolo nebbioso: un cartello con la scritta “NO TRESPASSING” appeso a una recinzione, una poderosa cancellata con il monogramma “K” in evidenza, una gabbia con due scimmie e un cartello su cui si indovina la scritta “BENGAL TIGER”, un laghetto con un piccolo pontile e due gondole ormeggiate, la sedicesima buca di un campo da golf e infine persino un ponte levatoio con tanto di catene. E in ciascuna di queste inquadrature compare, a volte sullo sfondo, a volte riflesso nell’acqua, un castello imponente con un’unica finestra illuminata.
 
-[caption id="attachment_215" align="aligncenter" width="660"]
+caption id="attachment_215" align="aligncenter" width="660"]  
 ![Il castello di Charles Foster Kane in Quarto Potere di Orson Welles](xanadu.jpg)
  Il castello di Charles Foster Kane in Quarto Potere di Orson Welles[/caption]
 

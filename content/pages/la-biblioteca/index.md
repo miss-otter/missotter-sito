@@ -34,4 +34,4 @@ Chiudo in bellezza con una citazione da uno splendido saggio di Leila Guerriero 
 
 Ottieni i nuovi contenuti, spediti direttamente nella tua casella di posta.
 
-[jetpack_subscription_form subscribe_placeholder="Enter your email address" show_subscribers_total="false" button_on_newline="true" submit_button_text="Sign up" custom_font_size="16px" custom_border_radius="0" custom_border_weight="1" custom_padding="15" custom_spacing="10" submit_button_classes="has-text-color has-background-color has-background has-primary-background-color" email_field_classes="" show_only_email_and_button="true"]
+jetpack_subscription_form subscribe_placeholder="Enter your email address" show_subscribers_total="false" button_on_newline="true" submit_button_text="Sign up" custom_font_size="16px" custom_border_radius="0" custom_border_weight="1" custom_padding="15" custom_spacing="10" submit_button_classes="has-text-color has-background-color has-background has-primary-background-color" email_field_classes="" show_only_email_and_button="true"]  

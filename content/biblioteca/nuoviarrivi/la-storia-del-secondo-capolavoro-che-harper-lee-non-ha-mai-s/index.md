@@ -8,9 +8,10 @@ tags: []
 ![](furious-hours-jkt.jpg)
 
 **[Casey Cep
-[FURIOUS HOURS
-[Murder, Fraud, and the Last Trial of Harper Lee
-[New York, Alfred A. Knopf, 2019.](http://knopfdoubleday.com/2019/04/23/furious-hours-by-casey-cep/)**
+[FURIOUS HOURS](http://knopfdoubleday.com/2019/04/23/furious-hours-by-casey-cep/)  
+Murder, Fraud, and the Last Trial of Harper Lee  
+New York, Alfred A. Knopf, 2019.  
+
 
 In questo libro Casey Cep, staff writer per il New Yorker, racconta molte storie, forse persino troppe. Racconta la genesi di un capolavoro, Il buio oltre la siepe, vincitore di un premio Pulitzer e successo planetario con oltre 40 milioni di copie vendute, innumerevoli ristampe e traduzioni in decine di lingue e, se non bastasse, all’origine di un adattamento cinematografico vincitore, fra gli altri, di tre premi Oscar (la lavorazione del film è valsa all’autrice un’amicizia più che ventennale con Gregory Peck). 
 

@@ -7,10 +7,11 @@ tags: ["ben westhoff", "cina", "dipendenza da oppioidi", "droga", "fentanil", "f
 
 ![](fentanyl.jpg)
 
-[Ben Westhoff
-[FENTANYL, INC.
-[How Rogue Chemists Created the Deadliest Wave of the Opioid Epidemic
-[New York, Atlantic Monthly Press, 2019](https://groveatlantic.com/book/fentanyl-inc/)
+[Ben Westhoff](https://groveatlantic.com/book/fentanyl-inc/)  
+FENTANYL, INC.  
+How Rogue Chemists Created the Deadliest Wave of the Opioid Epidemic  
+New York, Atlantic Monthly Press, 2019  
+
 
 È uscita da pochi giorni negli USA l’edizione tascabile rivista e aggiornata del libro di Ben Westhoff, Fentanyl, Inc., la cui edizione hardcover risale allo scorso settembre.
 
@@ -277,7 +278,7 @@ Ok.
 
 *Mi hai detto che a volte ti senti in colpa a fare questo lavoro. Forse se continui ad aiutarmi ti sentirai meno in colpa.*
 
-[Nessuna risposta.]
+Nessuna risposta.]  
 
 *Ci sei ancora?*
 
@@ -561,7 +562,7 @@ Il CEO della Yuancheng, Ye Chuan Fa, con due addette alle vendite. Entrambe si c
 
 *Il tuo capo è un uomo molto ricco?*
 
-[nessuna risposta]
+nessuna risposta]  
 
 *Ho sentito dire che è molto ricco. E che fuma delle sigarette molto costose! Le Yellow Crane Tower 1916S.*
 

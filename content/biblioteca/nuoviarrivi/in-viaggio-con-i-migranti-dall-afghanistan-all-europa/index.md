@@ -7,9 +7,10 @@ tags: ["aeroporto di kabul", "afghanistan", "alavi", "atene", "diario di viaggio
 
 ![](copertina-1.png)
 
-[Matthieu Aikins
-[The Naked don't Fear the Water
-[Harper Collins, 15 febbraio 2022](https://www.harpercollins.com/products/the-naked-dont-fear-the-water-matthieu-aikins?variant=39348715716642)
+[Matthieu Aikins](https://www.harpercollins.com/products/the-naked-dont-fear-the-water-matthieu-aikins?variant=39348715716642)  
+The Naked don't Fear the Water  
+Harper Collins, 15 febbraio 2022  
+
 
 Finalmente, dopo parecchio tempo, torno a segnalare un libro. Ne ho letti diversi negli ultimi mesi, e ho preparato delle proposte editoriali per quelli che mi sono piaciuti di più. L'ho fatto anche per questo libro affascinante, il cui titolo riprende un proverbio persiano che tradotto suona più o meno così: "Chi è nudo non ha paura dell'acqua". 
 

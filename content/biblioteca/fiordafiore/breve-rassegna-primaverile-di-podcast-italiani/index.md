@@ -13,11 +13,12 @@ I primi due podcast che segnalo sono a mio parere riusciti solo fino a un certo 
 
 ![](image.png)
 
-[La piena, il meccanico dei narcos
-[Di Matteo Caccia e Mauro Pescio
-[10 episodi
-[Produzione: Mismaonda per Audible Studios
-[2018](https://www.audible.it/pd/La-piena-Audiolibri/B07KMDMW4L)
+[La piena, il meccanico dei narcos](https://www.audible.it/pd/La-piena-Audiolibri/B07KMDMW4L)  
+Di Matteo Caccia e Mauro Pescio  
+10 episodi  
+Produzione: Mismaonda per Audible Studios  
+2018  
+
 
 Il primo, già un po’ datato, racconta le avventure (vere, almeno in parte) di Gianfranco Franciosi, un meccanico nautico della lunigiana infiltrato in un'organizzazione di narcotrafficanti. È suo il merito del più importante sequestro di cocaina della storia europea. Se la storia vi suona familiare, è perché è la stessa raccontata lo scorso anno nella fiction di Rai 1 *[Gli orologi del diavolo](https://www.raiplay.it/programmi/gliorologideldiavolo)*, basata sul [libro scritto da Franciosi con il giornalista Federico Ruffo](https://www.amazon.it/orologi-diavolo-Infilato-narcos-tradito/dp/8817144517/) e che vede Beppe Fiorello come protagonista. Matteo Caccia ha raccolto la testimonianza diretta di Franciosi e la propone in dieci lunghe puntate.  
 
@@ -27,11 +28,12 @@ Le mie perplessità nascono dal fatto che la storia è tutta sbilanciata, senza 
 
 ![](image-1.png)
 
-[Polvere – Il caso Marta Russo
-[Di Chiara Lalli e Cecilia Sala
-[8 episodi
-[Produzione: Emons Record e Miyagi Entertainment
-[Settembre 2020](https://lab.gedidigital.it/huffingtonpost/polvere-il-caso-marta-russo/#copertina)
+[Polvere – Il caso Marta Russo](https://lab.gedidigital.it/huffingtonpost/polvere-il-caso-marta-russo/#copertina)  
+Di Chiara Lalli e Cecilia Sala  
+8 episodi  
+Produzione: Emons Record e Miyagi Entertainment  
+Settembre 2020  
+
 
 La seconda segnalazione riguarda Polvere, un podcast di Chiara Lalli e Cecilia Sala pubblicato da Huffpost in collaborazione con Gedi Digital.
 
@@ -41,11 +43,12 @@ Le premesse per un bel lavoro ci sono tutte. La storia, che ebbe all’epoca gra
 
 ![](image-2.png)
 
-[Witness DOCS - Verified
-[Di IRPI & Natasha Del Toro
-[10 episodi + 3 aggiornamenti
-[Produzione: Scripps Washington Bureau & Sticher Witness Docs
-[Febbraio-aprile 2020](https://witness.verified-podcast.com/)
+[Witness DOCS - Verified](https://witness.verified-podcast.com/)  
+Di IRPI & Natasha Del Toro  
+10 episodi + 3 aggiornamenti  
+Produzione: Scripps Washington Bureau & Sticher Witness Docs  
+Febbraio-aprile 2020  
+
 
 Il terzo podcast che mi fa piacere segnalare riguarda un lavoro investigativo condotto dai giornalisti di Irpi Cecilia Anesi, Alessia Cerantola e Giulio Rubino. [Irpi è un team investigativo italiano ](https://irpimedia.irpi.eu/)che in genere si occupa di criminalità organizzata, corruzione e crimini ambientali e che si è trovato per le mani questa storia quando il fidanzato di una delle vittime si è rivolto a loro in cerca di aiuto.
 
@@ -57,11 +60,12 @@ La scelta dei giornalisti di Irpi, forse a rimarcare la dimensione internazional
 
 ![](image-3.png)
 
-[121269 – Inchiesta su Piazza Fontana
-[Di Alberto Nerazzini e Andrea Sceresini
-[12 episodi
-[Produzione: Dersu (esclusiva Audible Original)
-[Dicembre 2019 - giugno 2020](http://www.dersuproductions.it/news/2020/6/28/online-la-prima-parte-di-121269-linchiesta-su-piazza-fontana)
+[121269 – Inchiesta su Piazza Fontana](http://www.dersuproductions.it/news/2020/6/28/online-la-prima-parte-di-121269-linchiesta-su-piazza-fontana)  
+Di Alberto Nerazzini e Andrea Sceresini  
+12 episodi  
+Produzione: Dersu (esclusiva Audible Original)  
+Dicembre 2019 - giugno 2020  
+
 
 Il podcast che ho apprezzato di più è un monumentale lavoro di ricostruzione della vicenda storica, giudiziaria e umana della strage di piazza Fontana.
 

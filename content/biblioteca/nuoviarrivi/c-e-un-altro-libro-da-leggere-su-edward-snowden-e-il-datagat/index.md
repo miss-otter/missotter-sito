@@ -7,10 +7,11 @@ tags: ["ashkan soltani", "barton gellman", "citizenfour", "dark mirror", "dataga
 
 ![](dark_mirror.jpg)
 
-[Barton Gellman
-[DARK MIRROR
-[Edward Snowden and the American Surveillance State
-[New York, Penguin Press, 2020](https://www.penguinrandomhouse.com/books/316047/dark-mirror-by-barton-gellman/)
+[Barton Gellman](https://www.penguinrandomhouse.com/books/316047/dark-mirror-by-barton-gellman/)  
+DARK MIRROR  
+Edward Snowden and the American Surveillance State  
+New York, Penguin Press, 2020  
+
 
 Barton Gellman ha pubblicato quest’anno il suo libro sullo scandalo del Datagate, innescato dalle rivelazioni di Edward Snowden, fuggito dagli Stati Uniti con una mole enorme di documenti destinati a far luce sui programmi di sorveglianza della National Security Agency. Sulla vicenda sono usciti, a ridosso degli eventi, numerosi articoli sul quotidiano britannico Guardian, sul tedesco Der Spiegel e sull’americano Washington Post (a Guardian e Washington Post è andato il premio Pulitzer per il miglior giornalismo di pubblico servizio nel 2104), alcuni film, tra cui segnalo *[Citizenfour*](https://citizenfourfilm.com/), il documentario di Laura Poitras vincitore del premio Oscar nel 2015 e di cui è protagonista lo stesso Snowden, diversi libri, tra cui *[No Place to hide](https://rizzoli.rizzolilibri.it/libri/no-place-to-hide-sotto-controllo/)*, il resoconto fatto da Glenn Greenwald a un anno di distanza dagli eventi che l’hanno visto coinvolto in prima persona, e *[Permanent Record](https://us.macmillan.com/books/9781250237248)*, il resoconto dello stesso Snowden, uscito lo scorso anno e pubblicato in Italia con il titolo *[Errore di sistema](https://www.longanesi.it/libri/edward-snowden-errore-di-sistema-9788830454392/)*.
 

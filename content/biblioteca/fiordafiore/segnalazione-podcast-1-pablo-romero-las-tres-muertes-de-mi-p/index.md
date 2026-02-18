@@ -15,11 +15,12 @@ Dicevamo però che quando il benchmark è quello è difficile poi accontentarsi 
 
 ![](image.png)
 
-[Las tres muertes de mi padre
-[Di Pablo Romero
-[5 episodi (20 minuti ciascuno)
-[Produzione: CUONDA
-[Maggio-giugno 2018](https://lastresmuertesdemipadre.com/)
+[Las tres muertes de mi padre](https://lastresmuertesdemipadre.com/)  
+Di Pablo Romero  
+5 episodi (20 minuti ciascuno)  
+Produzione: CUONDA  
+Maggio-giugno 2018  
+
 
 Las tres muertes de mi padre è un piccolo podcast a tratti intimista, semplice ma ben fatto. Il tratto che rende particolarmente apprezzabile questo lavoro è la scelta di trasparenza dell’autore, che – data la natura estremamente personale della storia raccontata - rinuncia ad assumere un punto di vista terzo e parla in prima persona della sua indagine e della sua storia, che in larga parte coincidono perché il giornalista che racconta è allo stesso tempo un “familiare delle vittime”.
 

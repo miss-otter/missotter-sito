@@ -27,8 +27,8 @@ Le trovate [qui](http://www.montereybayaquarium.org), sia le "balie" che i cucc
 
 Torniamo quindi allegramente fra le pagine di un libro, e che libro! Una cara amica che condivide la mia passione mi ha consigliato questa lettura, e non la ringrazierò mai abbastanza:
 
-[caption id="attachment_58" align="aligncenter" width="681"]
-![Gavin Maxwell - The Ring of Bright Water](ring_bright_water.jpg?w=681)
+caption id="attachment_58" align="aligncenter" width="681"]  
+![Gavin Maxwell - The Ring of Bright Water](ring_bright_water.jpg)
  Gavin Maxwell - The Ring of Bright Water[/caption]
 
 L'autore, sul sito del centro che ne onora la memoria, è descritto così:
@@ -37,7 +37,7 @@ Può bastare? Nella mia personalissima sintesi: un matto! Un uomo che si è butt
 
 Se poi vogliamo fare una concessione al côté gossip, la vita sentimentale del suddetto avventuriero è costellata di giovani assistenti, arruolati come aiuto nella gestione degli animali e del cottage, e impreziosita dall'amore frustrato di una poetessa albionica,  Kathleen Raine, che lo amò per anni, non ricambiata, e fu poi definitivamente allontanata quando una sua distrazione causò la tragica morte di una delle lontre. Ce ne sarebbe abbastanza per farci un film, direte, e infatti [il film c'è.](http://en.wikipedia.org/wiki/Ring_of_Bright_Water) Non vi nascondo che pagherei per vederlo!
 
-[caption id="attachment_90" align="aligncenter" width="500"]
+caption id="attachment_90" align="aligncenter" width="500"]  
 ![Gavin Maxwell con Edal](maxwell_gavin_edal.jpg)
  Gavin Maxwell con Edal[/caption]
 

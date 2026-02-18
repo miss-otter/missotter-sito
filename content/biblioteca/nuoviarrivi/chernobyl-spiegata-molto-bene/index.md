@@ -7,10 +7,11 @@ tags: ["adam higginbotham", "centrale nucleare", "chernobyl", "disastro nucleare
 
 ![](midnight-in-chernobyl-9781501134630_xlg.jpg)
 
-[Midnight in Chernobyl
-[The Untold Story of the World’s Greatest Nuclear Disaster
-[Adam Higginbotham
-[New York, Simon & Schuster, 2019](https://www.simonandschuster.com/books/Midnight-in-Chernobyl/Adam-Higginbotham/9781501134630)
+[Midnight in Chernobyl](https://www.simonandschuster.com/books/Midnight-in-Chernobyl/Adam-Higginbotham/9781501134630)  
+The Untold Story of the World’s Greatest Nuclear Disaster  
+Adam Higginbotham  
+New York, Simon & Schuster, 2019  
+
 
 Arrivo tardi con questa recensione, soprattutto rispetto all’hype generata dalla miniserie l’anno scorso ma, non avendo mai avuto un abbonamento a Sky, sulle produzioni HBO arrivo sempre fatalmente un po’ dopo.
 

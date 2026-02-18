@@ -7,10 +7,11 @@ tags: ["genocidio", "Gourevitch", "letture", "libri", "Ruanda"]
 
 ![](gourevitch_2.jpg)
 
-[Philip Gourevitch
-[Desideriamo informarla che domani verremo uccisi con le nostre famiglie. Storie dal Ruanda
-[Torino, Einaudi 2000
-[Traduzione di Norman Gobetti](http://_wp_link_placeholder)
+[Philip Gourevitch](http://_wp_link_placeholder)  
+Desideriamo informarla che domani verremo uccisi con le nostre famiglie. Storie dal Ruanda  
+Torino, Einaudi 2000  
+Traduzione di Norman Gobetti  
+
 
 L'anno scorso al festival di Internazionale, alla conferenza "Ruanda, scrivere il genocidio" ha partecipato Philip Gourevitch, firma del New Yorker, autore del libro "*Desideriamo informarla che domani verremo uccisi con le nostre famiglie. Storie dal Ruanda" *(oggi irreperibile in libreria). Negli anni mi ero informata sul tema in vari modi, leggendo articoli e vedendo film e documentari, ma dopo aver sentito parlare Gourevitch ho deciso di leggere il suo libro, nell'ottima traduzione di Norman Gobetti. Ne è valsa la pena, è faticoso, doloroso, complesso, ma anche molto ben documentato e spiega molto bene che cosa è successo laggiù in quegli anni.
 
@@ -30,11 +31,11 @@ Benché fossero tutti accusati di terribili atti di violenza, i detenuti accalca
 
 Tra le mura delle prigioni si erano ricostituite le solite gerarchie ruandesi: “intellettuali”, funzionari pubblici, professionisti, ecclesiastici e commercianti erano sistemati alla meno peggio nelle celle, mentre le schiere di contadini e operai si accalcavano in cortili privi di qualunque protezione dalle intemperie, accovacciati negli ossuti recessi tra gli arti dei loro vicini, in tutto e per tutto in balia dei propri leader. Come facevano a sopportare quella situazione? Perché non si ribellavano? Perché i tentativi di fuga erano così rari, benché il sistema di sorveglianza fosse minimo? Una folla inferocita di cinquemila prigionieri avrebbe potuto valicare senza difficoltà le mura del penitenziario centrale di Kigali, destabilizzando la capitale, e mettendo seriamente in crisi il tanto odiato governo e magari scatenando anche un più generale moto di ribellione. Nessuno riusciva a spiegare fino in fondo la passività che regnava nelle prigioni; la cosa più probabile era che, essendosi sempre sentiti dire che l’RPF li avrebbe trucidati, e ritrovandosi invece a ricevere con regolarità amichevoli visite da parte di cooperanti internazionali, giornalisti e diplomatici, i prigionieri fossero talmente esterrefatti di essere ancora vivi che preferivano non mettere ulteriormente a repentaglio la propria sorte.
 
-[…]
+…]  
 
 A Gitarama più di seimila uomini erano stipati in uno spazio destinato a non più di settecentocinquanta detenuti, il che significava una densità di quattro persone per metro quadrato. I prigionieri erano costretti a stare in piedi giorno e notte, o seduti in mezzo alle gambe di quelli che erano in piedi, e anche nella stagione secca il pavimento era coperto da uno strato di condensa, urina e rifiuti alimentari. I piedi, le caviglie e talvolta le intere gambe dei prigionieri accalcati si gonfiavano fino a due o tre volte la misura normale e tendevano ad atrofizzarsi, ad andare in cancrena e a infettarsi, e già centinaia di detenuti avevano dovuto subire amputazioni.
 
-[…]
+…]  
 
 Il giorno della mia visita alla prigione di Gitarama, i seimilaquattrocentoventiquattro detenuti formavano una massa apparentemente compatta, e per avanzare tra di loro dovetti misurare con cura ogni passo. Era difficile immaginare come avesse fatto quella gente a incastrarsi in quel modo – quale arto appartenesse a quale corpo, o perché una certa testa sormontava tre gambe senza un busto. Molti avevano i piedi gonfi, e tutti erano vestiti di stracci.
 

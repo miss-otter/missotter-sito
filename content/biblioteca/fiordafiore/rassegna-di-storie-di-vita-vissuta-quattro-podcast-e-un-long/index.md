@@ -9,7 +9,7 @@ tags: ["addio a domani", "anna delvey", "anna sorokin", "argentina", "bolero hav
 
 Piccolo sfogo. Giunti all’estate del 2023 si può dire senza troppa tema di smentita che i podcast sono diventati pervasivi: tutto è podcast, i podcast parlano di tutto e tutti ascoltano podcast.
 
-[Veleno](https://www.repubblica.it/podcast/storie/veleno/stagione1/), il capostipite dei podcast di indagine italiani, risale al 2017, nel frattempo è passata molta acqua sotto i ponti. Oltretutto da allora abbiamo attraversato anche una pandemia che ha regalato agli autori molto tempo per sperimentare e, a seconda dei punti di vista, ha migliorato o peggiorato la situazione.
+Veleno](https://www.repubblica.it/podcast/storie/veleno/stagione1/), il capostipite dei podcast di indagine italiani, risale al 2017, nel frattempo è passata molta acqua sotto i ponti. Oltretutto da allora abbiamo attraversato anche una pandemia che ha regalato agli autori molto tempo per sperimentare e, a seconda dei punti di vista, ha migliorato o peggiorato la situazione.  
 
 Confesso che di recente ho sofferto di overload, di forme acute di binge listening (sgradevole, perché se finisci una serie in un pomeriggio e il giorno dopo ne inizi un'altra, in memoria ti resta poco o niente) e a tratti mi sento un po’ confusa. Anche con le podcast app non mi trovo sempre bene, per esempio quando si tratta di distinguere i titoli a seconda della produzione, per chi come me ritiene che l’informazione abbia una sua importanza.
 
@@ -19,21 +19,23 @@ Oggi, per esempio, ho trovato un filo logico che tiene insieme alcune delle prod
 
 ![](pyongyang_blues.jpg)
 
-[Pyongyang Blues
-[Di Carla Vitantonio
-[10 episodi
-[Zanzibar produzioni
-[Giugno 2020](https://open.spotify.com/show/64edcCmdGkTknDjhfWXCiw)
+[Pyongyang Blues](https://open.spotify.com/show/64edcCmdGkTknDjhfWXCiw)  
+Di Carla Vitantonio  
+10 episodi  
+Zanzibar produzioni  
+Giugno 2020  
+
 
 In una precedente segnalazione (quella dei [tre podcast marini](https://missotter.wordpress.com/2022/08/16/tre-podcast-marini-e-una-carrellata-di-recupero/)) ho sfiorato appena il tema, per me da sempre incredibilmente affascinante, della Corea del Nord. Questo paese impenetrabile di cui sappiamo pochissimo e che resiste, in mezzo al mondo globalizzato, in una posizione di quasi totale isolamento. Ebbene, frugando fra i libri di una casa editrice che apprezzo molto (la torinese ADD), ho scoperto per caso un podcast che racconta come si vive a Pyongyang, grazie a Carla Vitantonio, che ci è rimasta per quattro anni, prima insegnando italiano e poi lavorando per una ONG. Se anche voi siete affascinati dal mistero nordcoreano, vi consiglio di ascoltare questo podcast, per il racconto vivace delle esperienze vissute in prima persona e per la freschezza della narrazione. Pyongyang Blues [è anche un libro](https://www.addeditore.it/catalogo/carla-vitantonio-pyongyang-blues/), con lo stesso titolo, e – sempre con ADD – l’autrice ne ha pubblicati altri due, [uno sul Myanmar](https://www.addeditore.it/catalogo/carla-vitantonio-myanmar-swing/) e [uno su Cuba](https://www.addeditore.it/catalogo/carla-vitantonio-bolero-avana/), dove vive ora. Se avete apprezzato lo stile fresco e lo sguardo originale di questa narratrice, sapete come continuare l’esperienza.
 
 ![](storiadelmionome.jpg)
 
-[Storia del mio nome
-[Di Sabrina Efionayi
-[5 episodi
-[Spotify Studios in collaborazione con Chora Media
-[Maggio 2022](https://choramedia.com/podcast/storia-del-mio-nome/)
+[Storia del mio nome](https://choramedia.com/podcast/storia-del-mio-nome/)  
+Di Sabrina Efionayi  
+5 episodi  
+Spotify Studios in collaborazione con Chora Media  
+Maggio 2022  
+
 
 Proseguo segnalando uno dei miei ascolti più recenti. Sono in colpevole ritardo rispetto all’uscita, l’ho recuperato solo dopo aver saputo che a giugno ha vinto il premio come Miglior Podcast ai [Diversity Media Awards 2023](https://valored.it/news/diversity-media-awards-premiati-personaggi-e-prodotti-piu-inclusivi/).
 
@@ -41,11 +43,12 @@ La storia, raccolta in cinque episodi molto intensi, è raccontata in prima pers
 
 ![](figlie_quadrato.jpg)
 
-[Figlie
-[Di Sara Poma
-[6 episodi
-[Chora Media per Rai Play Sound
-[Maggio 2023](https://www.raiplaysound.it/programmi/figlie)
+[Figlie](https://www.raiplaysound.it/programmi/figlie)  
+Di Sara Poma  
+6 episodi  
+Chora Media per Rai Play Sound  
+Maggio 2023  
+
 
 Proseguo l’esplorazione di storie di madri e figlie con una vicenda non meno intensa della precedente. Sara Poma, che aveva già toccato il tema con [Carla, una ragazza del novecento](https://open.spotify.com/show/6qHRvXXYUFCq4OypGmYTR6) (il podcast che - a partire da un quaderno ritrovato - racconta la vita di sua nonna), con questo lavoro fa un passo in più in direzione di se stessa e allo stesso tempo un grande passo – che scavalca l’oceano e la porta fino in Argentina – in direzione di un’altra figlia. Sara incontra Sofia, sua coetanea, e scopre di avere qualcosa in comune con lei: il lutto per la perdita della madre. Silvia, la madre di Sofia, è desaparecida negli anni ’70. Viene sequestrata dai militari assieme alla figlia e non farà più ritorno a casa, mentre la bambina sarà riconsegnata ai nonni pochi giorni dopo il rapimento, assieme a un’altra bambina che era con lei e la cui madre sparisce assieme a Silvia.
 
@@ -53,11 +56,12 @@ Questo bel racconto a due voci mi ha profondamente colpita, per due ragioni prin
 
 ![](milanese.jpg)
 
-[Io ero il milanese
-[Di Mauro Pescio
-[14 episodi
-[Rai Play Sound
-[Marzo 2022](https://www.raiplaysound.it/programmi/ioeroilmilanese)
+[Io ero il milanese](https://www.raiplaysound.it/programmi/ioeroilmilanese)  
+Di Mauro Pescio  
+14 episodi  
+Rai Play Sound  
+Marzo 2022  
+
 
 Dopo tre storie tutte al femminile, facciamo spazio a una “quota azzurra”. Recupero e vi consiglio un altro podcast dello scorso anno, sempre una narrazione a due voci e sempre prodotto da Rai Play Sound. Senza nulla togliere ai tre podcast precedenti, ho lasciato questo lavoro per ultimo per dargli risalto, perché ritengo che sia straordinario.
 
@@ -69,10 +73,11 @@ Vi dirò solo che si parla di criminalità, di amore, di dolore, di famiglia, di
 
 ![](anna-sorokin-50.webp)
 
-[Jessica Pressler
-[How an Aspiring 'It' Girl Tricked New York's Party People — and Its Banks
-[New York Magazine’s The Cut
-[28 maggio 2018](https://www.thecut.com/article/how-anna-delvey-tricked-new-york.html)
+[Jessica Pressler](https://www.thecut.com/article/how-anna-delvey-tricked-new-york.html)  
+How an Aspiring 'It' Girl Tricked New York's Party People — and Its Banks  
+New York Magazine’s The Cut  
+28 maggio 2018  
+
 
 Chiuso il capitolo podcast, passiamo alla segnalazione di un longform. È un pezzo del 2018, l’avevo nel cassetto da tanto tempo, ma in questo contesto sta proprio bene, fosse anche solo come invito a rileggerlo.
 

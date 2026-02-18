@@ -19,4 +19,4 @@ missotter (at) outlook (punto) com
 
 Sono (ero?) anche moderatamente attiva su Twitter, dove il mio handle è @laleneve.
 
-[Una pagina di questo blog ](https://missotter.wordpress.com/traduzioni/)raccoglie i rimandi ad alcune mie traduzioni pubblicate online. Se volete farvi un'idea di come traduco, siete i benvenuti.
+Una pagina di questo blog ](https://missotter.wordpress.com/traduzioni/)raccoglie i rimandi ad alcune mie traduzioni pubblicate online. Se volete farvi un'idea di come traduco, siete i benvenuti.  

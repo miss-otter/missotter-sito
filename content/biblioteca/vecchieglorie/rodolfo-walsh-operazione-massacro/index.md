@@ -7,11 +7,12 @@ tags: ["a sangue freddo", "carlos alberto lizaso", "desaparecidos", "desiderio f
 
 ![](operazione_massacro_2.jpg)
 
-[Rodolfo Walsh
-[Operazione massacro
-[La nuova frontiera
-[Roma, 2017
-[Traduzione di Elena Rolla](https://www.lanuovafrontiera.it/prodotto/operazione-massacro/)
+[Rodolfo Walsh](https://www.lanuovafrontiera.it/prodotto/operazione-massacro/)  
+Operazione massacro  
+La nuova frontiera  
+Roma, 2017  
+Traduzione di Elena Rolla  
+
 
 Dopo tre o quattro nuovi arrivi è giunto il momento di rispolverare una vecchia gloria. E dopo diversi libroni ponderosi un libro più breve ma decisamente più intenso. Facciamo un breve viaggio alle origini del genere e dopo tanti autori nordamericani questa volta andiamo in America Latina.
 

@@ -7,9 +7,10 @@ tags: ["17 settembre 1961", "cold case", "cold case Hammarskj\u00f6ld", "congo",
 
 ![](golden_thread.jpg)
 
-[Ravi Somaiya
-[The Golden Thread - The Cold War Mystery Surrounding the Death of Dag Hammarskjöld
-[New York, Twelve, luglio 2020](https://www.twelvebooks.com/titles/ravi-somaiya/the-golden-thread/9781455536535/)
+[Ravi Somaiya](https://www.twelvebooks.com/titles/ravi-somaiya/the-golden-thread/9781455536535/)  
+The Golden Thread - The Cold War Mystery Surrounding the Death of Dag Hammarskjöld  
+New York, Twelve, luglio 2020  
+
 
 **«Hammarskjöld stava per ottenere qualcosa quando l’hanno ucciso. Notate bene, ho detto “l’hanno ucciso”.»**
 Harry Truman, ex presidente degli Stati Uniti, Kansas City, 18 settembre 1961

@@ -9,23 +9,26 @@ tags: ["annalisa camilli", "bolzaneto", "diaz", "g8", "genoa social forum", "gen
 
 In questa calda estate che scivola verso la conclusione, fra i miei consumi culturali ci sono stati più podcast che libri, forse perché ho avuto davvero poco tempo per starmene seduta a leggere sotto l’ombrellone. Continuo quindi con le segnalazioni di podcast e in particolare con tre produzioni italiane uscite in occasione del ventesimo anniversario del G8 di Genova.
 
-[Limoni, il G8 di Genova vent’anni dopo
-[Di Annalisa Camilli in collaborazione con Carlo Bachschmidt, Marzia Coronati e Anita Otto
-[8 episodi
-[Produzione: Internazionale
-[2021](https://www.internazionale.it/notizie/2021/06/10/limoni-podcast-g8-genova)
+[Limoni, il G8 di Genova vent’anni dopo](https://www.internazionale.it/notizie/2021/06/10/limoni-podcast-g8-genova)  
+Di Annalisa Camilli in collaborazione con Carlo Bachschmidt, Marzia Coronati e Anita Otto  
+8 episodi  
+Produzione: Internazionale  
+2021  
 
-[Il salto. Il caso Carlo Giuliani
-[di Sara Menafra
-[2 episodi
-[Produzione: Rai Radio 3
-[2021](https://www.raiplayradio.it/programmi/ilsalto-podcastrairadio3/)
 
-[Genova per tutti - Venti anni dopo il G8
-[Di Mauro Pescio e Daria Corrias
-[5 episodi + 2 contenuti extra
-[Produzione: Rai Radio 3
-[2021](https://www.raiplayradio.it/programmi/genovapertutti-podcastrairadio3)
+[Il salto. Il caso Carlo Giuliani](https://www.raiplayradio.it/programmi/ilsalto-podcastrairadio3/)  
+di Sara Menafra  
+2 episodi  
+Produzione: Rai Radio 3  
+2021  
+
+
+[Genova per tutti - Venti anni dopo il G8](https://www.raiplayradio.it/programmi/genovapertutti-podcastrairadio3)  
+Di Mauro Pescio e Daria Corrias  
+5 episodi + 2 contenuti extra  
+Produzione: Rai Radio 3  
+2021  
+
 
 Il primo si intitola “Limoni” ed è prodotto da Internazionale, che ha incaricato della realizzazione la bravissima giornalista Annalisa Camilli. L’intenzione dichiarata di questo lavoro era quella di fare una panoramica complessiva di quanto accaduto a Genova prima, durante e dopo il G8 del 2001 per spiegarlo a chi era troppo giovane per ricordarsene. Il secondo podcast che ho ascoltato è una produzione di Rai Radio 3 che si intitola “Il salto”, si compone di due sole puntate e si concentra esclusivamente sulla vicenda della morte di Carlo Giuliani. Il terzo, sempre prodotto da Rai Radio 3, si intitola “Genova per tutti” ed è strutturalmente simile al primo.
 
