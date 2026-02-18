@@ -209,3 +209,53 @@ footer {
     color: #8ab08d;
   }
 }
+/* ============================================
+   AGGIUNTE PER MISS OTTER
+   Aggiungi questo contenuto al tuo custom.css
+   ============================================ */
+
+/* Immagini nella pagina Traduzioni - dimensione uniforme */
+.content img[src*="edited"],
+.content img[src*="byler"],
+.content img[src*="somaiya"],
+.content img[src*="mediavilla"],
+.content img[src*="hankir"],
+.content img[src*="altman"],
+.content img[src*="clare"] {
+  width: 200px;
+  height: auto;
+  filter: sepia(100%) hue-rotate(70deg) saturate(60%);
+  border-radius: 4px;
+}
+
+/* Alternativa: applica a tutte le immagini nella pagina traduzioni */
+/* Se la pagina traduzioni ha una classe specifica, usa quella */
+
+/* Navigazione sottosezioni biblioteca */
+.nav-sottosezioni {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: #f5f5f5;
+  border-radius: 8px;
+}
+
+.nav-sottosezioni a {
+  padding: 8px 16px;
+  background: var(--accent-color, #556b58);
+  color: white !important;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.nav-sottosezioni a:hover {
+  opacity: 0.8;
+}
+
+.nav-sottosezioni a.current {
+  background: #333;
+}
+
