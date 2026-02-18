@@ -1,4 +1,4 @@
-baseURL = 'https://missotter.com'
+baseURL = '/'
 languageCode = 'it'
 title = 'Miss Otter'
 theme = 'clarity'
