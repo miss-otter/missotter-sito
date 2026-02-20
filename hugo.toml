@@ -3,7 +3,6 @@ defaultContentLanguage = 'it'
 defaultContentLanguageInSubdir = false
 title = 'Miss Otter'
 theme = 'clarity'
-
 disableKinds = ["taxonomy", "term"]
 
 [taxonomies]
@@ -33,6 +32,11 @@ disableKinds = ["taxonomy", "term"]
   twitter = ""
   github = ""
 
+# ============================================
+# MENU PRINCIPALE
+# Nota: Clarity NON supporta menu nidificati (parent/children)
+# Le sottosezioni di Biblioteca saranno accessibili dalla pagina Biblioteca
+# ============================================
 [menu]
   [[menu.main]]
     identifier = "home"
@@ -56,34 +60,6 @@ disableKinds = ["taxonomy", "term"]
     identifier = "biblioteca"
     name = "La biblioteca"
     url = "/biblioteca/"
-    weight = 4
-    
-  [[menu.main]]
-    identifier = "nuoviarrivi"
-    name = "Nuovi Arrivi"
-    url = "/biblioteca/nuoviarrivi/"
-    parent = "biblioteca"
-    weight = 1
-    
-  [[menu.main]]
-    identifier = "vecchieglorie"
-    name = "Vecchie Glorie"
-    url = "/biblioteca/vecchieglorie/"
-    parent = "biblioteca"
-    weight = 2
-    
-  [[menu.main]]
-    identifier = "fiordafiore"
-    name = "Fior da Fiore"
-    url = "/biblioteca/fiordafiore/"
-    parent = "biblioteca"
-    weight = 3
-    
-  [[menu.main]]
-    identifier = "oldies"
-    name = "Oldies"
-    url = "/biblioteca/oldies/"
-    parent = "biblioteca"
     weight = 4
     
   [[menu.main]]
