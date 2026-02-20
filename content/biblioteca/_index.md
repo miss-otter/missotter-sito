@@ -1,5 +1,6 @@
 ---
 title: "La biblioteca"
+layout: "single"
 ---
 
 ![](biblioteca_cesena.jpg)
