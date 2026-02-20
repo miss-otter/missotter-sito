@@ -258,35 +258,6 @@ footer {
 .nav-sottosezioni a.current {
   background: #333;
 }
-/* MENU DROPDOWN */
-.menu_item.has-children { position: relative; }
-.dropdown-icon { margin-left: 4px; transition: transform 0.2s; }
-.menu_item.has-children:hover .dropdown-icon { transform: rotate(180deg); }
-.submenu {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  min-width: 180px;
-  background: var(--bg, #fff);
-  border: 1px solid var(--border, #ddd);
-  border-radius: 4px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  padding: 8px 0;
-  z-index: 1000;
-  list-style: none;
-}
-.menu_item.has-children:hover .submenu { display: block; }
-.submenu_link {
-  display: block;
-  padding: 8px 16px;
-  color: var(--text, #333);
-  text-decoration: none;
-}
-.submenu_link:hover {
-  background: var(--accent-color, #556b58);
-  color: #fff;
-}
 
 /* IMMAGINI TRADUZIONI */
 .content img[src*="edited"] {
