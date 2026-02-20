@@ -1,6 +1,5 @@
 ---
 title: "Proposte editoriali"
-layout: "single"
 ---
 
 Questa pagina raccoglie le mie più recenti proposte editoriali. Passa il mouse sulle copertine per scoprire di più, clicca per scaricare la scheda. Se desideri prendere visione di altri materiali o valutare un saggio di traduzione, scrivimi all'indirizzo ale [dot] neve [at] gmail [dot] com.
@@ -15,6 +14,7 @@ Questa pagina raccoglie le mie più recenti proposte editoriali. Passa il mouse 
       <div class="download-hint">📄 Scarica scheda</div>
     </div>
   </div>
+  <div class="proposta-info"><h4>Los Muertos y el Periodista</h4></div>
 </a>
 
 <a href="the-naked-dont-fear-the-water_scheda.pdf" class="proposta-item">
@@ -25,6 +25,7 @@ Questa pagina raccoglie le mie più recenti proposte editoriali. Passa il mouse 
       <div class="download-hint">📄 Scarica scheda</div>
     </div>
   </div>
+  <div class="proposta-info"><h4>The Naked Don't Fear the Water</h4></div>
 </a>
 
 <a href="thegoldenthread_proposta_scheda.pdf" class="proposta-item">
@@ -35,6 +36,7 @@ Questa pagina raccoglie le mie più recenti proposte editoriali. Passa il mouse 
       <div class="download-hint">📄 Scarica scheda</div>
     </div>
   </div>
+  <div class="proposta-info"><h4>The Golden Thread</h4></div>
 </a>
 
 <a href="owotg_proposta_scheda.pdf" class="proposta-item">
@@ -45,6 +47,7 @@ Questa pagina raccoglie le mie più recenti proposte editoriali. Passa il mouse 
       <div class="download-hint">📄 Scarica scheda</div>
     </div>
   </div>
+  <div class="proposta-info"><h4>Our Women on the Ground</h4></div>
 </a>
 
 <a href="otst_scheda.pdf" class="proposta-item">
@@ -55,6 +58,7 @@ Questa pagina raccoglie le mie più recenti proposte editoriali. Passa il mouse 
       <div class="download-hint">📄 Scarica scheda</div>
     </div>
   </div>
+  <div class="proposta-info"><h4>On the Shadow Tracks</h4></div>
 </a>
 
 <a href="una_dacha_en_el_golfo_scheda.pdf" class="proposta-item">
@@ -65,6 +69,7 @@ Questa pagina raccoglie le mie più recenti proposte editoriali. Passa il mouse 
       <div class="download-hint">📄 Scarica scheda</div>
     </div>
   </div>
+  <div class="proposta-info"><h4>Una Dacha en el Golfo</h4></div>
 </a>
 
 <a href="we_are_bellingcat_proposta_scheda.pdf" class="proposta-item">
@@ -75,6 +80,7 @@ Questa pagina raccoglie le mie più recenti proposte editoriali. Passa il mouse 
       <div class="download-hint">📄 Scarica scheda</div>
     </div>
   </div>
+  <div class="proposta-info"><h4>We Are Bellingcat</h4></div>
 </a>
 
 <a href="fentanyl_inc_proposta_scheda.pdf" class="proposta-item">
@@ -85,6 +91,7 @@ Questa pagina raccoglie le mie più recenti proposte editoriali. Passa il mouse 
       <div class="download-hint">📄 Scarica scheda</div>
     </div>
   </div>
+  <div class="proposta-info"><h4>Fentanyl, Inc.</h4></div>
 </a>
 
 </div>
