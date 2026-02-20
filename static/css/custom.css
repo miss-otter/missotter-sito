@@ -266,3 +266,220 @@ footer {
   border-radius: 4px;
 }
 
+/* ============================================
+   LAYOUT TRADUZIONI - CARDS
+   ============================================ */
+.traduzioni-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 30px;
+  margin-top: 30px;
+}
+
+.traduzione-card {
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  transition: transform 0.2s, box-shadow 0.2s;
+  border: 1px solid #eee;
+}
+
+.traduzione-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+
+.traduzione-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: top;
+}
+
+.traduzione-card-body {
+  padding: 20px;
+}
+
+.traduzione-card-body h3 {
+  color: #556b58;
+  margin: 0 0 5px 0;
+  font-size: 1.15rem;
+}
+
+.traduzione-card-body .titolo-pezzo {
+  font-style: italic;
+  color: #888;
+  font-size: 0.95rem;
+  margin-bottom: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #eee;
+}
+
+.traduzione-card-body .titolo-pezzo a {
+  color: #556b58;
+  text-decoration: none;
+}
+
+.traduzione-card-body .titolo-pezzo a:hover {
+  text-decoration: underline;
+}
+
+.traduzione-card-body .descrizione {
+  font-size: 0.9rem;
+  color: #555;
+  line-height: 1.5;
+}
+
+/* ============================================
+   LAYOUT PROPOSTE - GRIGLIA CON HOVER
+   ============================================ */
+.proposte-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 25px;
+  margin-top: 30px;
+}
+
+.proposta-item {
+  position: relative;
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.proposta-cover {
+  position: relative;
+  overflow: hidden;
+  border-radius: 6px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+  aspect-ratio: 2/3;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.proposta-item:hover .proposta-cover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.25);
+}
+
+.proposta-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s;
+}
+
+.proposta-item:hover .proposta-cover img {
+  transform: scale(1.05);
+}
+
+.proposta-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+    to top,
+    rgba(85, 107, 88, 0.95) 0%,
+    rgba(85, 107, 88, 0.85) 50%,
+    rgba(85, 107, 88, 0.6) 100%
+  );
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 15px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.proposta-item:hover .proposta-overlay {
+  opacity: 1;
+}
+
+.proposta-overlay .descrizione {
+  color: rgba(255,255,255,0.95);
+  font-size: 0.8rem;
+  line-height: 1.4;
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+.proposta-overlay .download-hint {
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid rgba(255,255,255,0.3);
+  color: white;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Mobile: overlay sempre visibile */
+@media (max-width: 768px) {
+  .proposta-overlay {
+    opacity: 1;
+    background: linear-gradient(
+      to top,
+      rgba(85, 107, 88, 0.95) 0%,
+      rgba(85, 107, 88, 0.5) 70%,
+      transparent 100%
+    );
+  }
+  .proposta-overlay .descrizione {
+    max-height: 80px;
+  }
+}
+
+/* ============================================
+   LAYOUT BIBLIOTECA - LISTA SOTTOSEZIONI
+   ============================================ */
+.biblioteca-sezioni {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.biblioteca-sezione {
+  display: flex;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.biblioteca-sezione:hover {
+  transform: translateX(5px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+}
+
+.biblioteca-sezione-thumb {
+  width: 120px;
+  height: 100px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.biblioteca-sezione-info {
+  padding: 15px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.biblioteca-sezione-info h3 {
+  margin: 0 0 5px 0;
+  color: #556b58;
+  font-size: 1.1rem;
+}
+
+.biblioteca-sezione-info p {
+  margin: 0;
+  color: #666;
+  font-size: 0.9rem;
+}
