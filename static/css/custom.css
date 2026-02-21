@@ -480,3 +480,82 @@ article.post_content,
   margin: 0 auto !important;
   width: 100% !important;
 }
+
+/* ===========================================
+   SEZIONE LIBRI TRADOTTI
+   =========================================== */
+.sezione-titolo {
+  margin-top: 60px !important;
+  margin-bottom: 30px !important;
+  font-size: 1.5rem !important;
+  color: #556b58 !important;
+  border-bottom: 2px solid #556b58 !important;
+  padding-bottom: 10px !important;
+}
+
+.libri-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)) !important;
+  gap: 30px !important;
+  margin-top: 20px !important;
+}
+
+.libro-card {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.libro-cover {
+  width: 100% !important;
+  aspect-ratio: 2/3 !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  border-radius: 4px !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
+  transition: transform 0.2s, box-shadow 0.2s !important;
+}
+
+.libro-card:hover .libro-cover {
+  transform: translateY(-5px) !important;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2) !important;
+}
+
+.libro-no-cover {
+  background-color: #e0e0e0 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.libro-info {
+  padding: 12px 0 !important;
+  text-align: center !important;
+}
+
+.libro-autore {
+  font-weight: 600 !important;
+  color: #556b58 !important;
+  margin: 0 0 4px 0 !important;
+  font-size: 0.9rem !important;
+}
+
+.libro-titolo {
+  font-style: italic !important;
+  color: #333 !important;
+  margin: 0 0 4px 0 !important;
+  font-size: 0.85rem !important;
+  line-height: 1.3 !important;
+}
+
+.libro-editore {
+  color: #888 !important;
+  margin: 0 !important;
+  font-size: 0.8rem !important;
+}
+
+.libro-data {
+  color: #aaa !important;
+  margin: 4px 0 0 0 !important;
+  font-size: 0.75rem !important;
+}
