@@ -409,8 +409,8 @@ footer {
 
 .biblioteca-sezione > img,
 .biblioteca-sezione > p > img {
-  width: 150px !important;
-  min-width: 150px !important;
+  width: 300px !important;
+  min-width: 300px !important;
   height: 120px !important;
   object-fit: cover !important;
   border-radius: 0 !important;
