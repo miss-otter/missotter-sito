@@ -40,15 +40,35 @@ def slugify(text):
     text = re.sub(r'[\s_]+', '-', text)
     return text.strip('-')
 
+def extract_first_image(content):
+    """Estrae la prima immagine dal contenuto HTML"""
+    # Cerca immagini Substack
+    match = re.search(r'<img[^>]*src=["\']([^"\']+)["\']', content)
+    if match:
+        return match.group(1)
+    return ""
+
 def html_to_markdown(content):
+    # Gestisci le immagini prima di tutto
+    def replace_img(match):
+        src = match.group(1)
+        alt = match.group(2) if match.group(2) else ""
+        return f'\n\n![{alt}]({src})\n\n'
+    
+    content = re.sub(r'<img[^>]*src=["\']([^"\']+)["\'][^>]*alt=["\']([^"\']*)["\'][^>]*>', replace_img, content)
+    content = re.sub(r'<img[^>]*src=["\']([^"\']+)["\'][^>]*>', r'\n\n![](\1)\n\n', content)
+    
     content = re.sub(r'<p[^>]*>', '\n\n', content)
     content = re.sub(r'</p>', '', content)
     content = re.sub(r'<h2[^>]*>(.*?)</h2>', r'\n\n## \1\n\n', content, flags=re.DOTALL)
     content = re.sub(r'<strong[^>]*>(.*?)</strong>', r'**\1**', content, flags=re.DOTALL)
     content = re.sub(r'<em[^>]*>(.*?)</em>', r'*\1*', content, flags=re.DOTALL)
     content = re.sub(r'<a[^>]*href=["\'](.*?)["\'][^>]*>(.*?)</a>', r'[\2](\1)', content, flags=re.DOTALL)
+    content = re.sub(r'<blockquote[^>]*>(.*?)</blockquote>', r'\n\n> \1\n\n', content, flags=re.DOTALL)
     content = re.sub(r'<[^>]+>', '', content)
     content = html.unescape(content)
+    # Pulisci righe vuote multiple
+    content = re.sub(r'\n{3,}', '\n\n', content)
     return content.strip()
 
 def main():
@@ -67,18 +87,29 @@ def main():
         date = datetime(*entry.published_parsed[:6]) if hasattr(entry, 'published_parsed') else datetime.now()
         content_html = entry.get('content', [{}])[0].get('value', '') or entry.get('summary', '')
         
+        # Estrai prima immagine per il frontmatter
+        first_image = extract_first_image(content_html)
+        
+        # Escape delle virgolette nel titolo
+        safe_title = entry.title.replace('"', "'")
+        
         post_dir = CONTENT_DIR / slug
         post_dir.mkdir(parents=True, exist_ok=True)
         
-        content = f"""---
-title: "{entry.title.replace('"', '\\"')}"
+        # Costruisci il frontmatter
+        frontmatter = f'''---
+title: "{safe_title}"
 date: {date.strftime('%Y-%m-%dT%H:%M:%S+01:00')}
 source: "substack"
-original_url: "{entry.link}"
----
-
-{html_to_markdown(content_html)}
-"""
+original_url: "{entry.link}"'''
+        
+        if first_image:
+            frontmatter += f'\nimage: "{first_image}"'
+        
+        frontmatter += '\n---\n\n'
+        
+        content = frontmatter + html_to_markdown(content_html)
+        
         (post_dir / "index.md").write_text(content, encoding='utf-8')
         save_imported_id(post_id)
         print(f"  Importato: {entry.title[:50]}...")
