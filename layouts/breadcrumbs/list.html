@@ -1,0 +1,58 @@
+{{ define "main" }}
+<div class="breadcrumbs-layout">
+  
+  {{ $allPosts := where .Site.RegularPages "Section" "breadcrumbs" }}
+  
+  <!-- Articles (importati da RSS) - hanno source: "substack" -->
+  {{ $articles := where $allPosts "Params.source" "substack" }}
+  {{ $articles = $articles.ByDate.Reverse }}
+  
+  <!-- Notes (manuali) - NON hanno source: "substack" -->
+  {{ $notes := where $allPosts "Params.source" "!=" "substack" }}
+  {{ $notes = $notes.ByDate.Reverse }}
+  
+  <div class="breadcrumbs-main">
+    <h1>Breadcrumbs</h1>
+    <p class="breadcrumbs-intro">Pensieri, scoperte e segnalazioni dal mio Substack.</p>
+    
+    {{ if $articles }}
+    <div class="articles-list">
+      {{ range $articles }}
+      <article class="article-item">
+        {{ with .Params.image }}
+        <a href="{{ $.Permalink }}" class="article-image">
+          <img src="{{ . }}" alt="{{ $.Title }}">
+        </a>
+        {{ end }}
+        <div class="article-content">
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+          <p>{{ .Summary | truncate 250 }}</p>
+          <a href="{{ .Permalink }}" class="read-more">Continua a leggere →</a>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+    {{ else }}
+    <p class="no-articles">Nessun articolo ancora.</p>
+    {{ end }}
+  </div>
+  
+  <aside class="breadcrumbs-sidebar">
+    <h3>Notes</h3>
+    {{ if $notes }}
+    <div class="notes-list">
+      {{ range $notes }}
+      <div class="note-item">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+      </div>
+      {{ end }}
+    </div>
+    {{ else }}
+    <p class="no-notes">Nessuna nota ancora.</p>
+    {{ end }}
+  </aside>
+  
+</div>
+{{ end }}
