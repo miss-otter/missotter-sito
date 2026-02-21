@@ -3,6 +3,8 @@ title: "Chi sono"
 layout: "single"
 ---
 
+![Objects in the mirror](C:/Users/Ale/Pictures/Mie_immagini_da_Lancillotto/Objects in the mirror.JPG)
+
 Mi chiamo Alessandra Neve, sono una traduttrice e lavoro con tre lingue: inglese, francese e spagnolo.
 
 Traduco in prevalenza giornalismo e saggi, meno spesso ma molto volentieri faccio traduzioni per il doppiaggio. Quando non lavoro mi dedico alle letture, alle visioni e agli ascolti che stanno alla base delle mie segnalazioni. Porto avanti con costanza anche un'attività di scouting, proponendo agli editori testi di giornalismo che credo valga la pena di far conoscere al pubblico italiano.
@@ -17,4 +19,4 @@ I post sono aperti ai commenti, ma se volete scrivermi in privato per segnalare 
 
 Sono (ero?) anche moderatamente attiva su Twitter, dove il mio handle è @laleneve.
 
-[Una pagina di questo blog](/traduzioni/) raccoglie i rimandi ad alcune mie traduzioni pubblicate online. Se volete farvi un'idea di come traduco, siete i benvenuti.
+[Una pagina di questo blog](/traduzioni/) elenca i libri che ho tradotto e contiene rimandi ad alcune mie traduzioni pubblicate online. Se volete farvi un'idea di come traduco, siete i benvenuti. 
