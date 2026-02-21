@@ -27,6 +27,8 @@ disableKinds = ["taxonomy", "term"]
   numberOfTagsShown = 0
   usePageBundles = true
   since = 2020
+  figurePositionShow = false
+  figurePositionLabel = false
 
 [params.social]
   twitter = ""
