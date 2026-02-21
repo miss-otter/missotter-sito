@@ -491,3 +491,19 @@ main.content,
   background-position: center 20% !important;
   background-repeat: no-repeat !important;
 }
+
+/* ===========================================
+   CONTENUTO A LARGHEZZA PIENA (NO SIDEBAR)
+   =========================================== */
+.grid-inverse,
+.grid-reverse,
+.wrap {
+  display: block !important;
+}
+
+article.post_content,
+.post_content {
+  max-width: 900px !important;
+  margin: 0 auto !important;
+  width: 100% !important;
+}

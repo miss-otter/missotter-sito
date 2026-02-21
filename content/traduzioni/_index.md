@@ -17,7 +17,7 @@ Prosegue la mia collaborazione con il progetto di blog collettivo *Assaggi* di n
 </div>
 
 <div class="traduzione-card">
-<div class="traduzione-foto" style="background-image: url('ravi_somaiya-edited.jpg')"></div>
+<div class="traduzione-foto" style="background-image: url('ravi_somaiya-edited.jpg'); background-position: center 30%"></div>
 <div class="traduzione-card-body">
 <h3>Ravi Somaiya</h3>
 <p class="titolo-pezzo"><a href="https://nonfiction.it/assaggi/il-complotto-africano/">Il complotto africano</a></p>
@@ -44,7 +44,7 @@ Prosegue la mia collaborazione con il progetto di blog collettivo *Assaggi* di n
 </div>
 
 <div class="traduzione-card">
-<div class="traduzione-foto" style="background-image: url('altman_headshot-edited.jpeg')"></div>
+<div class="traduzione-foto" style="background-image: url('altman_headshot-edited.jpeg'); background-position: center 35%"></div>
 <div class="traduzione-card-body">
 <h3>Rebecca Altman</h3>
 <p class="titolo-pezzo"><a href="https://nonfiction.it/assaggi/sul-vinile/">Sul vinile</a></p>
