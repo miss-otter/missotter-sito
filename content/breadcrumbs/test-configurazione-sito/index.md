@@ -6,10 +6,11 @@ source: "substack"
 original_url: "https://smallbreadcrumbs.substack.com/p/coming-soon"
 ---
 
-Titolo: Test configurazione sito 
+Titolo: Test configurazione sito [![](https://substackcdn.com/image/fetch/$s_!6xSl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08007d1d-3a6a-42ca-bbf8-fbb9f9ff48b7_1024x1024.jpeg)
+
+- ](https://substackcdn.com/image/fetch/$s_!6xSl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08007d1d-3a6a-42ca-bbf8-fbb9f9ff48b7_1024x1024.jpeg)
 
 Questo è un **post di prova** per testare l'*importazione automatica* da Substack. 
-- 
 
 [link](https://missotter.wordpress.com) 
 - 
