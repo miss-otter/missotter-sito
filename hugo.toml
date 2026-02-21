@@ -30,7 +30,7 @@ disableKinds = ["taxonomy", "term"]
   figurePositionShow = false
   figurePositionLabel = false
 
-[params.social]
+[params.social] 
   twitter = ""
   github = ""
 
