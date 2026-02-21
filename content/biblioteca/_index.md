@@ -35,33 +35,33 @@ Al suo interno trovano spazio molte cose diverse, provo a elencarle:
 
 Mi rendo conto che è un panorama molto vasto, se si aggiunge poi che io amo molto anche il giornalismo investigativo (le cui imprese tuttavia, quando si trasformano in libri, sono spesso meno stilisticamente rifinite), i reportage lunghi, i podcast e i documentari, c'è l'imbarazzo della scelta.
 
-Ebbene, quello che mi propongo è di guidarvi o, forse meglio, di farmi accompagnare in questa esplorazione, articolata in:
+Ebbene, quello che mi propongo è di guidarvi o, forse meglio, di farmi accompagnare in questa esplorazione:
 
 <div class="biblioteca-sezioni">
 
-<a href="/biblioteca/nuoviarrivi/" class="biblioteca-sezione">
-  <img src="img_4597.jpg" alt="Nuovi Arrivi">
-  <div class="biblioteca-sezione-info">
-    <h3>Nuovi Arrivi</h3>
-    <p>Recensioni delle mie scoperte recenti: libri, autori e storie che meritano attenzione.</p>
-  </div>
-</a>
+<div class="biblioteca-sezione">
+<img src="img_4597.jpg" alt="Nuovi Arrivi">
+<div class="biblioteca-sezione-info">
+<h3><a href="/biblioteca/nuoviarrivi/">Nuovi Arrivi</a></h3>
+<p>Recensioni delle mie scoperte recenti: libri, autori e storie che meritano attenzione.</p>
+</div>
+</div>
 
-<a href="/biblioteca/vecchieglorie/" class="biblioteca-sezione">
-  <img src="img_4579.jpg" alt="Vecchie Glorie">
-  <div class="biblioteca-sezione-info">
-    <h3>Vecchie Glorie</h3>
-    <p>I grandi classici del genere, testi che hanno contribuito a definire la narrazione del reale.</p>
-  </div>
-</a>
+<div class="biblioteca-sezione">
+<img src="img_4579.jpg" alt="Vecchie Glorie">
+<div class="biblioteca-sezione-info">
+<h3><a href="/biblioteca/vecchieglorie/">Vecchie Glorie</a></h3>
+<p>I grandi classici del genere, testi che hanno contribuito a definire la narrazione del reale.</p>
+</div>
+</div>
 
-<a href="/biblioteca/fiordafiore/" class="biblioteca-sezione">
-  <img src="5-img_0668.jpg" alt="Fior da Fiore">
-  <div class="biblioteca-sezione-info">
-    <h3>Fior da Fiore</h3>
-    <p>Digressioni su articoli, podcast e documentari particolarmente interessanti.</p>
-  </div>
-</a>
+<div class="biblioteca-sezione">
+<img src="5-img_0668.jpg" alt="Fior da Fiore">
+<div class="biblioteca-sezione-info">
+<h3><a href="/biblioteca/fiordafiore/">Fior da Fiore</a></h3>
+<p>Digressioni su articoli, podcast e documentari particolarmente interessanti.</p>
+</div>
+</div>
 
 </div>
 
