@@ -566,7 +566,7 @@ article.post_content,
 .biblioteca-sezione-img {
   width: 300px !important;
   min-width: 300px !important;
-  height: 120px !important;
+  height: 240px !important;
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
@@ -578,4 +578,20 @@ article.post_content,
 
 .biblioteca-sezione-solo-testo .biblioteca-sezione-info {
   padding: 25px 30px !important;
+}
+
+/* Card cliccabili */
+a.biblioteca-sezione {
+  text-decoration: none !important;
+  color: inherit !important;
+  cursor: pointer !important;
+}
+
+a.biblioteca-sezione:hover {
+  transform: translateX(8px) !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.12) !important;
+}
+
+a.biblioteca-sezione h3 {
+  color: #556b58 !important;
 }
