@@ -559,3 +559,23 @@ article.post_content,
   margin: 4px 0 0 0 !important;
   font-size: 0.75rem !important;
 }
+
+/* ===========================================
+   BIBLIOTECA - FIX IMMAGINI SEZIONI
+   =========================================== */
+.biblioteca-sezione-img {
+  width: 300px !important;
+  min-width: 300px !important;
+  height: 120px !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+}
+
+.biblioteca-sezione-solo-testo {
+  background: #f9f9f9 !important;
+}
+
+.biblioteca-sezione-solo-testo .biblioteca-sezione-info {
+  padding: 25px 30px !important;
+}
