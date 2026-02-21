@@ -8,7 +8,7 @@ Prosegue la mia collaborazione con il progetto di blog collettivo *Assaggi* di n
 <div class="traduzioni-grid">
 
 <div class="traduzione-card">
-<img src="darren_byler-edited-2.png" alt="Darren Byler">
+<div class="traduzione-foto" style="background-image: url('darren_byler-edited-2.png')"></div>
 <div class="traduzione-card-body">
 <h3>Darren Byler</h3>
 <p class="titolo-pezzo"><a href="https://nonfiction.it/assaggi/la-storia-di-vera/">La storia di Vera</a></p>
@@ -17,7 +17,7 @@ Prosegue la mia collaborazione con il progetto di blog collettivo *Assaggi* di n
 </div>
 
 <div class="traduzione-card">
-<img src="ravi_somaiya-edited.jpg" alt="Ravi Somaiya">
+<div class="traduzione-foto" style="background-image: url('ravi_somaiya-edited.jpg')"></div>
 <div class="traduzione-card-body">
 <h3>Ravi Somaiya</h3>
 <p class="titolo-pezzo"><a href="https://nonfiction.it/assaggi/il-complotto-africano/">Il complotto africano</a></p>
@@ -26,7 +26,7 @@ Prosegue la mia collaborazione con il progetto di blog collettivo *Assaggi* di n
 </div>
 
 <div class="traduzione-card">
-<img src="emiliosanchezmediavilla-edited.jpeg" alt="Emilio Sánchez Mediavilla">
+<div class="traduzione-foto" style="background-image: url('emiliosanchezmediavilla-edited.jpeg')"></div>
 <div class="traduzione-card-body">
 <h3>Emilio Sánchez Mediavilla</h3>
 <p class="titolo-pezzo"><a href="https://nonfiction.it/assaggi/beirut-non-esiste-piu/">Beirut non esiste più</a></p>
@@ -35,7 +35,7 @@ Prosegue la mia collaborazione con il progetto di blog collettivo *Assaggi* di n
 </div>
 
 <div class="traduzione-card">
-<img src="zahra_hankir-edited.jpg" alt="Zahra Hankir">
+<div class="traduzione-foto" style="background-image: url('zahra_hankir-edited.jpg')"></div>
 <div class="traduzione-card-body">
 <h3>Zahra Hankir</h3>
 <p class="titolo-pezzo"><a href="https://nonfiction.it/assaggi/il-re-del-ful/">Il re del Ful</a></p>
@@ -44,7 +44,7 @@ Prosegue la mia collaborazione con il progetto di blog collettivo *Assaggi* di n
 </div>
 
 <div class="traduzione-card">
-<img src="altman_headshot-edited.jpeg" alt="Rebecca Altman">
+<div class="traduzione-foto" style="background-image: url('altman_headshot-edited.jpeg')"></div>
 <div class="traduzione-card-body">
 <h3>Rebecca Altman</h3>
 <p class="titolo-pezzo"><a href="https://nonfiction.it/assaggi/sul-vinile/">Sul vinile</a></p>
@@ -53,7 +53,7 @@ Prosegue la mia collaborazione con il progetto di blog collettivo *Assaggi* di n
 </div>
 
 <div class="traduzione-card">
-<img src="clare-edited-1.jpg" alt="Clare Hammond">
+<div class="traduzione-foto" style="background-image: url('clare-edited-1.jpg')"></div>
 <div class="traduzione-card-body">
 <h3>Clare Hammond</h3>
 <p class="titolo-pezzo"><a href="https://nonfiction.it/assaggi/lungo-i-binari-delle-ferrovie-fantasma/">Lungo i binari delle ferrovie fantasma</a></p>

@@ -480,3 +480,14 @@ main.content,
 .biblioteca-sezioni figcaption {
   display: none !important;
 }
+
+/* ===========================================
+   TRADUZIONI - FOTO CON BACKGROUND-IMAGE
+   =========================================== */
+.traduzione-foto {
+  width: 100% !important;
+  height: 180px !important;
+  background-size: cover !important;
+  background-position: center 20% !important;
+  background-repeat: no-repeat !important;
+}
