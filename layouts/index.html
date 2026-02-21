@@ -7,7 +7,6 @@
   {{ if ge (len $posts) 1 }}
   <div class="journal-layout">
     
-    <!-- Post principale (il più recente) -->
     {{ $featured := index $posts 0 }}
     <article class="journal-featured">
       {{ with $featured.Params.image }}
@@ -17,13 +16,12 @@
       {{ end }}
       <div class="journal-featured-content">
         <h2><a href="{{ $featured.Permalink }}">{{ $featured.Title }}</a></h2>
-        <time datetime="{{ $featured.Date.Format "2006-01-02" }}">{{ $featured.Date.Format "2 January 2006" }}</time>
+        <time>{{ $featured.Date.Format "2 January 2006" }}</time>
         <p>{{ $featured.Summary | truncate 300 }}</p>
-        <a href="{{ $featured.Permalink }}" class="read-more">Continua a leggere →</a>
+        <a href="{{ $featured.Permalink }}" class="read-more">Continua a leggere</a>
       </div>
     </article>
     
-    <!-- Post secondari -->
     {{ if gt (len $posts) 1 }}
     <div class="journal-grid">
       {{ range first 4 (after 1 $posts) }}
@@ -35,7 +33,7 @@
         {{ end }}
         <div class="journal-card-content">
           <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+          <time>{{ .Date.Format "2 Jan 2006" }}</time>
           <p>{{ .Summary | truncate 120 }}</p>
         </div>
       </article>
@@ -43,10 +41,9 @@
     </div>
     {{ end }}
     
-    <!-- Link a tutti i breadcrumbs -->
     {{ if gt (len $posts) 5 }}
     <div class="journal-more">
-      <a href="/breadcrumbs/">Vedi tutti i post →</a>
+      <a href="/breadcrumbs/">Vedi tutti i post</a>
     </div>
     {{ end }}
     
