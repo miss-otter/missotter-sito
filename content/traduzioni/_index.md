@@ -68,24 +68,24 @@ I libri che ho tradotto
 
 
 
-Ben Rawlence - Treeline - L'ultima foresta e il futuro della vita sulla terra - Francesco Brioschi Editore
+![rawlence_treeline](rawlence_treeline.jpg)Ben Rawlence - Treeline - L'ultima foresta e il futuro della vita sulla terra - Francesco Brioschi Editore
 
-Svegliamoci! - Edgar Morin - Mim Edizioni
+![Morin_svegliamoci](Morin_svegliamoci.jpg)Svegliamoci! - Edgar Morin - Mim Edizioni
 
-Maria Ressa - Come resistere a un dittatore - La nave di Teseo
+![Ressa_Come-resistere-a-un-dittatoreFascetta](Ressa_Come-resistere-a-un-dittatoreFascetta.jpg)Maria Ressa - Come resistere a un dittatore - La nave di Teseo
 
-Petra Goedde - Culture globali - Una storia di omologazione e resistenza dal 1945 a oggi - Einaudi
+![culture-globali-petra-goedde](culture-globali-petra-goedde.JPG)Petra Goedde - Culture globali - Una storia di omologazione e resistenza dal 1945 a oggi - Einaudi
 
-Kevin Gosztola - Il caso Assange - Edizioni Piemme
+![Gosztola_caso_Assange](Gosztola_caso_Assange.jpg)Kevin Gosztola - Il caso Assange - Edizioni Piemme
 
 
-Deirdre Nansen Mccloskey - Le virtu borghesi - Mondadori
+![McCloskey_virtùborghesi](McCloskey_virtùborghesi.jpg)Deirdre Nansen Mccloskey - Le virtu borghesi - Mondadori
 
-Jonathan Clements - Isola ribelle - EDT
+![Isola ribelle](Isola ribelle.jpg)Jonathan Clements - Isola ribelle - EDT
 
-Amanda Hess - Un'altra vita - Einaudi
+![AmandaHess](AmandaHess.JPG)Amanda Hess - Un'altra vita - Einaudi
 
-Edward Dolnick - A cena con il dinosauro - Aboca
+![A-cena-con-il-dinosauro-_-Dolnick](A-cena-con-il-dinosauro-_-Dolnick.jpg)Edward Dolnick - A cena con il dinosauro - Aboca
 
 Angus Lockyer - Giappone, una storia per immagini - Einaudi
 
