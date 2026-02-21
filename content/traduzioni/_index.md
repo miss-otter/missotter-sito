@@ -61,4 +61,33 @@ Prosegue la mia collaborazione con il progetto di blog collettivo *Assaggi* di n
 </div>
 </div>
 
-</div>
+
+---
+I libri che ho tradotto
+---
+
+
+
+Ben Rawlence - Treeline - L'ultima foresta e il futuro della vita sulla terra - Francesco Brioschi Editore
+
+Svegliamoci! - Edgar Morin - Mim Edizioni
+
+Maria Ressa - Come resistere a un dittatore - La nave di Teseo
+
+Petra Goedde - Culture globali - Una storia di omologazione e resistenza dal 1945 a oggi - Einaudi
+
+Kevin Gosztola - Il caso Assange - Edizioni Piemme
+
+
+Deirdre Nansen Mccloskey - Le virtu borghesi - Mondadori
+
+Jonathan Clements - Isola ribelle - EDT
+
+Amanda Hess - Un'altra vita - Einaudi
+
+Edward Dolnick - A cena con il dinosauro - Aboca
+
+Angus Lockyer - Giappone, una storia per immagini - Einaudi
+
+
+

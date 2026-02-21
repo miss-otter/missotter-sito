@@ -38,9 +38,3 @@ layout: "single"
 </div>
 
 </div>
-
----
-
-Chiudo in bellezza con una citazione da uno splendido saggio di Leila Guerriero sul "giornalismo narrativo, le sue origini e le sue ragioni", pubblicato originariamente su Revista Anfibia e tradotto e ospitato dal blog delle edizioni SUR, che vi consiglio caldamente di leggere:
-
-> "Il giornalismo narrativo è un mestiere modesto, praticato da individui abbastanza umili da sapere che non potranno mai comprendere il mondo, abbastanza testardi da perseverare nei propri obiettivi, e abbastanza superbi da credere che questi obiettivi interessino a tutti."
