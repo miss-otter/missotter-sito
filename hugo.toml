@@ -40,11 +40,6 @@ disableKinds = ["taxonomy", "term"]
 # Le sottosezioni di Biblioteca saranno accessibili dalla pagina Biblioteca
 # ============================================
 [menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Miss Otter"
-    url = "/"
-    weight = 1
     
   [[menu.main]]
     identifier = "breadcrumbs"
