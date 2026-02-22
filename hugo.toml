@@ -36,19 +36,15 @@ disableKinds = ["taxonomy", "term"]
 
 # ============================================
 # MENU PRINCIPALE
-# Nota: Clarity NON supporta menu nidificati (parent/children)
-# Le sottosezioni di Biblioteca saranno accessibili dalla pagina Biblioteca
 # ============================================
 [menu]
-    
-  [menu]
   [[menu.main]]
     identifier = "home"
     name = "Miss Otter"
     url = "/"
     weight = 1
 
-[[menu.main]]
+  [[menu.main]]
     identifier = "breadcrumbs"
     name = "Breadcrumbs"
     url = "/breadcrumbs/"
