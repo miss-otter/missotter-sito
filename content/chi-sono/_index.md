@@ -3,7 +3,7 @@ title: "Chi sono"
 layout: "single"
 ---
 
-![Objects in the mirror](C:/Users/Ale/Pictures/Mie_immagini_da_Lancillotto/Objects in the mirror.JPG)
+![](Objects in the mirror.JPG)
 
 Mi chiamo Alessandra Neve, sono una traduttrice e lavoro con tre lingue: inglese, francese e spagnolo.
 
