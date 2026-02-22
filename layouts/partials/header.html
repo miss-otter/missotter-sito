@@ -1,0 +1,26 @@
+<header class="header">
+  
+  <!-- Hero image sopra il menu -->
+  <div class="hero-banner">
+    {{ $heroImage := "/images/missottermia.jpg" }}
+    {{ if eq .Section "biblioteca" }}
+      {{ $heroImage = "/images/biblioteca_cesena.jpg" }}
+    {{ end }}
+    <img src="{{ $heroImage }}" alt="Miss Otter">
+    <div class="hero-title">Miss Otter</div>
+  </div>
+  
+  <!-- Menu -->
+  <nav class="nav-menu">
+    <ul>
+      {{ range .Site.Menus.main }}
+      <li>
+        <a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}class="active"{{ end }}>
+          {{ .Name }}
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  </nav>
+  
+</header>
