@@ -978,3 +978,14 @@ a.biblioteca-sezione h3 {
     flex: 1 1 45% !important;
   }
 }
+
+/* ===========================================
+   SPAZIO SOPRA CONTENUTO HOME E BREADCRUMBS
+   =========================================== */
+.home-journal {
+  padding-top: 40px !important;
+}
+
+.breadcrumbs-layout {
+  padding-top: 40px !important;
+}
