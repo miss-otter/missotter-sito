@@ -8,7 +8,7 @@
     <div class="posts-list">
       {{ range .Pages.ByDate.Reverse }}
       <article class="post-item">
-        {{ with .Params.image }}
+        {{ with .Params.thumbnail }}
         <a href="{{ $.Permalink }}" class="post-item-image">
           <img src="{{ . }}" alt="{{ $.Title }}">
         </a>

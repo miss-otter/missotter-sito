@@ -1130,6 +1130,20 @@ body[class*="biblioteca"] .hero-banner img {
   line-height: 1.7 !important;
 }
 
+.post-content {
+  overflow: hidden !important;
+}
+
+.post-content img {
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+.post-content .content img {
+  max-width: 100% !important;
+  height: auto !important;
+}
+
 /* Lista post nella sezione */
 .posts-list {
   margin-top: 30px !important;
