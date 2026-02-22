@@ -597,159 +597,6 @@ a.biblioteca-sezione h3 {
 }
 
 /* ===========================================
-   HOME PAGE - STILE GIORNALE
-   =========================================== */
-.home-journal {
-  max-width: 900px !important;
-  margin: 0 auto !important;
-  padding: 20px !important;
-}
-
-.journal-layout {
-  display: flex !important;
-  flex-direction: column !important;
-  gap: 40px !important;
-}
-
-/* Post principale */
-.journal-featured {
-  padding-bottom: 40px !important;
-  border-bottom: 1px solid #eee !important;
-}
-
-.journal-featured-image {
-  display: block !important;
-  margin-bottom: 20px !important;
-  border-radius: 8px !important;
-  overflow: hidden !important;
-}
-
-.journal-featured-image img {
-  width: 100% !important;
-  height: 300px !important;
-  object-fit: cover !important;
-}
-
-.journal-featured-content h2 {
-  margin: 0 0 10px 0 !important;
-  font-size: 1.8rem !important;
-  line-height: 1.3 !important;
-}
-
-.journal-featured-content h2 a {
-  color: #556b58 !important;
-  text-decoration: none !important;
-}
-
-.journal-featured-content h2 a:hover {
-  text-decoration: underline !important;
-}
-
-.journal-featured-content time {
-  color: #888 !important;
-  font-size: 0.85rem !important;
-  display: block !important;
-  margin-bottom: 15px !important;
-}
-
-.journal-featured-content p {
-  color: #555 !important;
-  line-height: 1.6 !important;
-  margin-bottom: 15px !important;
-}
-
-.journal-featured-content .read-more {
-  color: #556b58 !important;
-  text-decoration: none !important;
-  font-weight: 500 !important;
-}
-
-.journal-featured-content .read-more:hover {
-  text-decoration: underline !important;
-}
-
-/* Griglia post secondari */
-.journal-grid {
-  display: grid !important;
-  grid-template-columns: repeat(2, 1fr) !important;
-  gap: 30px !important;
-}
-
-.journal-card {
-  padding-bottom: 20px !important;
-  border-bottom: 1px solid #eee !important;
-}
-
-.journal-card-image {
-  display: block !important;
-  margin-bottom: 12px !important;
-  border-radius: 6px !important;
-  overflow: hidden !important;
-}
-
-.journal-card-image img {
-  width: 100% !important;
-  height: 140px !important;
-  object-fit: cover !important;
-}
-
-.journal-card-content h3 {
-  margin: 0 0 6px 0 !important;
-  font-size: 1.1rem !important;
-  line-height: 1.3 !important;
-}
-
-.journal-card-content h3 a {
-  color: #556b58 !important;
-  text-decoration: none !important;
-}
-
-.journal-card-content h3 a:hover {
-  text-decoration: underline !important;
-}
-
-.journal-card-content time {
-  color: #999 !important;
-  font-size: 0.8rem !important;
-  display: block !important;
-  margin-bottom: 8px !important;
-}
-
-.journal-card-content p {
-  color: #666 !important;
-  font-size: 0.9rem !important;
-  line-height: 1.5 !important;
-  margin: 0 !important;
-}
-
-/* Link vedi tutti */
-.journal-more {
-  text-align: center !important;
-  padding-top: 20px !important;
-}
-
-.journal-more a {
-  color: #556b58 !important;
-  padding: 10px 20px !important;
-  border: 1px solid #556b58 !important;
-  border-radius: 4px !important;
-  text-decoration: none !important;
-  display: inline-block !important;
-}
-
-.journal-more a:hover {
-  background: #556b58 !important;
-  color: white !important;
-}
-
-/* Responsive */
-@media (max-width: 600px) {
-  .journal-grid {
-    grid-template-columns: 1fr !important;
-  }
-}
-
-/* ===========================================
    BREADCRUMBS - LAYOUT CON SIDEBAR
    =========================================== */
 .breadcrumbs-layout {
@@ -958,5 +805,176 @@ a.biblioteca-sezione h3 {
   
   .article-image img {
     height: 180px !important;
+  }
+}
+
+/* ===========================================
+   HOME PAGE - STILE GIORNALE (3 COLONNE)
+   =========================================== */
+.home-journal {
+  max-width: 1100px !important;
+  margin: 0 auto !important;
+  padding: 20px !important;
+}
+
+/* Layout 3 colonne */
+.journal-three-col {
+  display: grid !important;
+  grid-template-columns: 1fr 2fr 1fr !important;
+  gap: 30px !important;
+}
+
+/* Colonne laterali */
+.journal-col-left,
+.journal-col-right {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 25px !important;
+}
+
+/* Card laterali */
+.journal-side-card {
+  padding-bottom: 20px !important;
+  border-bottom: 1px solid #eee !important;
+}
+
+.journal-side-card:last-child {
+  border-bottom: none !important;
+}
+
+.journal-side-card h3 {
+  margin: 0 0 6px 0 !important;
+  font-size: 1rem !important;
+  line-height: 1.3 !important;
+}
+
+.journal-side-card h3 a {
+  color: #556b58 !important;
+  text-decoration: none !important;
+}
+
+.journal-side-card h3 a:hover {
+  text-decoration: underline !important;
+}
+
+.journal-side-card time {
+  color: #999 !important;
+  font-size: 0.75rem !important;
+  display: block !important;
+  margin-bottom: 8px !important;
+}
+
+.journal-side-card p {
+  color: #666 !important;
+  font-size: 0.85rem !important;
+  line-height: 1.4 !important;
+  margin: 0 !important;
+}
+
+/* Colonna centrale - post principale */
+.journal-col-center {
+  border-left: 1px solid #eee !important;
+  border-right: 1px solid #eee !important;
+  padding: 0 30px !important;
+}
+
+.journal-main-card {
+  text-align: center !important;
+}
+
+.journal-main-image {
+  display: block !important;
+  margin-bottom: 20px !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+}
+
+.journal-main-image img {
+  width: 100% !important;
+  height: 280px !important;
+  object-fit: cover !important;
+}
+
+.journal-main-card h2 {
+  margin: 0 0 10px 0 !important;
+  font-size: 1.6rem !important;
+  line-height: 1.3 !important;
+}
+
+.journal-main-card h2 a {
+  color: #556b58 !important;
+  text-decoration: none !important;
+}
+
+.journal-main-card h2 a:hover {
+  text-decoration: underline !important;
+}
+
+.journal-main-card time {
+  color: #888 !important;
+  font-size: 0.85rem !important;
+  display: block !important;
+  margin-bottom: 15px !important;
+}
+
+.journal-main-card p {
+  color: #555 !important;
+  line-height: 1.6 !important;
+  margin-bottom: 15px !important;
+  text-align: left !important;
+}
+
+.journal-main-card .read-more {
+  color: #556b58 !important;
+  text-decoration: none !important;
+  font-weight: 500 !important;
+}
+
+.journal-main-card .read-more:hover {
+  text-decoration: underline !important;
+}
+
+/* Link vedi tutti */
+.journal-more {
+  text-align: center !important;
+  padding-top: 30px !important;
+  margin-top: 30px !important;
+  border-top: 1px solid #eee !important;
+}
+
+.journal-more a {
+  color: #556b58 !important;
+  padding: 10px 20px !important;
+  border: 1px solid #556b58 !important;
+  border-radius: 4px !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+}
+
+.journal-more a:hover {
+  background: #556b58 !important;
+  color: white !important;
+}
+
+/* Responsive */
+@media (max-width: 800px) {
+  .journal-three-col {
+    grid-template-columns: 1fr !important;
+  }
+  
+  .journal-col-center {
+    border: none !important;
+    padding: 0 !important;
+    order: -1 !important;
+  }
+  
+  .journal-col-left,
+  .journal-col-right {
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+  }
+  
+  .journal-side-card {
+    flex: 1 1 45% !important;
   }
 }

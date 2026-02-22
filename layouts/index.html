@@ -5,49 +5,55 @@
   {{ $posts := $breadcrumbs.ByDate.Reverse }}
   
   {{ if ge (len $posts) 1 }}
-  <div class="journal-layout">
+  <div class="journal-three-col">
     
     {{ $featured := index $posts 0 }}
-    <article class="journal-featured">
-      {{ with $featured.Params.image }}
-      <a href="{{ $featured.Permalink }}" class="journal-featured-image">
-        <img src="{{ . }}" alt="{{ $featured.Title }}">
-      </a>
+    {{ $secondary := after 1 $posts }}
+    {{ $leftPosts := first 2 $secondary }}
+    {{ $rightPosts := first 2 (after 2 $secondary) }}
+    
+    <div class="journal-col-left">
+      {{ range $leftPosts }}
+      <article class="journal-side-card">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <time>{{ .Date.Format "2 Jan 2006" }}</time>
+        <p>{{ .Summary | truncate 80 }}</p>
+      </article>
       {{ end }}
-      <div class="journal-featured-content">
+    </div>
+    
+    <div class="journal-col-center">
+      <article class="journal-main-card">
+        {{ with $featured.Params.image }}
+        <a href="{{ $featured.Permalink }}" class="journal-main-image">
+          <img src="{{ . }}" alt="{{ $featured.Title }}">
+        </a>
+        {{ end }}
         <h2><a href="{{ $featured.Permalink }}">{{ $featured.Title }}</a></h2>
         <time>{{ $featured.Date.Format "2 January 2006" }}</time>
         <p>{{ $featured.Summary | truncate 300 }}</p>
         <a href="{{ $featured.Permalink }}" class="read-more">Continua a leggere</a>
-      </div>
-    </article>
+      </article>
+    </div>
     
-    {{ if gt (len $posts) 1 }}
-    <div class="journal-grid">
-      {{ range first 4 (after 1 $posts) }}
-      <article class="journal-card">
-        {{ with .Params.image }}
-        <a href="{{ .Permalink }}" class="journal-card-image">
-          <img src="{{ . }}" alt="{{ .Title }}">
-        </a>
-        {{ end }}
-        <div class="journal-card-content">
-          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-          <time>{{ .Date.Format "2 Jan 2006" }}</time>
-          <p>{{ .Summary | truncate 120 }}</p>
-        </div>
+    <div class="journal-col-right">
+      {{ range $rightPosts }}
+      <article class="journal-side-card">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <time>{{ .Date.Format "2 Jan 2006" }}</time>
+        <p>{{ .Summary | truncate 80 }}</p>
       </article>
       {{ end }}
     </div>
-    {{ end }}
-    
-    {{ if gt (len $posts) 5 }}
-    <div class="journal-more">
-      <a href="/breadcrumbs/">Vedi tutti i post</a>
-    </div>
-    {{ end }}
     
   </div>
+  
+  {{ if gt (len $posts) 5 }}
+  <div class="journal-more">
+    <a href="/breadcrumbs/">Vedi tutti i post</a>
+  </div>
+  {{ end }}
+  
   {{ else }}
   <p>Nessun post ancora.</p>
   {{ end }}
