@@ -600,7 +600,7 @@ a.biblioteca-sezione h3 {
    HOME PAGE - STILE GIORNALE
    =========================================== */
 .home-journal {
-  max-width: 1000px !important;
+  max-width: 900px !important;
   margin: 0 auto !important;
   padding: 20px !important;
 }
@@ -613,34 +613,21 @@ a.biblioteca-sezione h3 {
 
 /* Post principale */
 .journal-featured {
-  display: grid !important;
-  grid-template-columns: 1fr 1fr !important;
-  gap: 30px !important;
   padding-bottom: 40px !important;
   border-bottom: 1px solid #eee !important;
 }
 
 .journal-featured-image {
   display: block !important;
-  overflow: hidden !important;
+  margin-bottom: 20px !important;
   border-radius: 8px !important;
+  overflow: hidden !important;
 }
 
 .journal-featured-image img {
   width: 100% !important;
   height: 300px !important;
   object-fit: cover !important;
-  transition: transform 0.3s !important;
-}
-
-.journal-featured-image:hover img {
-  transform: scale(1.03) !important;
-}
-
-.journal-featured-content {
-  display: flex !important;
-  flex-direction: column !important;
-  justify-content: center !important;
 }
 
 .journal-featured-content h2 {
@@ -661,6 +648,7 @@ a.biblioteca-sezione h3 {
 .journal-featured-content time {
   color: #888 !important;
   font-size: 0.85rem !important;
+  display: block !important;
   margin-bottom: 15px !important;
 }
 
@@ -683,36 +671,31 @@ a.biblioteca-sezione h3 {
 /* Griglia post secondari */
 .journal-grid {
   display: grid !important;
-  grid-template-columns: repeat(4, 1fr) !important;
-  gap: 25px !important;
+  grid-template-columns: repeat(2, 1fr) !important;
+  gap: 30px !important;
 }
 
 .journal-card {
-  display: flex !important;
-  flex-direction: column !important;
+  padding-bottom: 20px !important;
+  border-bottom: 1px solid #eee !important;
 }
 
 .journal-card-image {
   display: block !important;
-  overflow: hidden !important;
-  border-radius: 6px !important;
   margin-bottom: 12px !important;
+  border-radius: 6px !important;
+  overflow: hidden !important;
 }
 
 .journal-card-image img {
   width: 100% !important;
   height: 140px !important;
   object-fit: cover !important;
-  transition: transform 0.3s !important;
-}
-
-.journal-card-image:hover img {
-  transform: scale(1.05) !important;
 }
 
 .journal-card-content h3 {
   margin: 0 0 6px 0 !important;
-  font-size: 1rem !important;
+  font-size: 1.1rem !important;
   line-height: 1.3 !important;
 }
 
@@ -727,19 +710,19 @@ a.biblioteca-sezione h3 {
 
 .journal-card-content time {
   color: #999 !important;
-  font-size: 0.75rem !important;
+  font-size: 0.8rem !important;
   display: block !important;
   margin-bottom: 8px !important;
 }
 
 .journal-card-content p {
   color: #666 !important;
-  font-size: 0.85rem !important;
-  line-height: 1.4 !important;
+  font-size: 0.9rem !important;
+  line-height: 1.5 !important;
   margin: 0 !important;
 }
 
-/* Link "vedi tutti" */
+/* Link vedi tutti */
 .journal-more {
   text-align: center !important;
   padding-top: 20px !important;
@@ -747,13 +730,11 @@ a.biblioteca-sezione h3 {
 
 .journal-more a {
   color: #556b58 !important;
-  text-decoration: none !important;
-  font-weight: 500 !important;
   padding: 10px 20px !important;
   border: 1px solid #556b58 !important;
   border-radius: 4px !important;
+  text-decoration: none !important;
   display: inline-block !important;
-  transition: all 0.2s !important;
 }
 
 .journal-more a:hover {
@@ -762,16 +743,7 @@ a.biblioteca-sezione h3 {
 }
 
 /* Responsive */
-@media (max-width: 900px) {
-  .journal-featured {
-    grid-template-columns: 1fr !important;
-  }
-  .journal-grid {
-    grid-template-columns: repeat(2, 1fr) !important;
-  }
-}
-
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .journal-grid {
     grid-template-columns: 1fr !important;
   }
