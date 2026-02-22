@@ -1011,7 +1011,13 @@ a.biblioteca-sezione h3 {
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
-  object-position: center 30% !important;
+  object-position: center 50% !important;
+}
+
+/* Posizione specifica per immagine biblioteca */
+.biblioteca .hero-banner img,
+body[class*="biblioteca"] .hero-banner img {
+  object-position: center 50% !important;
 }
 
 .hero-title {
