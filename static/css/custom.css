@@ -1243,3 +1243,37 @@ body[class*="biblioteca"] .hero-banner img {
     position: static !important;
   }
 }
+
+/* Post item con immagine */
+.post-item {
+  display: flex !important;
+  gap: 20px !important;
+}
+
+.post-item-image {
+  flex-shrink: 0 !important;
+  width: 120px !important;
+}
+
+.post-item-image img {
+  width: 100% !important;
+  height: 80px !important;
+  object-fit: cover !important;
+  border-radius: 4px !important;
+}
+
+.post-item-content {
+  flex: 1 !important;
+}
+
+@media (max-width: 500px) {
+  .post-item {
+    flex-direction: column !important;
+  }
+  .post-item-image {
+    width: 100% !important;
+  }
+  .post-item-image img {
+    height: 150px !important;
+  }
+}

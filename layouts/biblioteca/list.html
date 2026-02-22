@@ -3,15 +3,21 @@
   
   <div class="section-content">
     <h1>{{ .Title }}</h1>
-    {{ .Content }}
     
     {{ if .Pages }}
     <div class="posts-list">
       {{ range .Pages.ByDate.Reverse }}
       <article class="post-item">
-        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        <time>{{ .Date.Format "2 January 2006" }}</time>
-        <p>{{ .Summary | truncate 150 }}</p>
+        {{ with .Params.image }}
+        <a href="{{ $.Permalink }}" class="post-item-image">
+          <img src="{{ . }}" alt="{{ $.Title }}">
+        </a>
+        {{ end }}
+        <div class="post-item-content">
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <time>{{ .Date.Format "2 January 2006" }}</time>
+          <p>{{ .Summary | truncate 150 }}</p>
+        </div>
       </article>
       {{ end }}
     </div>
