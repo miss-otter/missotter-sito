@@ -1,0 +1,44 @@
+{{ define "main" }}
+<div class="section-with-sidebar">
+  
+  <div class="section-content">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    
+    {{ if .Pages }}
+    <div class="posts-list">
+      {{ range .Pages.ByDate.Reverse }}
+      <article class="post-item">
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <time>{{ .Date.Format "2 January 2006" }}</time>
+        <p>{{ .Summary | truncate 150 }}</p>
+      </article>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  
+  <aside class="section-sidebar">
+    <div class="sidebar-section">
+      <h3>Sezioni</h3>
+      <div class="sidebar-menu">
+        <a href="/biblioteca/checose/">Che cos'è</a>
+        <a href="/biblioteca/nuoviarrivi/">Nuovi Arrivi</a>
+        <a href="/biblioteca/vecchieglorie/">Vecchie Glorie</a>
+        <a href="/biblioteca/fiordafiore/">Fior da Fiore</a>
+      </div>
+    </div>
+    
+    <div class="sidebar-section">
+      <h3>Post recenti</h3>
+      {{ $allBiblioteca := where .Site.RegularPages "Section" "biblioteca" }}
+      {{ range first 5 $allBiblioteca.ByDate.Reverse }}
+      <div class="sidebar-item">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </div>
+      {{ end }}
+    </div>
+  </aside>
+  
+</div>
+{{ end }}

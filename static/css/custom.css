@@ -1087,3 +1087,153 @@ a.biblioteca-sezione h3 {
     font-size: 0.85rem !important;
   }
 }
+
+/* ===========================================
+   SIDEBAR PER POST E SEZIONI
+   =========================================== */
+.post-with-sidebar,
+.section-with-sidebar {
+  display: grid !important;
+  grid-template-columns: 1fr 280px !important;
+  gap: 40px !important;
+  max-width: 1100px !important;
+  margin: 0 auto !important;
+  padding: 40px 20px !important;
+}
+
+.post-content,
+.section-content {
+  min-width: 0 !important;
+}
+
+.post-content h1,
+.section-content h1 {
+  color: #556b58 !important;
+  margin-bottom: 10px !important;
+}
+
+.post-content time,
+.section-content time {
+  color: #888 !important;
+  font-size: 0.85rem !important;
+  display: block !important;
+  margin-bottom: 20px !important;
+}
+
+.post-content .content {
+  line-height: 1.7 !important;
+}
+
+/* Lista post nella sezione */
+.posts-list {
+  margin-top: 30px !important;
+}
+
+.post-item {
+  padding: 20px 0 !important;
+  border-bottom: 1px solid #eee !important;
+}
+
+.post-item h2 {
+  margin: 0 0 8px 0 !important;
+  font-size: 1.2rem !important;
+}
+
+.post-item h2 a {
+  color: #556b58 !important;
+  text-decoration: none !important;
+}
+
+.post-item h2 a:hover {
+  text-decoration: underline !important;
+}
+
+.post-item time {
+  font-size: 0.8rem !important;
+  color: #999 !important;
+  display: block !important;
+  margin-bottom: 8px !important;
+}
+
+.post-item p {
+  color: #666 !important;
+  font-size: 0.9rem !important;
+  margin: 0 !important;
+}
+
+/* Sidebar comune */
+.post-sidebar,
+.section-sidebar {
+  background: #f9f9f7 !important;
+  padding: 25px !important;
+  border-radius: 8px !important;
+  height: fit-content !important;
+  position: sticky !important;
+  top: 20px !important;
+}
+
+.sidebar-section {
+  margin-bottom: 25px !important;
+}
+
+.sidebar-section:last-child {
+  margin-bottom: 0 !important;
+}
+
+.sidebar-section h3 {
+  color: #556b58 !important;
+  margin: 0 0 15px 0 !important;
+  padding-bottom: 8px !important;
+  border-bottom: 2px solid #556b58 !important;
+  font-size: 1rem !important;
+}
+
+.sidebar-item {
+  padding: 8px 0 !important;
+  border-bottom: 1px solid #e8e8e8 !important;
+}
+
+.sidebar-item:last-child {
+  border-bottom: none !important;
+}
+
+.sidebar-item a {
+  color: #333 !important;
+  text-decoration: none !important;
+  font-size: 0.9rem !important;
+}
+
+.sidebar-item a:hover {
+  color: #556b58 !important;
+}
+
+/* Menu sezioni biblioteca */
+.sidebar-menu {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 8px !important;
+}
+
+.sidebar-menu a {
+  color: #556b58 !important;
+  text-decoration: none !important;
+  font-size: 0.9rem !important;
+  padding: 6px 0 !important;
+}
+
+.sidebar-menu a:hover {
+  text-decoration: underline !important;
+}
+
+/* Responsive */
+@media (max-width: 800px) {
+  .post-with-sidebar,
+  .section-with-sidebar {
+    grid-template-columns: 1fr !important;
+  }
+  
+  .post-sidebar,
+  .section-sidebar {
+    position: static !important;
+  }
+}

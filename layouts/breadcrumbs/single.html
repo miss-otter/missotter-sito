@@ -1,0 +1,39 @@
+{{ define "main" }}
+<div class="post-with-sidebar">
+  
+  <article class="post-content">
+    <h1>{{ .Title }}</h1>
+    <time>{{ .Date.Format "2 January 2006" }}</time>
+    <div class="content">
+      {{ .Content }}
+    </div>
+  </article>
+  
+  <aside class="post-sidebar">
+    <div class="sidebar-section">
+      <h3>Articoli recenti</h3>
+      {{ $articles := where (where .Site.RegularPages "Section" "breadcrumbs") "Params.source" "substack" }}
+      {{ range first 5 $articles.ByDate.Reverse }}
+      {{ if ne .Permalink $.Permalink }}
+      <div class="sidebar-item">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
+    
+    <div class="sidebar-section">
+      <h3>Notes</h3>
+      {{ $notes := where (where .Site.RegularPages "Section" "breadcrumbs") "Params.source" "!=" "substack" }}
+      {{ range first 5 $notes.ByDate.Reverse }}
+      {{ if ne .Permalink $.Permalink }}
+      <div class="sidebar-item">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
+  </aside>
+  
+</div>
+{{ end }}
