@@ -7,16 +7,17 @@
     {{ if .Pages }}
     <div class="posts-list">
       {{ range .Pages.ByDate.Reverse }}
+      {{ $post := . }}
       <article class="post-item">
         {{ with .Params.thumbnail }}
-        <a href="{{ $.Permalink }}" class="post-item-image">
-          <img src="{{ . }}" alt="{{ $.Title }}">
+        <a href="{{ $post.Permalink }}" class="post-item-image">
+          <img src="{{ $post.Permalink }}{{ . }}" alt="{{ $post.Title }}">
         </a>
         {{ end }}
         <div class="post-item-content">
-          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-          <time>{{ .Date.Format "2 January 2006" }}</time>
-          <p>{{ .Summary | truncate 150 }}</p>
+          <h2><a href="{{ $post.Permalink }}">{{ $post.Title }}</a></h2>
+          <time>{{ $post.Date.Format "2 January 2006" }}</time>
+          <p>{{ $post.Summary | truncate 150 }}</p>
         </div>
       </article>
       {{ end }}

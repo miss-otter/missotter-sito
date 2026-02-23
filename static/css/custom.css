@@ -1291,3 +1291,16 @@ body[class*="biblioteca"] .hero-banner img {
     height: 150px !important;
   }
 }
+
+/* Fix immagini larghe in post */
+.post-with-sidebar .post-content {
+  overflow: hidden !important;
+  width: 100% !important;
+}
+
+.post-with-sidebar .post-content img,
+.post-with-sidebar .post-content .content img {
+  max-width: 100% !important;
+  width: auto !important;
+  height: auto !important;
+}
