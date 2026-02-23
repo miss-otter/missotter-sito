@@ -17,13 +17,22 @@
     <div class="articles-list">
       {{ range $articles }}
       {{ $post := . }}
+      {{ $postImage := "" }}
+      {{ with $post.Params.image }}
+        {{ $postImage = printf "%s%s" $post.Permalink . }}
+      {{ else }}
+        {{ $img := $post.Resources.GetMatch "*.{jpg,jpeg,png,gif,webp}" }}
+        {{ with $img }}
+          {{ $postImage = .RelPermalink }}
+        {{ end }}
+      {{ end }}
       <article class="article-item">
-        {{ with $post.Params.image }}
+        {{ if $postImage }}
         <a href="{{ $post.Permalink }}" class="article-image">
-          <img src="{{ $post.Permalink }}{{ . }}" alt="{{ $post.Title }}">
+          <img src="{{ $postImage }}" alt="{{ $post.Title }}">
         </a>
         {{ end }}
-        <div class="article-content {{ if not $post.Params.image }}no-image{{ end }}">
+        <div class="article-content {{ if not $postImage }}no-image{{ end }}">
           <h2><a href="{{ $post.Permalink }}">{{ $post.Title }}</a></h2>
           <time>{{ $post.Date.Format "2 January 2006" }}</time>
           <p>{{ $post.Summary | truncate 250 }}</p>

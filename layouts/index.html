@@ -15,10 +15,19 @@
     <div class="journal-col-left">
       {{ range $leftPosts }}
       {{ $post := . }}
+      {{ $postImage := "" }}
+      {{ with $post.Params.image }}
+        {{ $postImage = printf "%s%s" $post.Permalink . }}
+      {{ else }}
+        {{ $img := $post.Resources.GetMatch "*.{jpg,jpeg,png,gif,webp}" }}
+        {{ with $img }}
+          {{ $postImage = .RelPermalink }}
+        {{ end }}
+      {{ end }}
       <article class="journal-side-card">
-        {{ with $post.Params.image }}
+        {{ if $postImage }}
         <a href="{{ $post.Permalink }}" class="journal-side-image">
-          <img src="{{ $post.Permalink }}{{ . }}" alt="{{ $post.Title }}">
+          <img src="{{ $postImage }}" alt="{{ $post.Title }}">
         </a>
         {{ end }}
         <h3><a href="{{ $post.Permalink }}">{{ $post.Title }}</a></h3>
@@ -29,10 +38,19 @@
     </div>
     
     <div class="journal-col-center">
+      {{ $featuredImage := "" }}
+      {{ with $featured.Params.image }}
+        {{ $featuredImage = printf "%s%s" $featured.Permalink . }}
+      {{ else }}
+        {{ $img := $featured.Resources.GetMatch "*.{jpg,jpeg,png,gif,webp}" }}
+        {{ with $img }}
+          {{ $featuredImage = .RelPermalink }}
+        {{ end }}
+      {{ end }}
       <article class="journal-main-card">
-        {{ with $featured.Params.image }}
+        {{ if $featuredImage }}
         <a href="{{ $featured.Permalink }}" class="journal-main-image">
-          <img src="{{ $featured.Permalink }}{{ . }}" alt="{{ $featured.Title }}">
+          <img src="{{ $featuredImage }}" alt="{{ $featured.Title }}">
         </a>
         {{ end }}
         <h2><a href="{{ $featured.Permalink }}">{{ $featured.Title }}</a></h2>
@@ -45,10 +63,19 @@
     <div class="journal-col-right">
       {{ range $rightPosts }}
       {{ $post := . }}
+      {{ $postImage := "" }}
+      {{ with $post.Params.image }}
+        {{ $postImage = printf "%s%s" $post.Permalink . }}
+      {{ else }}
+        {{ $img := $post.Resources.GetMatch "*.{jpg,jpeg,png,gif,webp}" }}
+        {{ with $img }}
+          {{ $postImage = .RelPermalink }}
+        {{ end }}
+      {{ end }}
       <article class="journal-side-card">
-        {{ with $post.Params.image }}
+        {{ if $postImage }}
         <a href="{{ $post.Permalink }}" class="journal-side-image">
-          <img src="{{ $post.Permalink }}{{ . }}" alt="{{ $post.Title }}">
+          <img src="{{ $postImage }}" alt="{{ $post.Title }}">
         </a>
         {{ end }}
         <h3><a href="{{ $post.Permalink }}">{{ $post.Title }}</a></h3>
