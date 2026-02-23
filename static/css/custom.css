@@ -1014,9 +1014,8 @@ a.biblioteca-sezione h3 {
   object-position: center 40% !important;
 }
 
-/* Posizione specifica per immagine biblioteca */
-.biblioteca .hero-banner img,
-body[class*="biblioteca"] .hero-banner img {
+/* Posizione specifica per biblioteca */
+.hero-biblioteca img {
   object-position: center 60% !important;
 }
 

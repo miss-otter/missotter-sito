@@ -1,7 +1,7 @@
 <header class="header">
   
   <!-- Hero image sopra il menu -->
-  <div class="hero-banner">
+  <div class="hero-banner {{ if eq .Section "biblioteca" }}hero-biblioteca{{ end }}">
     {{ $heroImage := "/images/missottermia.jpg" }}
     {{ if eq .Section "biblioteca" }}
       {{ $heroImage = "/images/biblioteca_cesena.jpg" }}
