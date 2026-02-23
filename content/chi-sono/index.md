@@ -3,7 +3,7 @@ title: "Chi sono"
 layout: "single"
 ---
 
-![Objects in the mirror](objects-in-the-mirror.jpg)
+![Objects in the mirror are closer than they appear](objects-in-the-mirror.jpg)
 
 Mi chiamo Alessandra Neve, sono una traduttrice e lavoro con tre lingue: inglese, francese e spagnolo.
 
