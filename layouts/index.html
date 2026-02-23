@@ -14,15 +14,16 @@
     
     <div class="journal-col-left">
       {{ range $leftPosts }}
+      {{ $post := . }}
       <article class="journal-side-card">
-        {{ with .Params.image }}
-        <a href="{{ $.Permalink }}" class="journal-side-image">
-          <img src="{{ $.Permalink }}{{ . }}" alt="{{ $.Title }}">
+        {{ with $post.Params.image }}
+        <a href="{{ $post.Permalink }}" class="journal-side-image">
+          <img src="{{ $post.Permalink }}{{ . }}" alt="{{ $post.Title }}">
         </a>
         {{ end }}
-        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-        <time>{{ .Date.Format "2 Jan 2006" }}</time>
-        <p>{{ .Summary | truncate 80 }}</p>
+        <h3><a href="{{ $post.Permalink }}">{{ $post.Title }}</a></h3>
+        <time>{{ $post.Date.Format "2 Jan 2006" }}</time>
+        <p>{{ $post.Summary | truncate 80 }}</p>
       </article>
       {{ end }}
     </div>
@@ -43,15 +44,16 @@
     
     <div class="journal-col-right">
       {{ range $rightPosts }}
+      {{ $post := . }}
       <article class="journal-side-card">
-        {{ with .Params.image }}
-        <a href="{{ $.Permalink }}" class="journal-side-image">
-          <img src="{{ $.Permalink }}{{ . }}" alt="{{ $.Title }}">
+        {{ with $post.Params.image }}
+        <a href="{{ $post.Permalink }}" class="journal-side-image">
+          <img src="{{ $post.Permalink }}{{ . }}" alt="{{ $post.Title }}">
         </a>
         {{ end }}
-        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-        <time>{{ .Date.Format "2 Jan 2006" }}</time>
-        <p>{{ .Summary | truncate 80 }}</p>
+        <h3><a href="{{ $post.Permalink }}">{{ $post.Title }}</a></h3>
+        <time>{{ $post.Date.Format "2 Jan 2006" }}</time>
+        <p>{{ $post.Summary | truncate 80 }}</p>
       </article>
       {{ end }}
     </div>

@@ -16,17 +16,18 @@
     {{ if $articles }}
     <div class="articles-list">
       {{ range $articles }}
+      {{ $post := . }}
       <article class="article-item">
-        {{ with .Params.image }}
-        <a href="{{ $.Permalink }}" class="article-image">
-          <img src="{{ $.Permalink }}{{ . }}" alt="{{ $.Title }}">
+        {{ with $post.Params.image }}
+        <a href="{{ $post.Permalink }}" class="article-image">
+          <img src="{{ $post.Permalink }}{{ . }}" alt="{{ $post.Title }}">
         </a>
         {{ end }}
-        <div class="article-content {{ if not .Params.image }}no-image{{ end }}">
-          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-          <time>{{ .Date.Format "2 January 2006" }}</time>
-          <p>{{ .Summary | truncate 250 }}</p>
-          <a href="{{ .Permalink }}" class="read-more">Continua a leggere</a>
+        <div class="article-content {{ if not $post.Params.image }}no-image{{ end }}">
+          <h2><a href="{{ $post.Permalink }}">{{ $post.Title }}</a></h2>
+          <time>{{ $post.Date.Format "2 January 2006" }}</time>
+          <p>{{ $post.Summary | truncate 250 }}</p>
+          <a href="{{ $post.Permalink }}" class="read-more">Continua a leggere</a>
         </div>
       </article>
       {{ end }}
