@@ -15,6 +15,11 @@
     <div class="journal-col-left">
       {{ range $leftPosts }}
       <article class="journal-side-card">
+        {{ with .Params.image }}
+        <a href="{{ $.Permalink }}" class="journal-side-image">
+          <img src="{{ $.Permalink }}{{ . }}" alt="{{ $.Title }}">
+        </a>
+        {{ end }}
         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
         <time>{{ .Date.Format "2 Jan 2006" }}</time>
         <p>{{ .Summary | truncate 80 }}</p>
@@ -26,7 +31,7 @@
       <article class="journal-main-card">
         {{ with $featured.Params.image }}
         <a href="{{ $featured.Permalink }}" class="journal-main-image">
-          <img src="{{ . }}" alt="{{ $featured.Title }}">
+          <img src="{{ $featured.Permalink }}{{ . }}" alt="{{ $featured.Title }}">
         </a>
         {{ end }}
         <h2><a href="{{ $featured.Permalink }}">{{ $featured.Title }}</a></h2>
@@ -39,6 +44,11 @@
     <div class="journal-col-right">
       {{ range $rightPosts }}
       <article class="journal-side-card">
+        {{ with .Params.image }}
+        <a href="{{ $.Permalink }}" class="journal-side-image">
+          <img src="{{ $.Permalink }}{{ . }}" alt="{{ $.Title }}">
+        </a>
+        {{ end }}
         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
         <time>{{ .Date.Format "2 Jan 2006" }}</time>
         <p>{{ .Summary | truncate 80 }}</p>

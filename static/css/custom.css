@@ -1312,3 +1312,87 @@ a.biblioteca-sezione h3 {
   width: auto !important;
   height: auto !important;
 }
+
+/* ===========================================
+   IMMAGINI NELLE LISTE - HOME E BREADCRUMBS
+   =========================================== */
+
+/* Home - immagini nelle card laterali */
+.journal-side-image {
+  display: block !important;
+  margin-bottom: 10px !important;
+  border-radius: 6px !important;
+  overflow: hidden !important;
+}
+
+.journal-side-image img {
+  width: 100% !important;
+  height: 100px !important;
+  object-fit: cover !important;
+}
+
+/* Home - immagine nel post principale */
+.journal-main-image {
+  display: block !important;
+  margin-bottom: 20px !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+}
+
+.journal-main-image img {
+  width: 100% !important;
+  height: 280px !important;
+  object-fit: cover !important;
+}
+
+/* Breadcrumbs - immagini articoli */
+.article-item {
+  display: flex !important;
+  gap: 20px !important;
+}
+
+.article-image {
+  flex-shrink: 0 !important;
+  display: block !important;
+  overflow: hidden !important;
+  border-radius: 6px !important;
+  width: 180px !important;
+}
+
+.article-image img {
+  width: 100% !important;
+  height: 120px !important;
+  object-fit: cover !important;
+  transition: transform 0.3s !important;
+}
+
+.article-image:hover img {
+  transform: scale(1.05) !important;
+}
+
+.article-content {
+  flex: 1 !important;
+}
+
+.article-content.no-image {
+  width: 100% !important;
+}
+
+/* Responsive */
+@media (max-width: 800px) {
+  .article-item {
+    flex-direction: column !important;
+  }
+  
+  .article-image {
+    width: 100% !important;
+  }
+  
+  .article-image img {
+    height: 180px !important;
+  }
+  
+  .journal-side-image img {
+    height: 120px !important;
+  }
+}

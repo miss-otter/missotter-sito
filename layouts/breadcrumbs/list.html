@@ -17,7 +17,12 @@
     <div class="articles-list">
       {{ range $articles }}
       <article class="article-item">
-        <div class="article-content">
+        {{ with .Params.image }}
+        <a href="{{ $.Permalink }}" class="article-image">
+          <img src="{{ $.Permalink }}{{ . }}" alt="{{ $.Title }}">
+        </a>
+        {{ end }}
+        <div class="article-content {{ if not .Params.image }}no-image{{ end }}">
           <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
           <time>{{ .Date.Format "2 January 2006" }}</time>
           <p>{{ .Summary | truncate 250 }}</p>
