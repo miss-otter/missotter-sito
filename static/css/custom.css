@@ -528,36 +528,45 @@ article.post_content,
   justify-content: center !important;
 }
 
+/* Libri - interlinea ridotta */
 .libro-info {
-  padding: 12px 0 !important;
-  text-align: center !important;
+  padding: 10px !important;
 }
 
-.libro-autore {
-  font-weight: 600 !important;
-  color: #556b58 !important;
-  margin: 0 0 4px 0 !important;
-  font-size: 0.9rem !important;
-}
-
-.libro-titolo {
-  font-style: italic !important;
-  color: #333 !important;
-  margin: 0 0 4px 0 !important;
-  font-size: 0.85rem !important;
+.libro-info p {
+  margin: 2px 0 !important;
   line-height: 1.3 !important;
 }
 
-.libro-editore {
-  color: #888 !important;
-  margin: 0 !important;
-  font-size: 0.8rem !important;
+.libro-autore {
+  font-weight: bold !important;
+  color: #556b58 !important;
+  font-size: 0.85rem !important;
 }
 
-.libro-data {
-  color: #aaa !important;
-  margin: 4px 0 0 0 !important;
-  font-size: 0.75rem !important;
+.libro-titolo {
+  font-size: 0.9rem !important;
+  color: #333 !important;
+}
+
+.libro-editore {
+  font-size: 0.8rem !important;
+  color: #888 !important;
+}
+
+/* Libro card cliccabile */
+a.libro-card {
+  text-decoration: none !important;
+  display: block !important;
+  transition: transform 0.2s !important;
+}
+
+a.libro-card:hover {
+  transform: translateY(-3px) !important;
+}
+
+a.libro-card:hover .libro-cover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
 }
 
 /* ===========================================

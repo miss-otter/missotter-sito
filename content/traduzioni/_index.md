@@ -67,86 +67,86 @@ Prosegue la mia collaborazione con il progetto di blog collettivo *Assaggi* di n
 
 <div class="libri-grid">
 
-<div class="libro-card">
+<a href="https://www.brioschieditore.it/catalogo-libri/treeline.aspx" target="_blank" class="libro-card">
 <div class="libro-cover" style="background-image: url('rawlence_treeline.jpg')"></div>
 <div class="libro-info">
 <p class="libro-autore">Ben Rawlence</p>
 <p class="libro-titolo">Treeline - L'ultima foresta e il futuro della vita sulla terra</p>
-<p class="libro-editore">Francesco Brioschi Editore</p>
+<p class="libro-editore">Francesco Brioschi Editore, 2022</p>
 </div>
-</div>
+</a>
 
-<div class="libro-card">
+<a href="https://www.mimesisedizioni.it/libro/9788857591087" target="_blank" class="libro-card">
 <div class="libro-cover" style="background-image: url('Morin_svegliamoci.jpg')"></div>
 <div class="libro-info">
 <p class="libro-autore">Edgar Morin</p>
 <p class="libro-titolo">Svegliamoci!</p>
-<p class="libro-editore">Mim Edizioni</p>
+<p class="libro-editore">Mim Edizioni, 2022</p>
 </div>
-</div>
+</a>
 
-<div class="libro-card">
+<a href="https://lanavediteseo.eu/portfolio/ressa-come-resistere-a-un-dittatore/" target="_blank" class="libro-card">
 <div class="libro-cover" style="background-image: url('Ressa_Come-resistere-a-un-dittatoreFascetta.jpg')"></div>
 <div class="libro-info">
 <p class="libro-autore">Maria Ressa</p>
 <p class="libro-titolo">Come resistere a un dittatore</p>
-<p class="libro-editore">La nave di Teseo</p>
+<p class="libro-editore">La nave di Teseo, 2023</p>
 </div>
-</div>
+</a>
 
-<div class="libro-card">
+<a href="https://www.einaudi.it/catalogo-libri/storia/storia-contemporanea/culture-globali-petra-goedde-9788806226824/" target="_blank" class="libro-card">
 <div class="libro-cover" style="background-image: url('culture-globali-petra-goedde.JPG')"></div>
 <div class="libro-info">
 <p class="libro-autore">Petra Goedde</p>
 <p class="libro-titolo">Culture globali - Una storia di omologazione e resistenza dal 1945 a oggi</p>
-<p class="libro-editore">Einaudi</p>
+<p class="libro-editore">Einaudi, 2023</p>
 </div>
-</div>
+</a>
 
-<div class="libro-card">
+<a href="https://www.edizpiemme.it/libri/il-caso-assange/" target="_blank" class="libro-card">
 <div class="libro-cover" style="background-image: url('Gosztola_caso_Assange.jpg')"></div>
 <div class="libro-info">
 <p class="libro-autore">Kevin Gosztola</p>
 <p class="libro-titolo">Il caso Assange</p>
-<p class="libro-editore">Edizioni Piemme</p>
+<p class="libro-editore">Edizioni Piemme, 2023</p>
 </div>
-</div>
+</a>
 
-<div class="libro-card">
+<a href="https://www.silvioberlusconieditore.it/libri/deirdre-nansen-mccloskey-le-virtu-borghesi/" target="_blank" class="libro-card">
 <div class="libro-cover" style="background-image: url('McCloskey_virtùborghesi.jpg')"></div>
 <div class="libro-info">
 <p class="libro-autore">Deirdre Nansen McCloskey</p>
 <p class="libro-titolo">Le virtù borghesi</p>
-<p class="libro-editore">Mondadori</p>
+<p class="libro-editore">Mondadori, 2025</p>
 </div>
-</div>
+</a>
 
-<div class="libro-card">
+<a href="https://www.edt.it/libri/isola-ribelle" target="_blank" class="libro-card">
 <div class="libro-cover" style="background-image: url('Isola ribelle.jpg')"></div>
 <div class="libro-info">
 <p class="libro-autore">Jonathan Clements</p>
 <p class="libro-titolo">Isola ribelle</p>
-<p class="libro-editore">EDT</p>
+<p class="libro-editore">EDT, 2025</p>
 </div>
-</div>
+</a>
 
-<div class="libro-card">
+<a href="https://www.einaudi.it/catalogo-libri/problemi-contemporanei/unaltra-vita-amanda-hess-9788806270384/" target="_blank" class="libro-card">
 <div class="libro-cover" style="background-image: url('AmandaHess.JPG')"></div>
 <div class="libro-info">
 <p class="libro-autore">Amanda Hess</p>
 <p class="libro-titolo">Un'altra vita</p>
-<p class="libro-editore">Einaudi</p>
+<p class="libro-editore">Einaudi, 2025</p>
 </div>
-</div>
+</a>
 
-<div class="libro-card">
+<a href="https://abocaedizioni.it/libri/a-cena-con-il-dinosauro/" target="_blank" class="libro-card">
 <div class="libro-cover" style="background-image: url('A-cena-con-il-dinosauro-_-Dolnick.jpg')"></div>
 <div class="libro-info">
 <p class="libro-autore">Edward Dolnick</p>
 <p class="libro-titolo">A cena con il dinosauro</p>
-<p class="libro-editore">Aboca</p>
+<p class="libro-editore">Aboca, 2026</p>
 </div>
-</div>
+</a>
 
 <div class="libro-card">
 <div class="libro-cover libro-no-cover"></div>
