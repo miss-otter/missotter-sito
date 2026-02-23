@@ -1011,7 +1011,7 @@ a.biblioteca-sezione h3 {
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
-  object-position: center 50% !important;
+  object-position: center 40% !important;
 }
 
 /* Posizione specifica per immagine biblioteca */
