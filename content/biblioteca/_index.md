@@ -7,7 +7,7 @@ layout: "single"
 
 <a href="/biblioteca/checose/" class="biblioteca-sezione biblioteca-sezione-solo-testo">
 <div class="biblioteca-sezione-info">
-<p>La biblioteca di Miss Otter è una raccolta di recensioni, un resoconto di viaggio, un percorso di esplorazione di quella realtà proteiforme che per comodità chiamerò la narrazione del reale, in tutte le sue varianti e declinazioni. Ho provato a spiegarlo un po' meglio qui.</p>
+<p>La biblioteca di Miss Otter è una raccolta di recensioni, un resoconto di viaggio, un percorso di esplorazione di quella realtà proteiforme che per comodità chiamerò la narrazione del reale, in tutte le sue varianti e declinazioni. Se vuoi capire meglio che cosa intendo, clicca su questo testo.</p>
 </div>
 </a>
 

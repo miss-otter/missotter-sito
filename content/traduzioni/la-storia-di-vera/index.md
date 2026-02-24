@@ -3,9 +3,11 @@ title: "La storia di Vera"
 date: 2023-01-30
 ---
 
+![](vera_head.jpg)
+
 #### *Una studentessa dell’Università di Washington, originaria dello Xinjiang, invischiata nelle maglie della sorveglianza cinese*
 
-#### | di **[Darren Byler](#Byler)** |
+#### | di **[Darren Byler](#L’autore)** |
 
 In un giorno imprecisato dell’estate del 2019, nella città cinese di Kuitun, un ausiliare di polizia dà un colpetto sulla spalla a una giovane studentessa dell’Università di Washington che si fa largo fra la folla del mercato. La ragazza, Vera Zhou, non si accorge subito di lui, perché cammina fra la gente ascoltando musica con le cuffie. Quando si volta e vede l’uniforme nera, impallidisce. Parlando in cinese, la lingua madre di Vera, il poliziotto la invita a seguirlo nella vicina stazione della polizia di quartiere, una delle oltre settemila stazioni di sorveglianza presenti nella regione.
 
@@ -54,7 +56,7 @@ Nell’ottobre del 2019 il funzionario di sorveglianza di Vera le disse che era 
 
 ### **L’autore**
 
-[**![](https://nonfiction.it/longread/wp-content/uploads/2023/01/Darren-Byler.png)Darren Byler** ](https://www.sfu.ca/internationalstudies/faculty/profiles/byler.html)è un etnografo, ricercatore di antropologia alla School for International Studies della [Simon Fraser University](https://www.sfu.ca/about.html) di Vancouver. I suoi scritti, oltre che da numerose riviste scientifiche, sono pubblicati da «The Guardian», «Foreign Policy», «Noema Magazine», «Prospect Magazine», «Guernica», «ChinaFiles».
+[**![]("missotter-sito\content\traduzioni\la-storia-di-vera\Darren-Byler.png")Darren Byler** ](https://www.sfu.ca/internationalstudies/people/profiles/byler.html) è un etnografo, ricercatore di antropologia alla School for International Studies della [Simon Fraser University](https://www.sfu.ca/about.html) di Vancouver. I suoi scritti, oltre che da numerose riviste scientifiche, sono pubblicati da «The Guardian», «Foreign Policy», «Noema Magazine», «Prospect Magazine», «Guernica», «ChinaFiles».
 
 Dal 2011 al 2018 Byler ha condotto il suo lavoro etnografico nello Xinjiang, entrando in contatto con moltissime persone, intervistandole e raccogliendone le testimonianze per documentare le trasformazioni di quella regione che, nel corso dell’ultimo decennio, hanno subito un’accelerazione dai risvolti inquietanti.
 
@@ -64,6 +66,6 @@ Una volta concluse le ricerche sul campo, Byler si è dedicato alla stesura dei 
 
 ### **Credits**
 
-[![](https://nonfiction.it/longread/wp-content/uploads/2023/01/In-the-camps-cover.webp)](https://globalreports.columbia.edu/books/in-the-camps/)
+[<img src="https://nonfiction.it/longread/wp-content/uploads/2023/01/In-the-camps-cover.webp" style="zoom:33%;" />](https://globalreports.columbia.edu/books/in-the-camps/)
 
 Il brano proposto è un estratto dal libro **[*In the Camps. China’s High-Tech Penal Colony*](https://globalreports.columbia.edu/books/in-the-camps/)**, pubblicato a New York da Columbia Global Reports il 12 ottobre 2021. La versione originale dell’estratto, più estesa di quella qui proposta, è apparsa l’11 ottobre 2021 sulla rivista «MIT Technology Review» con il titolo [*The covid tech that is intimately tied to China’s surveillance state*](https://www.technologyreview.com/2021/10/11/1036582/darren-byler-xinjiang-china-uyghur-surveillance/). La traduzione è stata effettuata e viene qui condivisa con il gentile consenso dell’autore. La foto in alto è presa [online](https://res.cloudinary.com/tbmg/c_scale,w_700,f_auto,q_auto/v1635637289/tb/articles/sup/PIT/2021/features/PIT-1121-p8_fig1.jpg).

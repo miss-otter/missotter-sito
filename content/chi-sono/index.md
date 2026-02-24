@@ -7,7 +7,7 @@ layout: "single"
 
 Mi chiamo Alessandra Neve, sono una traduttrice e lavoro con tre lingue: inglese, francese e spagnolo.
 
-Traduco in prevalenza giornalismo e saggi, meno spesso ma molto volentieri faccio traduzioni per il doppiaggio. Quando non lavoro mi dedico alle letture, alle visioni e agli ascolti che stanno alla base delle mie segnalazioni. Porto avanti con costanza anche un'attività di scouting, proponendo agli editori testi di giornalismo che credo valga la pena di far conoscere al pubblico italiano.
+Traduco in prevalenza articoli per giornali e riviste e saggi o testi divulgativi per l'editoria libraria. Porto avanti con costanza anche un'attività di scouting, proponendo agli editori testi di giornalismo che credo valga la pena di far conoscere al pubblico italiano.
 
 Ritengo che l'infinita varietà della realtà che ci circonda superi di slancio (nel bene e nel male, purtroppo) ogni fantasia e ogni sforzo dell'immaginazione. Non finisco mai di stupirmi e di gioire quando un libro, un articolo, un podcast o un documentario mi rivelano lo sguardo indagatore di un autore che con dedizione, magari con un lavoro di anni, si è impegnato a tentare di comprendere, di interpretare e di spiegare agli altri qualche aspetto di questo formidabile mondo in cui viviamo.
 

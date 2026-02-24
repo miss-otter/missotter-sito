@@ -3,7 +3,7 @@ title: "Traduzioni"
 layout: "single"
 ---
 
-Prosegue la mia collaborazione con il progetto di blog collettivo *Assaggi* di nonfiction.it. I testi che seleziono per il progetto sono spesso articoli, racconti o estratti delle opere recensite in questo spazio, i cui autori mi hanno gentilmente concesso di tradurre e pubblicare un loro scritto inedito in Italia. Per chi volesse farsi un'idea di come traduco, *Assaggi* è il posto giusto.
+Collaboro da un paio d'anni con il progetto di blog collettivo *[Scritture](https://scritture.nonfiction.it/)* di nonfiction.it. I testi che seleziono per il progetto sono spesso articoli, racconti o estratti di opere i cui autori mi hanno gentilmente concesso di tradurre e pubblicare un loro testo inedito in Italia. Per chi volesse farsi un'idea di come traduco, qui di seguito ci sono i testi che ho preparato finora per *Scritture*.
 
 <div class="traduzioni-grid">
 
