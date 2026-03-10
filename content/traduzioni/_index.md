@@ -150,12 +150,13 @@ Collaboro da un paio d'anni con il progetto di blog collettivo *[Scritture](http
 
 <a href="https://www.donzelli.it/libro/9788855227728" target="_blank" class="libro-card">
 
-<div class="libro-cover" style="background-image: url('Caso_Letterad'amore.jpg')"></div>
+<div class="libro-cover" style="background-image: url('Caso_Letteradamore.jpg')"></div>
 <div class="libro-info">
 <p class="libro-autore">Ángeles Caso</p>
 <p class="libro-titolo">Stanotte voglio scriverti una lettera d'amore</p>
 <p class="libro-editore">Donzelli, 2026</p>
 </div>
+
 
 </a>
 
