@@ -163,8 +163,8 @@ Collaboro da un paio d'anni con il progetto di blog collettivo *[Scritture](http
 <div class="libro-card">
 <div class="libro-cover libro-no-cover"></div>
 <div class="libro-info">
-<p class="libro-autore">Angus Lockyer</p>
-<p class="libro-titolo">Giappone, una storia per immagini</p>
+<p class="libro-autore">Work in progress...</p>
+<p class="libro-titolo"></p>
 <p class="libro-editore">Einaudi</p>
 </div>
 </div>
