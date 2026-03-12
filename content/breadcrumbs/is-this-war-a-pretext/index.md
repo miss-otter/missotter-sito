@@ -4,7 +4,7 @@ date: 2026-03-10T22:06:39+01:00
 draft: false
 source: "substack"
 original_url: "https://smallbreadcrumbs.substack.com/p/is-this-war-a-pretext"
-image: "Tim&Ruth.jpg"
+image: "Tim-Ruth.jpg"
 ---
 
 “One of the pleasures of talking with a colleague is that we can indulge ourselves a little bit by talking about the past. There’s a long history of this kind of alchemical transfiguration of democracy by way of war.”
