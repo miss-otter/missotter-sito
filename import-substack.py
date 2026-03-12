@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """
-IMPORT SUBSTACK → HUGO
-Scarica gli articoli dal feed RSS di Substack e li converte in post Hugo.
+IMPORT SUBSTACK → HUGO (bilingue)
+Scarica gli articoli dai feed RSS di entrambi i Substack e li converte in post Hugo.
+
+- smallbreadcrumbs.substack.com (EN) → content/en/breadcrumbs/
+- laleneve.substack.com (IT) → content/it/breadcrumbs/
 
 NOTA: Substack mette nel feed RSS solo gli Articles (articoli lunghi).
 I Notes (post brevi tipo social) NON hanno RSS, quindi non vengono importati.
@@ -16,23 +19,35 @@ from datetime import datetime
 import hashlib
 import html
 
-# Configurazione
-SUBSTACK_RSS = "https://smallbreadcrumbs.substack.com/feed"
-CONTENT_DIR = Path("content/breadcrumbs")
-IMPORTED_FILE = Path("scripts/.imported-substack.txt")
+# Configurazione feed
+FEEDS = [
+    {
+        "name": "Breadcrumbs (EN)",
+        "url": "https://smallbreadcrumbs.substack.com/feed",
+        "content_dir": Path("content/en/breadcrumbs"),
+        "imported_file": Path("scripts/.imported-substack-en.txt"),
+    },
+    {
+        "name": "Miss Otter (IT)",
+        "url": "https://laleneve.substack.com/feed",
+        "content_dir": Path("content/it/breadcrumbs"),
+        "imported_file": Path("scripts/.imported-substack-it.txt"),
+    },
+]
 
 
-def get_imported_ids():
+def get_imported_ids(imported_file):
     """Legge gli ID dei post già importati"""
-    if IMPORTED_FILE.exists():
-        return set(IMPORTED_FILE.read_text().strip().split('\n'))
+    if imported_file.exists():
+        lines = imported_file.read_text().strip().split('\n')
+        return set(l for l in lines if l)
     return set()
 
 
-def save_imported_id(post_id):
+def save_imported_id(imported_file, post_id):
     """Salva un ID come importato"""
-    IMPORTED_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(IMPORTED_FILE, 'a') as f:
+    imported_file.parent.mkdir(parents=True, exist_ok=True)
+    with open(imported_file, 'a') as f:
         f.write(f"{post_id}\n")
 
 
@@ -100,7 +115,7 @@ def html_to_markdown(html_content):
     return content
 
 
-def create_post(entry, slug):
+def create_post(entry, slug, content_dir):
     """Crea un post Hugo dal feed entry"""
     
     # Parse data
@@ -127,7 +142,7 @@ original_url: "{entry.link}"
 '''
     
     # Crea cartella post (page bundle)
-    post_dir = CONTENT_DIR / slug
+    post_dir = content_dir / slug
     post_dir.mkdir(parents=True, exist_ok=True)
     
     # Scrivi file
@@ -137,28 +152,28 @@ original_url: "{entry.link}"
     return post_dir
 
 
-def main():
-    print("=" * 60)
-    print("IMPORT SUBSTACK → HUGO")
-    print("=" * 60)
-    print()
-    print("NOTA: Solo gli Articles hanno RSS.")
-    print("I Notes (post brevi) vanno aggiunti manualmente.")
-    print()
+def import_feed(feed_config):
+    """Importa un singolo feed"""
+    name = feed_config["name"]
+    url = feed_config["url"]
+    content_dir = feed_config["content_dir"]
+    imported_file = feed_config["imported_file"]
+    
+    print(f"\n--- {name} ---")
+    print(f"Feed: {url}")
+    print(f"Destinazione: {content_dir}")
     
     # Scarica feed
-    print(f"Scarico feed: {SUBSTACK_RSS}")
-    feed = feedparser.parse(SUBSTACK_RSS)
+    feed = feedparser.parse(url)
     
     if feed.bozo:
         print(f"ERRORE nel parsing del feed: {feed.bozo_exception}")
-        return
+        return 0, 0
     
     print(f"Trovati {len(feed.entries)} articoli nel feed")
-    print()
     
     # ID già importati
-    imported = get_imported_ids()
+    imported = get_imported_ids(imported_file)
     print(f"Articoli già importati: {len(imported)}")
     
     # Processa ogni entry
@@ -166,30 +181,44 @@ def main():
     skipped_existing = 0
     
     for entry in feed.entries:
-        # ID univoco basato su URL
         post_id = hashlib.md5(entry.link.encode()).hexdigest()[:12]
         
-        # Già importato?
         if post_id in imported:
             skipped_existing += 1
             continue
         
-        # Crea slug
         slug = slugify(entry.title)
         
-        # Crea post
         print(f"  IMPORT: {entry.title[:50]}...")
-        post_dir = create_post(entry, slug)
+        create_post(entry, slug, content_dir)
         
-        # Segna come importato
-        save_imported_id(post_id)
+        save_imported_id(imported_file, post_id)
         new_posts += 1
+    
+    return new_posts, skipped_existing
+
+
+def main():
+    print("=" * 60)
+    print("IMPORT SUBSTACK → HUGO (bilingue)")
+    print("=" * 60)
+    print()
+    print("NOTA: Solo gli Articles hanno RSS.")
+    print("I Notes (post brevi) vanno aggiunti manualmente.")
+    
+    total_new = 0
+    total_skipped = 0
+    
+    for feed_config in FEEDS:
+        new, skipped = import_feed(feed_config)
+        total_new += new
+        total_skipped += skipped
     
     print()
     print("=" * 60)
     print(f"COMPLETATO!")
-    print(f"  - Nuovi articoli importati: {new_posts}")
-    print(f"  - Già presenti: {skipped_existing}")
+    print(f"  - Nuovi articoli importati: {total_new}")
+    print(f"  - Già presenti: {total_skipped}")
     print("=" * 60)
 
 

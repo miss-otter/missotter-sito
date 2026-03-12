@@ -56,7 +56,11 @@
         <h2><a href="{{ $featured.Permalink }}">{{ $featured.Title }}</a></h2>
         <time>{{ $featured.Date.Format "2 January 2006" }}</time>
         <p>{{ $featured.Summary | truncate 300 }}</p>
+        {{ if eq .Lang "it" }}
         <a href="{{ $featured.Permalink }}" class="read-more">Continua a leggere</a>
+        {{ else }}
+        <a href="{{ $featured.Permalink }}" class="read-more">Read more</a>
+        {{ end }}
       </article>
     </div>
     
@@ -89,12 +93,20 @@
   
   {{ if gt (len $posts) 5 }}
   <div class="journal-more">
+    {{ if eq .Lang "it" }}
     <a href="/breadcrumbs/">Vedi tutti i post</a>
+    {{ else }}
+    <a href="/en/breadcrumbs/">See all posts</a>
+    {{ end }}
   </div>
   {{ end }}
   
   {{ else }}
+  {{ if eq .Lang "it" }}
   <p>Nessun post ancora.</p>
+  {{ else }}
+  <p>No posts yet.</p>
+  {{ end }}
   {{ end }}
   
 </div>

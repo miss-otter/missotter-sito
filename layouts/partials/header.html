@@ -1,25 +1,44 @@
 <header class="header">
   
-  <!-- Hero image sopra il menu -->
-  <div class="hero-banner {{ if eq .Section "biblioteca" }}hero-biblioteca{{ end }}">
-    {{ $heroImage := "/images/missottermia.jpg" }}
-    {{ if eq .Section "biblioteca" }}
-      {{ $heroImage = "/images/biblioteca_cesena.jpg" }}
-    {{ end }}
-    <img src="{{ $heroImage }}" alt="Miss Otter">
+  <!-- Hero image: solo per la sezione Biblioteca -->
+  {{ if eq .Section "biblioteca" }}
+  <div class="hero-banner hero-biblioteca">
+    <img src="/images/biblioteca_cesena.jpg" alt="Miss Otter">
     <div class="hero-title">Miss Otter</div>
   </div>
+  {{ end }}
   
   <!-- Menu -->
-  <nav class="nav-menu">
+  <nav class="nav-menu {{ if ne .Section "biblioteca" }}nav-no-hero{{ end }}">
+    
+    {{ if ne .Section "biblioteca" }}
+    <!-- Titolo blog a sinistra (non in biblioteca, dove c'è l'hero) -->
+    <a href="{{ if eq .Lang "en" }}/en/{{ else }}/{{ end }}" class="nav-site-title">Miss Otter</a>
+    {{ end }}
+    
     <ul>
       {{ range .Site.Menus.main }}
+      <!-- Salta "Miss Otter" dal menu, è già nel titolo a sinistra -->
+      {{ if ne .Identifier "home" }}
       <li>
         <a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}class="active"{{ end }}>
           {{ .Name }}
         </a>
       </li>
       {{ end }}
+      {{ end }}
+      
+      <!-- Toggle lingua -->
+      {{ if .Translations }}
+      <li class="lang-switch">
+        {{ range .Translations }}
+        <a href="{{ .Permalink }}" class="lang-toggle">
+          {{ if eq .Lang "en" }}EN{{ else }}IT{{ end }}
+        </a>
+        {{ end }}
+      </li>
+      {{ end }}
+      
     </ul>
   </nav>
   

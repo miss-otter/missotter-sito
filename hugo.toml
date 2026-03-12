@@ -12,17 +12,19 @@ disableKinds = ["taxonomy", "term"]
     languageName = "Italiano"
     weight = 1
     title = "Miss Otter"
+    contentDir = "content/it"
     
   [languages.en]
     languageName = "English"
     weight = 2
     title = "Miss Otter"
+    contentDir = "content/en"
 
 [params]
   author = 'Miss Otter'
   description = 'Un viaggio nella narrazione del reale'
   mainSections = ['breadcrumbs', 'biblioteca', 'traduzioni']
-  customCSS = ["css/custom.css"]
+  customCSS = ["css/custom.css", "css/lang-toggle.css"]
   showShare = false
   numberOfTagsShown = 0
   usePageBundles = true
@@ -35,38 +37,64 @@ disableKinds = ["taxonomy", "term"]
   github = ""
 
 # ============================================
-# MENU PRINCIPALE
+# MENU ITALIANO
 # ============================================
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Miss Otter"
-    url = "/"
-    weight = 1
+[[languages.it.menu.main]]
+  identifier = "home"
+  name = "Miss Otter"
+  url = "/"
+  weight = 1
 
-  [[menu.main]]
-    identifier = "breadcrumbs"
-    name = "Breadcrumbs"
-    url = "/breadcrumbs/"
-    weight = 2
-    
-  [[menu.main]]
-    identifier = "traduzioni"
-    name = "Traduzioni"
-    url = "/traduzioni/"
-    weight = 3
-    
-  [[menu.main]]
-    identifier = "biblioteca"
-    name = "La biblioteca"
-    url = "/biblioteca/"
-    weight = 4
-    
-  [[menu.main]]
-    identifier = "chi-sono"
-    name = "Chi sono"
-    url = "/chi-sono/"
-    weight = 5
+[[languages.it.menu.main]]
+  identifier = "breadcrumbs"
+  name = "Breadcrumbs"
+  url = "/breadcrumbs/"
+  weight = 2
+
+[[languages.it.menu.main]]
+  identifier = "traduzioni"
+  name = "Traduzioni"
+  url = "/traduzioni/"
+  weight = 3
+
+[[languages.it.menu.main]]
+  identifier = "biblioteca"
+  name = "La biblioteca"
+  url = "/biblioteca/"
+  weight = 4
+
+[[languages.it.menu.main]]
+  identifier = "chi-sono"
+  name = "Chi sono"
+  url = "/chi-sono/"
+  weight = 5
+
+# ============================================
+# MENU ENGLISH
+# ============================================
+[[languages.en.menu.main]]
+  identifier = "home"
+  name = "Miss Otter"
+  url = "/en/"
+  weight = 1
+
+[[languages.en.menu.main]]
+  identifier = "breadcrumbs"
+  name = "Breadcrumbs"
+  url = "/en/breadcrumbs/"
+  weight = 2
+
+[[languages.en.menu.main]]
+  identifier = "traduzioni"
+  name = "Translations"
+  url = "/en/traduzioni/"
+  weight = 3
+
+[[languages.en.menu.main]]
+  identifier = "chi-sono"
+  name = "About"
+  url = "/en/chi-sono/"
+  weight = 4
 
 [markup]
   [markup.goldmark]

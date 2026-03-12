@@ -11,7 +11,11 @@
   
   <div class="breadcrumbs-main">
     <h1>Breadcrumbs</h1>
+    {{ if eq .Lang "it" }}
     <p class="breadcrumbs-intro">Pensieri, scoperte e segnalazioni dal mio Substack.</p>
+    {{ else }}
+    <p class="breadcrumbs-intro">Thoughts, findings and signals from my Substack.</p>
+    {{ end }}
     
     {{ if $articles }}
     <div class="articles-list">
@@ -36,13 +40,21 @@
           <h2><a href="{{ $post.Permalink }}">{{ $post.Title }}</a></h2>
           <time>{{ $post.Date.Format "2 January 2006" }}</time>
           <p>{{ $post.Summary | truncate 250 }}</p>
+          {{ if eq $.Lang "it" }}
           <a href="{{ $post.Permalink }}" class="read-more">Continua a leggere</a>
+          {{ else }}
+          <a href="{{ $post.Permalink }}" class="read-more">Read more</a>
+          {{ end }}
         </div>
       </article>
       {{ end }}
     </div>
     {{ else }}
+    {{ if eq .Lang "it" }}
     <p class="no-articles">Nessun articolo ancora.</p>
+    {{ else }}
+    <p class="no-articles">No articles yet.</p>
+    {{ end }}
     {{ end }}
   </div>
   
@@ -58,7 +70,11 @@
       {{ end }}
     </div>
     {{ else }}
+    {{ if eq .Lang "it" }}
     <p class="no-notes">Nessuna nota ancora.</p>
+    {{ else }}
+    <p class="no-notes">No notes yet.</p>
+    {{ end }}
     {{ end }}
   </aside>
   

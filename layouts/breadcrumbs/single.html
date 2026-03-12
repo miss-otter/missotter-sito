@@ -4,6 +4,20 @@
   <article class="post-content">
     <h1>{{ .Title }}</h1>
     <time>{{ .Date.Format "2 January 2006" }}</time>
+    
+    <!-- Link alla versione nell'altra lingua, se esiste -->
+    {{ if .Translations }}
+    <div class="post-lang-switch">
+      {{ range .Translations }}
+      {{ if eq .Lang "en" }}
+      <a href="{{ .Permalink }}">Read in English</a>
+      {{ else }}
+      <a href="{{ .Permalink }}">Leggi in italiano</a>
+      {{ end }}
+      {{ end }}
+    </div>
+    {{ end }}
+    
     <div class="content">
       {{ .Content }}
     </div>
@@ -11,7 +25,11 @@
   
   <aside class="post-sidebar">
     <div class="sidebar-section">
+      {{ if eq .Lang "it" }}
       <h3>Articoli recenti</h3>
+      {{ else }}
+      <h3>Recent articles</h3>
+      {{ end }}
       {{ $articles := where (where .Site.RegularPages "Section" "breadcrumbs") "Params.source" "substack" }}
       {{ range first 5 $articles.ByDate.Reverse }}
       {{ if ne .Permalink $.Permalink }}
