@@ -63,7 +63,7 @@ For a couple of years I have been collaborating with the collective blog project
 
 </div>
 
-<h2 class="sezione-titolo">I libri che ho tradotto</h2>
+<h2 class="sezione-titolo">Books I have translated</h2>
 
 <div class="libri-grid">
 
