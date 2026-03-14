@@ -2,7 +2,7 @@
 title: "Beirut non esiste più"
 date: 2023-07-31
 ---
-
+![](cabecera_beirut_mediavilla_ok_1.jpg)
 #### Una passeggiata per le strade e fra la gente di Beirut nella primavera del 2016, per longreadare, osservare e ascoltare le molte contraddizioni di una città complessa e tormentata
 
 #### | di **[Emilio Sánchez Mediavilla](#Mediavilla)** |***
@@ -36,11 +36,13 @@ I checkpoint – dell’esercito, della polizia e delle varie milizie – impedi
 Quella zona, la cui ricostruzione è stata anch’essa affidata a *Solidere*, è la vetrina del lusso convenzionale e di un potere politico e finanziario dal volto umano, quasi amabile, di quando le sedi delle banche erano edifici di pietra e non torri di cristallo. Sembra un quartiere appena sgomberato sul punto di essere inaugurato, con gli interruttori ancora coperti di nastro isolante. Vi entrano solo i lavoratori dei pochi negozi ancora aperti, gli studenti dell’Instituto Cervantes, i fedeli che vanno a pregare nella basilica ortodossa, nella chiesa greco-cattolica o nella piccola chiesa romanica convertita in moschea. La Domenica delle Palme, una fila di militari in pattuglia tracciava cerchi attorno all’orologio della piazza, mentre i bambini tiravano pallonate ai piccioni in attesa che la processione uscisse dalla chiesa greco-cattolica. Quel giorno, le campane delle chiese e il canto del muezzin si sono levati insieme. A seconda dello stato d’animo, poteva essere una melodia di convivenza o la somma di due fanatismi.
 
 Qui i partiti di sinistra hanno convocato le manifestazioni contro il governo durante la recente crisi dei rifiuti, che ha trasformato il paese in un’enorme discarica a cielo aperto. Quando la crisi è iniziata, i più ottimisti hanno pensato che quella montagna di merda avrebbe unito tutte le religioni intorno a una causa comune, ma è stato solo un miraggio: in realtà ogni gruppo si è dedicato a pulire (o a nascondere) la propria merda, cosa che per lo meno è servita da spunto per barzellette molto divertenti. “Credevo che la merda non avesse religione,” mi ha detto Fadi.
-*Traduzione di [**Alessandra Neve**](https://missotter.wordpress.com)*
+
 
 ### L**’**autore
 
-![](https://nonfiction.it/longread/wp-content/uploads/2023/07/Emilio-Sanchez-Mediavilla-269x300.jpg)**Emilio Sánchez Mediavilla**, nato a Santander nel 1979, è un giornalista spagnolo. Ha lavorato per *Agencia EFE*, la prima agenzia di stampa spagnola, per il quotidiano *La Opinión A Coruña *e per *Condé Nast Traveler*. Articoli a sua firma appaiono occasionalmente su *El País, Vanity Fair *e *Altaïr*. La sua seconda professione è quella di editore: ha co-fondato la casa editrice [Libros del K.O.](https://www.librosdelko.com), con l’intento dichiarato di recuperare il libro come formato giornalistico, e seleziona opere di giornalisti spagnoli storici e contemporanei. Il brano qui proposto in traduzione con il consenso dell’autore, scritto prima dell’esplosione nel porto di Beirut e prima della pandemia, è apparso originariamente [sulla rivista online Altaïr](https://www.altairmagazine.com/voces/beirut-ya-no-existe/)**.**
+![](https://nonfiction.it/longread/wp-content/uploads/2023/07/Emilio-Sanchez-Mediavilla-269x300.jpg)
+
+**Emilio Sánchez Mediavilla**, nato a Santander nel 1979, è un giornalista spagnolo. Ha lavorato per *Agencia EFE*, la prima agenzia di stampa spagnola, per il quotidiano *La Opinión A Coruña *e per *Condé Nast Traveler*. Articoli a sua firma appaiono occasionalmente su *El País, Vanity Fair *e *Altaïr*. La sua seconda professione è quella di editore: ha co-fondato la casa editrice [Libros del K.O.](https://www.librosdelko.com), con l’intento dichiarato di recuperare il libro come formato giornalistico, e seleziona opere di giornalisti spagnoli storici e contemporanei. Il brano qui proposto in traduzione con il consenso dell’autore, scritto prima dell’esplosione nel porto di Beirut e prima della pandemia, è apparso originariamente [sulla rivista online Altaïr](https://www.altairmagazine.com/voces/beirut-ya-no-existe/)**.**
 
 ### Credits
 
