@@ -5,7 +5,11 @@ date: 2024-10-25
 
 #### Lo stufato di fave è il protagonista indiscusso di questo viaggio nella gastronomia, nelle tradizioni e nella storia del Libano meridionale
 
-#### | di **[Zahra Hankir](#Hankir)** |
+#### | di **Zahra Hankir** |
+
+
+
+![](kING_OF_fUL.png)
 
 Lo stufato di fave, o [ful medames](https://www.google.com/search?client=firefox-b-d&sca_esv=0a650f077e31c052&q=%22ful+medames%22&udm=2&fbs=AEQNm0Be9hsxO5zOUoY5v2srYNPRIvTz_02aG-_CVE5t-hWDE1VEgRZgwAleAEAQCRBuIW6iPD3v_y5HG-TpwGdczjUsf0zGnlCfCwRVkxWskzOPew8exI2BOqhxYPfw8o2C4BbRY1ss1ufPRvVfyTbDEcDSE4PG_mk5ZA2BWlA0pX29ouz6q853ZKpalVutIzAPB2D9NvDM&sa=X&ved=2ahUKEwjzoNGQoP-IAxWz2wIHHWxWBwQQtKgLegQIFRAB&biw=1440&bih=747), non è solo un piatto. È un rituale culinario. Le fave schiacciate sono insaporite con aglio, succo di limone e olio d’oliva e poi guarnite con dadini di pomodoro e prezzemolo. Il risultato è uno stufato denso e fragrante che si mangia raccogliendolo con pezzetti di pita appena sfornata ed è normalmente servito insieme a un elaborato assortimento di antipasti, i *mezzeh.*
 
@@ -91,11 +95,13 @@ Nel 1980 la malattia impedì a mio nonno di lavorare e il ristorante venne chius
 I figli di Abu Adel hanno imparato da lui l’arte di preparare il ful, ma da un lato mio nonno era forse troppo orgoglioso per passare il testimone e dall’altro voleva che i suoi figli avessero una vita migliore della sua. Quando si è ammalato, era troppo tardi per assicurarsi che il locale restasse aperto.
 
 Quando ho chiesto a mio padre perché non abbiano fatto uno sforzo per salvare il ristorante di famiglia, lui mi ha risposto semplicemente: «Era troppo difficile. Nessuno sapeva fare il ful come il nonno, nemmeno noi».
-*Traduzione di [**Alessandra Neve**](https://missotter.wordpress.com)*
+
 
 ### L’autrice
 
-![](https://nonfiction.it/longread/wp-content/uploads/2024/10/Zahra_Hankir-240x300.jpg)**[Zahra Hankir](https://zahrahankir.com/)**, giornalista libanese-britannica, è nata nel Regno Unito durante la guerra civile libanese e ha vissuto a Sidone, Beirut, Dubai, New York, Manchester e Londra. Laureata in scienze politiche e studi mediorientali, ha lavorato per sette anni come corrispondente per «Bloomberg News» da Dubai e da Londra, poi ha vinto la borsa Jack R. Howard in giornalismo internazionale della Columbia Journalism School e oggi vive a Brooklyn e viaggia regolarmente in tutto il Medio Oriente, occupandosi di temi che incrociano politica, cultura e società. I suoi articoli si leggono su numerose testate: «Condé Nast Traveler», «The Observer Magazine», «The Times Literary Supplement», «BBC News», «Al Jazeera English», «Bloomberg Businessweek», «Los Angeles Times» e «The Rumpus». Ha curato la bellissima antologia *Our Women on the Ground, *una raccolta di saggi di diciannove delle migliori giornaliste mediorientali che raccontano che cosa significa essere una donna e raccontare la storia del proprio paese in guerra, mentre il suo secondo libro, *Eyeliner: A Cultural History*, è stato pubblicato da Penguin Books (US) e Vintage Books (UK) a novembre 2023. Il brano qui proposto in traduzione con il consenso dell’autrice è [apparso originariamente su «Roads and Kingdoms»](https://roadsandkingdoms.com/2017/the-king-of-ful/).
+![](Zahra_Hankir-240x300.jpg)
+
+**[Zahra Hankir](https://zahrahankir.com/)**, giornalista libanese-britannica, è nata nel Regno Unito durante la guerra civile libanese e ha vissuto a Sidone, Beirut, Dubai, New York, Manchester e Londra. Laureata in scienze politiche e studi mediorientali, ha lavorato per sette anni come corrispondente per «Bloomberg News» da Dubai e da Londra, poi ha vinto la borsa Jack R. Howard in giornalismo internazionale della Columbia Journalism School e oggi vive a Brooklyn e viaggia regolarmente in tutto il Medio Oriente, occupandosi di temi che incrociano politica, cultura e società. I suoi articoli si leggono su numerose testate: «Condé Nast Traveler», «The Observer Magazine», «The Times Literary Supplement», «BBC News», «Al Jazeera English», «Bloomberg Businessweek», «Los Angeles Times» e «The Rumpus». Ha curato la bellissima antologia *Our Women on the Ground, *una raccolta di saggi di diciannove delle migliori giornaliste mediorientali che raccontano che cosa significa essere una donna e raccontare la storia del proprio paese in guerra, mentre il suo secondo libro, *Eyeliner: A Cultural History*, è stato pubblicato da Penguin Books (US) e Vintage Books (UK) a novembre 2023. Il brano qui proposto in traduzione con il consenso dell’autrice è [apparso originariamente su «Roads and Kingdoms»](https://roadsandkingdoms.com/2017/the-king-of-ful/).
 
 ### Credits
 

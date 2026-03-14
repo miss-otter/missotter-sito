@@ -5,7 +5,11 @@ date: 2024-11-26
 
 #### Un saggio storico sulla produzione della plastica per capire le ragioni del disastro ferroviario di East Palestine e sensibilizzare sui rischi per la salute umana e ambientale
 
-#### | di [**Rebecca Altman**](#nome_autrice) |
+#### | di **Rebecca Altman**|
+
+
+
+![](eric-krull-fi3_lDi3qPE-unsplash.jpg)
 
 Il treno merci deragliato nel febbraio 2023 a East Palestine, nei pressi del confine fra Ohio e Pennsylvania, trasportava diversi tipi di verdure congelate, insieme a liquore di malto, semolino e alcune sostanze chimiche utilizzate nella produzione della plastica, come il cloruro di vinile monomero (CVM).
 
@@ -137,11 +141,13 @@ Mentre cercavo dettagli sui metodi di produzione della Chisso mi sono imbattuta 
 Ascoltando la colonna sonora di *Minamata* a ripetizione, la mia scrittura ha assunto una regolarità insolita per me, paragrafo dopo paragrafo, come quella delle ruote sui binari. L’opera di Sakamoto è una riflessione cupa, profonda e trascinante sulla dimensione del disastro industriale e sui decenni di lavoro di cura e di attivismo che Minamata rappresenta.
 
 Di recente, la colonna sonora è stata rilasciata – non scherzo – anche in vinile.
-*Traduzione di [**Alessandra Neve**](https://missotter.wordpress.com)*
+
 
 ### L’autrice
 
-**[Rebecca Altman](https://rebecca-altman.com/)[![Rebecca Altman](https://nonfiction.it/longread/wp-content/uploads/2024/11/Altman_HeadShot.jpeg)](https://rebecca-altman.com/)** (foto credit Emily Belz) è una sociologa ambientale laureata alla Brown University e un membro del consiglio direttivo del think tank americano Science and Environmental Health Network, con il quale ha lavorato a progetti riguardanti le infrastrutture dei combustibili fossili, il diritto delle future generazioni a un pianeta vivibile e la cura delle comunità affette da contaminazioni croniche. Ha tenuto corsi sulla salute e la giustizia ambientale alla Tufts University e le sue ricerche accademiche sono state pubblicate da «The American Journal of Public Health», «Environmental Health Perspectives» e «Journal of Health and Social Behavior».
+![](altman_headshot-edited.jpg)
+
+**[Rebecca Altman](https://rebecca-altman.com/)** (foto credit Emily Belz) è una sociologa ambientale laureata alla Brown University e un membro del consiglio direttivo del think tank americano Science and Environmental Health Network, con il quale ha lavorato a progetti riguardanti le infrastrutture dei combustibili fossili, il diritto delle future generazioni a un pianeta vivibile e la cura delle comunità affette da contaminazioni croniche. Ha tenuto corsi sulla salute e la giustizia ambientale alla Tufts University e le sue ricerche accademiche sono state pubblicate da «The American Journal of Public Health», «Environmental Health Perspectives» e «Journal of Health and Social Behavior».
 
 Il suo lavoro di scrittrice riguarda la storia sociale della chimica, delle plastiche e dell’inquinamento e l’eredità ambientale, ovvero ciò che trasmettiamo da una generazione all’altra. Rebecca sta attualmente lavorando a un libro su questi temi per Scribner Books e negli ultimi anni i suoi saggi sono apparsi su «Science», «The Atlantic», «The Washington Post», «Aeon Magazine», «Orion Magazine», «Topic», «Terrain», «Brain», «Child» e «ISLE. Interdisciplinary Studies in Literature and Environment».
 

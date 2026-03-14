@@ -5,7 +5,7 @@ date: 2023-07-31
 ![](cabecera_beirut_mediavilla_ok_1.jpg)
 #### Una passeggiata per le strade e fra la gente di Beirut nella primavera del 2016, per longreadare, osservare e ascoltare le molte contraddizioni di una città complessa e tormentata
 
-#### | di **[Emilio Sánchez Mediavilla](#Mediavilla)** |***
+#### | di **[Emilio Sánchez Mediavilla](#emilio-snchez-mediavilla)** |
 ***
 
 Beirut dev’essere la città con più balconi e terrazze al mondo. Sporgono da tutte le sue facciate, rivolti a est e a ovest, sulle ville antiche dell’epoca coloniale francese, sui condomini degli anni ’70 e sulle nuove torri di vetro con vista sul mare, costruite con i soldi del Golfo. Ci sono terrazze grandi, alcune altissime e colonnate, terrazze su angoli smussati con persiane rosse e verdi, terrazze coperte da tende per proteggersi dal sole o dallo sguardo dei vicini. Le terrazze di Beirut sono l’unico segno di simmetria urbana, oltre ai minareti delle moschee e alle cupole delle chiese: una simmetria terrena. Sono reliquie di una civiltà perduta, di una città che ha iniziato a scomparire nel 1975 con il frastuono di una raffica di mitra che molti hanno scambiato per i fuochi d’artificio di un matrimonio sontuoso.
@@ -38,11 +38,11 @@ Quella zona, la cui ricostruzione è stata anch’essa affidata a *Solidere*, è
 Qui i partiti di sinistra hanno convocato le manifestazioni contro il governo durante la recente crisi dei rifiuti, che ha trasformato il paese in un’enorme discarica a cielo aperto. Quando la crisi è iniziata, i più ottimisti hanno pensato che quella montagna di merda avrebbe unito tutte le religioni intorno a una causa comune, ma è stato solo un miraggio: in realtà ogni gruppo si è dedicato a pulire (o a nascondere) la propria merda, cosa che per lo meno è servita da spunto per barzellette molto divertenti. “Credevo che la merda non avesse religione,” mi ha detto Fadi.
 
 
-### L**’**autore
+### L’autore
 
-![](https://nonfiction.it/longread/wp-content/uploads/2023/07/Emilio-Sanchez-Mediavilla-269x300.jpg)
+![](missotter-sito\content\it\traduzioni\emiliosanchezmediavilla-edited.jpeg)
 
-**Emilio Sánchez Mediavilla**, nato a Santander nel 1979, è un giornalista spagnolo. Ha lavorato per *Agencia EFE*, la prima agenzia di stampa spagnola, per il quotidiano *La Opinión A Coruña *e per *Condé Nast Traveler*. Articoli a sua firma appaiono occasionalmente su *El País, Vanity Fair *e *Altaïr*. La sua seconda professione è quella di editore: ha co-fondato la casa editrice [Libros del K.O.](https://www.librosdelko.com), con l’intento dichiarato di recuperare il libro come formato giornalistico, e seleziona opere di giornalisti spagnoli storici e contemporanei. Il brano qui proposto in traduzione con il consenso dell’autore, scritto prima dell’esplosione nel porto di Beirut e prima della pandemia, è apparso originariamente [sulla rivista online Altaïr](https://www.altairmagazine.com/voces/beirut-ya-no-existe/)**.**
+**Emilio Sánchez Mediavilla**, nato a Santander nel 1979, è un giornalista spagnolo. Ha lavorato per *Agencia EFE*, la prima agenzia di stampa spagnola, per il quotidiano *La Opinión A Coruña* e per *Condé Nast Traveler*. Articoli a sua firma appaiono occasionalmente su *El País, Vanity Fair* e *Altaïr*. La sua seconda professione è quella di editore: ha co-fondato la casa editrice [Libros del K.O.](https://www.librosdelko.com), con l’intento dichiarato di recuperare il libro come formato giornalistico, e seleziona opere di giornalisti spagnoli storici e contemporanei. Il brano qui proposto in traduzione con il consenso dell’autore, scritto prima dell’esplosione nel porto di Beirut e prima della pandemia, è apparso originariamente [sulla rivista online Altaïr](https://www.altairmagazine.com/voces/beirut-ya-no-existe/)**.**
 
 ### Credits
 

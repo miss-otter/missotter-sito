@@ -5,7 +5,9 @@ date: 2025-04-02
 
 #### **Un estratto da *On the Shadow Tracks*, il viaggio-inchiesta di Clare Hammond lungo le ferrovie birmane **
 
-#### **| di [Clare Hammond](#nome_autrice) |**
+#### **| di Clare Hammond |**
+
+![](Myingyan_Railway_Station_2.jpg)
 
 Di ritorno a Yangon dopo una visita a Dawei, il capoluogo della regione del Tanintharyi – una lunga striscia di terra che dal cuore del Myanmar si protende verso sud come la coda di un aquilone –, feci una ricerca su Google con le parole “ferrovia del Tanintharyi”.
 
@@ -83,8 +85,8 @@ I colleghi mi consigliarono anche di vestirmi in modo tradizionale – con i sar
 
 Con la medaglietta riposta nello spallaccio dello zaino presi un aereo per Dawei, nell’estremo sud del Myanmar. Mi sembrava il punto di partenza più ovvio per il mio viaggio, perché la maggior parte delle informazioni che ero riuscita a trovare riguardava proprio la linea meridionale. La vicinanza della Thailandia aveva reso un po’ più facile, per le storie dei rifugiati, raggiungere il mondo esterno. A Dawei c’era anche una società civile molto vivace. Immaginavo che lì avrei incontrato attivisti, storici e scrittori che avevano documentato gli eventi degli anni Novanta e che sarebbero stati in grado di presentarmi ai loro omologhi in altre regioni più isolate. Da Dawei avrei preso un treno in direzione nord e poi avrei fatto il giro del paese in senso orario, attraversando prima Yangon e il delta, quindi la zona arida di Magway e gli stati etnici, per arrivare infine a Naypyidaw, la nuova capitale fatta costruire dalla giunta militare.
 
- 
-*Traduzione di *[***Alessandra Neve***](https://missotter.wordpress.com)
+
+
 
  
 

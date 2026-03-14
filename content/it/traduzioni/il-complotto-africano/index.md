@@ -5,7 +5,9 @@ date: 2023-03-13
 
 #### Sono stati i bianchi europei, guidati da un fantomatico “mister X”, a uccidere sessant’anni fa in Congo il segretario generale delle Nazioni Unite per mantenere il potere sui neri africani?
 
-#### | di [**Ravi Somaiya**](#RaviSomaiya) |
+#### | di [**Ravi Somaiya**](#ravi-somaiya) |
+
+![](Hammarskjold.jpg)
 
 Nel 1960, il **[Congo](https://www.britannica.com/place/Belgian-Congo)** si divise in due. Fu il primo dei molti conflitti che da allora in poi hanno devastato il paese e prese impulso dal desiderio dei suoi cittadini nativi di ottenere democrazia e diritti.
 
@@ -110,7 +112,8 @@ Oggi, mentre le proteste del movimento Black Lives Matter si diffondono in tutto
 Un altro tipo di epilogo per quella vicenda, secondo il mio parere di parte, si potrebbe trovare nei depositi dei servizi segreti americani e britannici, dove almeno due ex agenti della National Security Agency hanno suggerito che esistano registrazioni segrete che potrebbero finalmente confermare gli eventi che hanno portato alla morte di Hammarskjöld.
 
 La sincerità non è un cattivo punto di partenza per la giustizia.
-*Traduzione di [**Alessandra Neve**](https://missotter.wordpress.com)*
+
+
 
  
 
@@ -118,6 +121,10 @@ La sincerità non è un cattivo punto di partenza per la giustizia.
 
 Il testo qui riportato in traduzione, con il consenso dell’autore, è stato pubblicato il 27 giugno del 2020 sulla rivista *Air Mail *con il titolo “[The African Conspiracy](https://airmail.news/issues/2020-6-27/the-african-conspiracy)”. La foto in alto è tratta da un [articolo del *Guardian*](https://www.theguardian.com/world/2016/aug/30/dag-hammarskjold-crash-was-pilot-error)*.*
 
+
+
 ### L’autore e il libro
 
-[**![](https://nonfiction.it/longread/wp-content/uploads/2023/03/TheGoldenThread-199x300.jpg)Ravi Somaiya**](https://www.ravisomaiya.com/) è un giornalista americano, è stato inviato del *New York Times* e scrive per *The* *Guardian*, *Rolling Stone* e *New York Magazine*. Il suo libro, [*The Golden Thread: The Cold War and the Mysterious Death of Dag Hammarskjöld*](https://www.twelvebooks.com/titles/ravi-somaiya/the-golden-thread/9781455536535/), è stato pubblicato negli Stati Uniti da Twelve Books nel luglio del 2020. Il libro, dopo un excursus storico sulla lotta del Congo per ottenere l’indipendenza dal Belgio e un profilo di Dag Hammarskjöld, ritrae le principali personalità attive sulla scena all’epoca della tragedia (politici congolesi, rappresentanti diplomatici di molte nazioni, industriali con interessi nel paese, funzionari dei servizi segreti e così via), ricostruisce in maniera dettagliata gli eventi che hanno portato all’incidente aereo, fa un’analisi puntuale delle inchieste che si sono succedute nel corso degli anni, da quelle promosse dalle Nazioni Unite fino a quelle portate avanti a vario titolo da privati cittadini, e passa in rassegna anche le voci più improbabili circolate in merito all’accaduto, senza tralasciare di aggiornare, alla luce di nuove prove e di documenti recentemente desegretati, sugli sviluppi più recenti del caso. L’inchiesta delle Nazioni Unite sulla morte di Dag Hammarskjöld è tuttora in corso, così come altre inchieste indipendenti.
+[**![](TheGoldenThread-199x300.jpg)**
+
+[**Ravi Somaiya**](https://www.ravisomaiya.com/) è un giornalista americano, è stato inviato del *New York Times* e scrive per *The* *Guardian*, *Rolling Stone* e *New York Magazine*. Il suo libro, [*The Golden Thread: The Cold War and the Mysterious Death of Dag Hammarskjöld*](https://www.twelvebooks.com/titles/ravi-somaiya/the-golden-thread/9781455536535/), è stato pubblicato negli Stati Uniti da Twelve Books nel luglio del 2020. Il libro, dopo un excursus storico sulla lotta del Congo per ottenere l’indipendenza dal Belgio e un profilo di Dag Hammarskjöld, ritrae le principali personalità attive sulla scena all’epoca della tragedia (politici congolesi, rappresentanti diplomatici di molte nazioni, industriali con interessi nel paese, funzionari dei servizi segreti e così via), ricostruisce in maniera dettagliata gli eventi che hanno portato all’incidente aereo, fa un’analisi puntuale delle inchieste che si sono succedute nel corso degli anni, da quelle promosse dalle Nazioni Unite fino a quelle portate avanti a vario titolo da privati cittadini, e passa in rassegna anche le voci più improbabili circolate in merito all’accaduto, senza tralasciare di aggiornare, alla luce di nuove prove e di documenti recentemente desegretati, sugli sviluppi più recenti del caso. L’inchiesta delle Nazioni Unite sulla morte di Dag Hammarskjöld è tuttora in corso, così come altre inchieste indipendenti.
