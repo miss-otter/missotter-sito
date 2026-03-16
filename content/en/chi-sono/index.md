@@ -20,7 +20,7 @@ I believe the infinite variety of the world around us effortlessly surpasses —
 
 Posts are open to comments, but if you'd like to write to me privately — to recommend an interesting text, documentary or podcast, to discuss something, or perhaps to entrust me with a translation — there's an email address at your disposal: missotter (at) outlook (dot) com
 
-I'm also (was?) moderately active on Twitter, where my handle is @laleneve.
+I'm also (was...) moderately active on Twitter/X, where my handle is @laleneve.
 
 [One page of this website](/traduzioni) lists the books I have translated and includes links to some of my translations published online. If you'd like to get a sense of how I translate, you're welcome to take a look.
 

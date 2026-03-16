@@ -22,7 +22,7 @@ I post sono aperti ai commenti, ma se volete scrivermi in privato per segnalare 
 
 **missotter (at) outlook (punto) com**
 
-Sono (ero?) anche moderatamente attiva su Twitter, dove il mio handle è @laleneve.
+Sono (ero...) anche moderatamente attiva su Twitter/X, dove il mio handle è @laleneve.
 
 [Una pagina di questo blog](/traduzioni/) elenca i libri che ho tradotto e contiene rimandi ad alcune mie traduzioni pubblicate online. Se volete farvi un'idea di come traduco, siete i benvenuti. 
 
