@@ -4,7 +4,7 @@ date: 2026-03-10T22:06:39+01:00
 draft: false
 source: "substack"
 original_url: "https://smallbreadcrumbs.substack.com/p/is-this-war-a-pretext"
-image: "Tim-Ruth.jpg"
+image: "img-01.png"
 ---
 
 “One of the pleasures of talking with a colleague is that we can indulge ourselves a little bit by talking about the past. There’s a long history of this kind of alchemical transfiguration of democracy by way of war.”
@@ -33,4 +33,12 @@ This is where Ben-Ghiat says something worth holding onto:
 > 
 > When does it break? When does a real movement emerge? It’s when the structures and constituencies that support the regime start to have internal instability. You need movements within the structures that support the regime, as well as from below.  [...] Ultimately, the change comes from below. We can be out there in our myriad ways of resisting and being competent. Opposing the contradictions and hypocrisies in a non-judgmental way to people still in the disinformation tunnel. This kind of civic education is really important. Both of us have predicted lots of things, and we don’t have crystal balls — we see patterns, personalities, structures, and the way things work when there’s a stressor like a war. It’s disheartening to see history repeating itself, but in our case we’re also trying to have people be informed so they can react and help to mitigate the disaster. If someone is acting against the interests of the nation, it is patriotic to engage in resistance — in whatever peaceful, nonviolent form works for you.
 
-You’ll find the full video [here](https://snyder.substack.com/p/thinking-live-with-ruth-ben-ghiat).
+You’ll find the full video here:[![](img-01.png)Thinking about...
+  
+
+  
+
+Thinking Live with Ruth Ben-Ghiat on Iran, Strongmen, and moreEarlier this week, I sat down with historian and author of “Strongmen: Mussolini to the Present” Ruth Ben-Ghiat for a conversation about the war in Iran, how history can inform us about our moment, and what we can all do. We also discussed how ritual humiliation functions as a political tool, why this war is unlikely to produce the rally-around-the-flag…
+  
+
+Listen now11 days ago · 2323 likes · 46 comments · Timothy Snyder and Ruth Ben-Ghiat](https://snyder.substack.com/p/thinking-live-with-ruth-ben-ghiat?utm_source=substack&utm_campaign=post_embed&utm_medium=web)

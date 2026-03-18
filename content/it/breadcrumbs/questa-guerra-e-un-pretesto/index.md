@@ -4,7 +4,7 @@ date: 2026-03-10T22:01:02+01:00
 draft: false
 source: "substack"
 original_url: "https://laleneve.substack.com/p/questa-guerra-e-un-pretesto"
-image: "cover.png"
+image: "img-01.png"
 ---
 
 “Uno dei piaceri di parlare con una collega è che possiamo concederci il lusso di discorrere del passato. La storia di questo tipo di trasfigurazioni alchemiche della democrazia mediante la guerra è lunga.”
@@ -37,7 +37,7 @@ A questo punto Ben-Ghiat dice qualcosa che vale la pena di tenere a mente:
 
 > 
 
-La conversazione è in inglese, il video lo trovate qui:[![](https://substackcdn.com/image/fetch/$s_!FacB!,w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd93e61d9-05df-4a86-91d2-36569861802e_256x256.png)Thinking about...
+La conversazione è in inglese, il video lo trovate qui:[![](img-01.png)Thinking about...
   
 
   

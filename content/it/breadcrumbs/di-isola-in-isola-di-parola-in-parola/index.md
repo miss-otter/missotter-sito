@@ -4,10 +4,10 @@ date: 2026-03-16T08:35:33+01:00
 draft: false
 source: "substack"
 original_url: "https://laleneve.substack.com/p/di-isola-in-isola-di-parola-in-parola"
-image: "cover.jpg"
+image: "img-01.jpg"
 ---
 
-[![](https://substackcdn.com/image/fetch/$s_!Gb3h!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda46b7a8-567c-49d1-bfbf-7cc3e320d9ee_2000x1073.jpeg)
+[![](img-01.jpg)
 
 ](https://substackcdn.com/image/fetch/$s_!Gb3h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda46b7a8-567c-49d1-bfbf-7cc3e320d9ee_2000x1073.jpeg)
 
@@ -19,7 +19,7 @@ L’articolo ripercorre le prove che si stanno accumulando: l’ossidiana di Mel
 
 C’è un altro modo, però, per ricostruire viaggi preistorici: la  linguistica, che ci racconta una storia di navigatori di epoca non molto successiva, dall’altra parte del mondo.  I Saisiyat sono uno dei popoli indigeni di Taiwan. Nella loro lingua la  parola per dire “grazie” è *ma’alo’*. Alle Hawaii, a novemila chilometri di distanza, la parola per dire “grazie” è *mahalo*.  Il collegamento  non sembra casuale: il linguista Robert Blust, dell’Università delle  Hawaii, ha proposto, partendo da un’osservazione semplice, una teoria  con conseguenze enormi. Delle milleduecento varianti linguistiche  austronesiane - il 20 per cento di tutte le lingue umane - nove  sottogruppi su dieci si trovano solo a Taiwan. Secondo la teoria di  Blust la più grande migrazione marittima della storia umana sarebbe  partita proprio da lì.  
 
-Ho incontrato questa storia traducendo *[Isola ribelle](https://www.edt.it/libri/isola-ribelle)*[ di Jonathan  Clements](https://www.edt.it/libri/isola-ribelle), una storia di Taiwan  pubblicata da EDT. Clements la colloca in fondo al libro, nell’ultimo  capitolo, perché la teoria di Blust ha preso piede solo negli ultimi  decenni. La sequenza che ricostruisce è questa: circa cinquemila anni  fa, uomini provenienti dalla Cina meridionale attraversarono lo stretto  di Taiwan, fino ad allora invalicabile. Sull’isola svilupparono poi le  tecniche di navigazione necessarie a ripartire, mille anni dopo, lungo  la catena delle isole Batan verso le Filippine, e poi nel resto del  Pacifico - Indonesia, Micronesia, Malesia, fino al Madagascar a ovest, e intorno all’800 dopo Cristo, nella direzione opposta, fino alle Hawaii e all’Isola di Pasqua. A sostegno, Blust ha offerto tra l’altro un certo  numero di parole austronesiane che indicano cose che esistevano a Taiwan - piante, animali, il “clima freddo” - ma che nei luoghi di arrivo,  migliaia di chilometri più a sud, non esistevano affatto.  [![](https://substackcdn.com/image/fetch/$s_!bXG7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00b4e749-c35b-4eaf-9b85-074a87788d35_1280x517.png)
+Ho incontrato questa storia traducendo *[Isola ribelle](https://www.edt.it/libri/isola-ribelle)*[ di Jonathan  Clements](https://www.edt.it/libri/isola-ribelle), una storia di Taiwan  pubblicata da EDT. Clements la colloca in fondo al libro, nell’ultimo  capitolo, perché la teoria di Blust ha preso piede solo negli ultimi  decenni. La sequenza che ricostruisce è questa: circa cinquemila anni  fa, uomini provenienti dalla Cina meridionale attraversarono lo stretto  di Taiwan, fino ad allora invalicabile. Sull’isola svilupparono poi le  tecniche di navigazione necessarie a ripartire, mille anni dopo, lungo  la catena delle isole Batan verso le Filippine, e poi nel resto del  Pacifico - Indonesia, Micronesia, Malesia, fino al Madagascar a ovest, e intorno all’800 dopo Cristo, nella direzione opposta, fino alle Hawaii e all’Isola di Pasqua. A sostegno, Blust ha offerto tra l’altro un certo  numero di parole austronesiane che indicano cose che esistevano a Taiwan - piante, animali, il “clima freddo” - ma che nei luoghi di arrivo,  migliaia di chilometri più a sud, non esistevano affatto.  [![](img-02.png)
 
 ](https://substackcdn.com/image/fetch/$s_!bXG7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00b4e749-c35b-4eaf-9b85-074a87788d35_1280x517.png)
 
