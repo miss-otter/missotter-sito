@@ -6,6 +6,8 @@ Scarica gli articoli dai feed RSS di entrambi i Substack e li converte in post H
 - smallbreadcrumbs.substack.com (EN) → content/en/breadcrumbs/
 - laleneve.substack.com (IT) → content/it/breadcrumbs/
 
+Per ogni post, la prima immagine viene scaricata come cover per l'anteprima.
+
 NOTA: Substack mette nel feed RSS solo gli Articles (articoli lunghi).
 I Notes (post brevi tipo social) NON hanno RSS, quindi non vengono importati.
 Per i Notes, aggiungili manualmente nella sezione Breadcrumbs.
@@ -14,8 +16,10 @@ Per i Notes, aggiungili manualmente nella sezione Breadcrumbs.
 import feedparser
 import re
 import os
+import requests
 from pathlib import Path
 from datetime import datetime
+from urllib.parse import urlparse
 import hashlib
 import html
 
@@ -66,49 +70,78 @@ def slugify(text):
     return text.strip('-')
 
 
+def download_first_image(content_html, post_dir):
+    """Trova la prima immagine nel contenuto HTML, la scarica nella cartella del post.
+    Restituisce il nome del file scaricato, o None se non trova immagini."""
+    
+    img_match = re.search(r'<img[^>]*src=["\']([^"\']+)["\']', content_html)
+    if not img_match:
+        return None
+    
+    img_url = img_match.group(1)
+    
+    try:
+        response = requests.get(img_url, timeout=15)
+        response.raise_for_status()
+        
+        # Determina estensione dal content-type
+        content_type = response.headers.get('content-type', '')
+        if 'jpeg' in content_type or 'jpg' in content_type:
+            ext = '.jpg'
+        elif 'png' in content_type:
+            ext = '.png'
+        elif 'gif' in content_type:
+            ext = '.gif'
+        elif 'webp' in content_type:
+            ext = '.webp'
+        else:
+            parsed = urlparse(img_url)
+            path_ext = Path(parsed.path).suffix.lower()
+            ext = path_ext if path_ext in ['.jpg', '.jpeg', '.png', '.gif', '.webp'] else '.jpg'
+        
+        filename = f"cover{ext}"
+        filepath = post_dir / filename
+        filepath.write_bytes(response.content)
+        
+        print(f"    Immagine scaricata: {filename} ({len(response.content) // 1024}KB)")
+        return filename
+        
+    except Exception as e:
+        print(f"    Errore download immagine: {e}")
+        return None
+
+
 def html_to_markdown(html_content):
     """Converte HTML in Markdown (versione semplificata)"""
     content = html_content
     
-    # Paragrafi
     content = re.sub(r'<p[^>]*>', '\n\n', content)
     content = re.sub(r'</p>', '', content)
     
-    # Headings
     content = re.sub(r'<h1[^>]*>(.*?)</h1>', r'\n\n# \1\n\n', content, flags=re.DOTALL)
     content = re.sub(r'<h2[^>]*>(.*?)</h2>', r'\n\n## \1\n\n', content, flags=re.DOTALL)
     content = re.sub(r'<h3[^>]*>(.*?)</h3>', r'\n\n### \1\n\n', content, flags=re.DOTALL)
     
-    # Bold e italic
     content = re.sub(r'<strong[^>]*>(.*?)</strong>', r'**\1**', content, flags=re.DOTALL)
     content = re.sub(r'<b[^>]*>(.*?)</b>', r'**\1**', content, flags=re.DOTALL)
     content = re.sub(r'<em[^>]*>(.*?)</em>', r'*\1*', content, flags=re.DOTALL)
     content = re.sub(r'<i[^>]*>(.*?)</i>', r'*\1*', content, flags=re.DOTALL)
     
-    # Link
     content = re.sub(r'<a[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', r'[\2](\1)', content, flags=re.DOTALL)
     
-    # Immagini
     content = re.sub(r'<img[^>]*src=["\']([^"\']+)["\'][^>]*alt=["\']([^"\']*)["\'][^>]*/?>', r'![\2](\1)', content)
     content = re.sub(r'<img[^>]*src=["\']([^"\']+)["\'][^>]*/?>', r'![](\1)', content)
     
-    # Liste
     content = re.sub(r'<ul[^>]*>', '\n', content)
     content = re.sub(r'</ul>', '\n', content)
     content = re.sub(r'<ol[^>]*>', '\n', content)
     content = re.sub(r'</ol>', '\n', content)
     content = re.sub(r'<li[^>]*>(.*?)</li>', r'- \1\n', content, flags=re.DOTALL)
     
-    # Blockquote
     content = re.sub(r'<blockquote[^>]*>(.*?)</blockquote>', lambda m: '\n> ' + m.group(1).replace('\n', '\n> ') + '\n', content, flags=re.DOTALL)
     
-    # Rimuovi tag rimanenti
     content = re.sub(r'<[^>]+>', '', content)
-    
-    # Decode HTML entities
     content = html.unescape(content)
-    
-    # Pulisci spazi
     content = re.sub(r'\n{3,}', '\n\n', content)
     content = content.strip()
     
@@ -118,7 +151,6 @@ def html_to_markdown(html_content):
 def create_post(entry, slug, content_dir):
     """Crea un post Hugo dal feed entry"""
     
-    # Parse data
     if hasattr(entry, 'published_parsed') and entry.published_parsed:
         date = datetime(*entry.published_parsed[:6])
     else:
@@ -126,26 +158,30 @@ def create_post(entry, slug, content_dir):
     
     date_str = date.strftime('%Y-%m-%dT%H:%M:%S+01:00')
     
-    # Contenuto
     content_html = entry.get('content', [{}])[0].get('value', '') or entry.get('summary', '')
-    content_md = html_to_markdown(content_html)
-    
-    # Frontmatter
-    frontmatter = f'''---
-title: "{entry.title.replace('"', '\\"')}"
-date: {date_str}
-draft: false
-source: "substack"
-original_url: "{entry.link}"
----
-
-'''
     
     # Crea cartella post (page bundle)
     post_dir = content_dir / slug
     post_dir.mkdir(parents=True, exist_ok=True)
     
-    # Scrivi file
+    # Scarica prima immagine per anteprima
+    cover_image = download_first_image(content_html, post_dir)
+    
+    # Converti HTML in Markdown
+    content_md = html_to_markdown(content_html)
+    
+    # Frontmatter
+    image_line = f'\nimage: "{cover_image}"' if cover_image else ''
+    frontmatter = f'''---
+title: "{entry.title.replace('"', '\\"')}"
+date: {date_str}
+draft: false
+source: "substack"
+original_url: "{entry.link}"{image_line}
+---
+
+'''
+    
     index_file = post_dir / "index.md"
     index_file.write_text(frontmatter + content_md, encoding='utf-8')
     
@@ -163,7 +199,6 @@ def import_feed(feed_config):
     print(f"Feed: {url}")
     print(f"Destinazione: {content_dir}")
     
-    # Scarica feed
     feed = feedparser.parse(url)
     
     if feed.bozo:
@@ -172,11 +207,9 @@ def import_feed(feed_config):
     
     print(f"Trovati {len(feed.entries)} articoli nel feed")
     
-    # ID già importati
     imported = get_imported_ids(imported_file)
     print(f"Articoli già importati: {len(imported)}")
     
-    # Processa ogni entry
     new_posts = 0
     skipped_existing = 0
     

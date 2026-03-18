@@ -4,7 +4,7 @@ date: 2026-03-10T22:01:02+01:00
 draft: false
 source: "substack"
 original_url: "https://laleneve.substack.com/p/questa-guerra-e-un-pretesto"
-image: "Tim-Ruth.jpg"
+image: "cover.png"
 ---
 
 “Uno dei piaceri di parlare con una collega è che possiamo concederci il lusso di discorrere del passato. La storia di questo tipo di trasfigurazioni alchemiche della democrazia mediante la guerra è lunga.”
@@ -35,4 +35,14 @@ A questo punto Ben-Ghiat dice qualcosa che vale la pena di tenere a mente:
 > 
 > Quando si arriva a un punto di rottura? Quando emerge un vero movimento? Quando le strutture che sostengono il regime iniziano a manifestare un’instabilità interna. Ci vogliono movimenti sia all’interno delle strutture che sostengono il regime che dal basso. [...] Il cambiamento, in ultima analisi, arriva dal basso. Noi possiamo essere presenti in moltissimi modi, possiamo opporre resistenza e competenza. Possiamo opporci alle contraddizioni e alle ipocrisie, senza giudicare le persone che sono ancora vittime della disinformazione. Questo tipo di educazione civica è fondamentale. Entrambi, pur non avendo sfere di cristallo, abbiamo previsto molte cose che poi si sono verificate: vediamo schemi, personalità, strutture, e sappiamo come vanno le cose quando c’è un fattore di stress come una guerra. È sconfortante vedere come la storia si ripete, ma cerchiamo di informare le persone in modo che possano reagire e contribuire a mitigare il disastro. Se qualcuno agisce contro gli interessi del paese, opporre resistenza è un gesto patriottico, qualunque sia la forma di resistenza - pacifica e nonviolenta - che ci conviene di più.
 
-La conversazione è in inglese, il video lo trovate [qui](https://snyder.substack.com/p/thinking-live-with-ruth-ben-ghiat).
+> 
+
+La conversazione è in inglese, il video lo trovate qui:[![](https://substackcdn.com/image/fetch/$s_!FacB!,w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd93e61d9-05df-4a86-91d2-36569861802e_256x256.png)Thinking about...
+  
+
+  
+
+Thinking Live with Ruth Ben-Ghiat on Iran, Strongmen, and moreEarlier this week, I sat down with historian and author of “Strongmen: Mussolini to the Present” Ruth Ben-Ghiat for a conversation about the war in Iran, how history can inform us about our moment, and what we can all do. We also discussed how ritual humiliation functions as a political tool, why this war is unlikely to produce the rally-around-the-flag…
+  
+
+Listen now12 days ago · 2323 likes · 46 comments · Timothy Snyder and Ruth Ben-Ghiat](https://snyder.substack.com/p/thinking-live-with-ruth-ben-ghiat?utm_source=substack&utm_campaign=post_embed&utm_medium=web)

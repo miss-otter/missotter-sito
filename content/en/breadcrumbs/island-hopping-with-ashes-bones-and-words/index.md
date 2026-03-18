@@ -4,11 +4,12 @@ date: 2026-03-16T08:42:04+01:00
 draft: false
 source: "substack"
 original_url: "https://smallbreadcrumbs.substack.com/p/island-hopping-with-ashes-bones-and"
+image: "cover.jpg"
 ---
 
-![](Malta-Latnija-Cave-Site_Huw_Groucutt.jpg)
+[![](https://substackcdn.com/image/fetch/$s_!dkfd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83073217-339a-47a6-86d5-f39bdb275026_2000x1073.jpeg)
 
-
+](https://substackcdn.com/image/fetch/$s_!dkfd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83073217-339a-47a6-86d5-f39bdb275026_2000x1073.jpeg)
 
 Malta is located at about 90 kilometres from Sicily. You can’t see it from the horizon unless you reach higher ground. Getting there by canoe takes over twenty-four hours, which means navigating through the night, steering by the stars.
 
@@ -22,9 +23,9 @@ The Saisiyat are one of Taiwan’s indigenous peoples. In their language, the wo
 
 I came across this story while translating [Jonathan Clements’ ](https://scribepublications.co.uk/books/rebel-island)*[Rebel Island](https://scribepublications.co.uk/books/rebel-island)*, a history of Taiwan published in Italy by EDT. Clements places it at the end of the book, in the final chapter, because Blust’s theory only gained traction in recent decades. The sequence he reconstructs runs like this: roughly five thousand years ago, people from what is now southern China crossed the Taiwan Strait, until then impassable. On the island they developed the navigational skills needed to set out again, a thousand years later, along the Batan island chain towards the Philippines, and then across the rest of the Pacific: Indonesia, Micronesia, Malaysia, as far as Madagascar to the west, and around 800 AD, in the opposite direction, all the way to Hawaii and Easter Island. Among his supporting evidence, Blust pointed to Austronesian words for things that existed in Taiwan - plants, animals, “cold weather” - but that did not exist at all in the places of arrival, thousands of kilometres to the south.
 
-Two independent stories, different seas, peoples who knew nothing of each other. Archaeology uncovers a meal cooked eight thousand years ago on an island no one thought reachable; linguistics traces a single word across nine thousand kilometres and five thousand years. Different methods of inquiry converge on the same conclusion: the ability to cross the sea, and the courage to do it, are far older than we believed.
+Two independent stories, different seas, peoples who knew nothing of each other. Archaeology uncovers a meal cooked eight thousand years ago on an island no one thought reachable; linguistics traces a single word across nine thousand kilometres and five thousand years. Different methods of inquiry converge on the same conclusion: the ability to cross the sea, and the courage to do it, are far older than we believed.[![](https://substackcdn.com/image/fetch/$s_!ZQzo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79912388-2058-4284-99e9-404d0ccdbb37_1280x517.png)
 
-![](Chronological_dispersal_of_Austronesian_people_across_the_Pacific.svg.png)
+](https://substackcdn.com/image/fetch/$s_!ZQzo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79912388-2058-4284-99e9-404d0ccdbb37_1280x517.png)
 
 Chronological dispersal of Austronesian people across the Pacific
 
