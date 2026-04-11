@@ -150,6 +150,43 @@ def html_to_markdown(content_html, image_map):
     content = re.sub(r'<iframe[^>]*>.*?</iframe>', iframe_to_link, content, flags=re.DOTALL)
     content = re.sub(r'<iframe[^>]*/>', iframe_to_link, content)
 
+    # --- FIX 1: Link che contengono solo un'immagine (tipico di Substack) ---
+    # <a href="..."><img src="..."></a> → solo <img src="...">
+    # Rimuove il wrapper <a> lasciando l'immagine libera
+    content = re.sub(
+        r'<a[^>]*href=["\'][^"\']*["\'][^>]*>\s*(<img[^>]*>)\s*</a>',
+        r'\1',
+        content, flags=re.DOTALL
+    )
+
+    # --- FIX 2: Embed Substack (card con anteprima, titolo, descrizione) ---
+    # Questi sono <a> con dentro molto contenuto (immagini + testo della card).
+    # Li convertiamo in un semplice link con il testo visibile come etichetta.
+    def simplify_embed_link(match):
+        href = match.group(1)
+        inner = match.group(2)
+        # Rimuovi eventuali tag img interni (la card ha un'anteprima che non ci serve)
+        inner_clean = re.sub(r'<img[^>]*/?>', '', inner)
+        # Rimuovi tutti i tag HTML rimasti
+        inner_clean = re.sub(r'<[^>]+>', ' ', inner_clean)
+        # Pulisci spazi e prendi solo la prima riga significativa come titolo
+        lines = [l.strip() for l in inner_clean.strip().split('\n') if l.strip()]
+        if lines:
+            title = lines[0][:120]  # Prima riga, max 120 char
+        else:
+            title = 'Link'
+        # Se è un link Substack embed, etichettalo
+        if 'substack.com' in href:
+            return f'\n\n[{title}]({href})\n\n'
+        return f'\n\n[{title}]({href})\n\n'
+
+    # Cattura <a> che contengono più di un semplice testo (hanno tag interni)
+    content = re.sub(
+        r'<a[^>]*href=["\']([^"\']+)["\'][^>]*>((?:(?!</a>).)*<(?:img|div|p|span)[^>]*>.*?)</a>',
+        simplify_embed_link,
+        content, flags=re.DOTALL
+    )
+
     # Paragrafi
     content = re.sub(r'<p[^>]*>', '\n\n', content)
     content = re.sub(r'</p>', '', content)
@@ -232,6 +269,17 @@ def create_post(entry, slug, content_dir):
 
     # Converti HTML in Markdown con immagini locali
     content_md = html_to_markdown(content_html, image_map)
+
+    # --- FIX 3: Rimuovi la prima immagine dal corpo se è già nel front matter ---
+    # Evita duplicazione: l'immagine di anteprima viene mostrata dai layout Hugo,
+    # non serve ripeterla nel corpo del post.
+    if first_image:
+        # Rimuovi ![...](first_image) dall'inizio del contenuto
+        pattern = re.compile(
+            r'^\s*!\[[^\]]*\]\(' + re.escape(first_image) + r'\)\s*',
+            re.MULTILINE
+        )
+        content_md = pattern.sub('', content_md, count=1).lstrip()
 
     # Frontmatter
     image_line = f'\nimage: "{first_image}"' if first_image else ''

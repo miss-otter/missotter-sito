@@ -4,7 +4,7 @@ date: 2026-03-10T22:01:02+01:00
 draft: false
 source: "substack"
 original_url: "https://laleneve.substack.com/p/questa-guerra-e-un-pretesto"
-image: "img-01.png"
+image: "Tim-Ruth.jpg"
 ---
 
 “Uno dei piaceri di parlare con una collega è che possiamo concederci il lusso di discorrere del passato. La storia di questo tipo di trasfigurazioni alchemiche della democrazia mediante la guerra è lunga.”
@@ -38,11 +38,11 @@ A questo punto Ben-Ghiat dice qualcosa che vale la pena di tenere a mente:
 > 
 
 La conversazione è in inglese, il video lo trovate qui:[![](img-01.png)Thinking about...
-  
 
-  
+
+
 
 Thinking Live with Ruth Ben-Ghiat on Iran, Strongmen, and moreEarlier this week, I sat down with historian and author of “Strongmen: Mussolini to the Present” Ruth Ben-Ghiat for a conversation about the war in Iran, how history can inform us about our moment, and what we can all do. We also discussed how ritual humiliation functions as a political tool, why this war is unlikely to produce the rally-around-the-flag…
-  
+
 
 Listen now12 days ago · 2323 likes · 46 comments · Timothy Snyder and Ruth Ben-Ghiat](https://snyder.substack.com/p/thinking-live-with-ruth-ben-ghiat?utm_source=substack&utm_campaign=post_embed&utm_medium=web)

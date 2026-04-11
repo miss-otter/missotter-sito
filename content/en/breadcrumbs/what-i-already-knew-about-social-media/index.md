@@ -7,9 +7,7 @@ original_url: "https://smallbreadcrumbs.substack.com/p/what-i-already-knew-about
 image: "img-01.jpg"
 ---
 
-[![](img-01.jpg)
-
-](https://substackcdn.com/image/fetch/$s_!jgtO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F373c2f7c-94ed-4746-ab3b-cd6df4b5739f_1382x844.png)
+[Link](https://substackcdn.com/image/fetch/$s_!jgtO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F373c2f7c-94ed-4746-ab3b-cd6df4b5739f_1382x844.png)
 
 In 2014, Nate Silver had one million followers on Twitter and every link he published drove real traffic to his site. In 2025, he has three million, but the traffic social media brings to his Substack has become irrelevant. Those two numbers alone tell the story of a decade.
 
