@@ -43,7 +43,7 @@ For a couple of years I have been collaborating with the collective blog project
 </div>
 
 <div class="traduzione-card">
-<div class="traduzione-foto" style="background-image: url('altman_headshot-edited.jpeg'); background-position: center 35%"></div>
+<div class="traduzione-foto" style="background-image: url('altman_headshot-edited.jpg'); background-position: center 35%"></div>
 <div class="traduzione-card-body">
 <h3>Rebecca Altman</h3>
 <p class="titolo-pezzo"><a href="/traduzioni/sul-vinile/">Sul vinile</a></p>
