@@ -7,6 +7,8 @@ original_url: "https://smallbreadcrumbs.substack.com/p/island-hopping-with-ashes
 image: "img-01.jpg"
 ---
 
+[Link](https://substackcdn.com/image/fetch/$s_!dkfd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83073217-339a-47a6-86d5-f39bdb275026_2000x1073.jpeg)
+
 Malta is located at about 90 kilometres from Sicily. You can’t see it from the horizon unless you reach higher ground. Getting there by canoe takes over twenty-four hours, which means navigating through the night, steering by the stars.
 
 An [article by Michael Marshall](https://www.newscientist.com/article/2511681-ancient-humans-were-seafaring-far-earlier-than-we-realised/) published this week in Internazionale, an Italian weekly review, reports what happened when archaeologist Eleanor Scerri excavated Latnija cave in northern Malta: she found hearth ash, stone tools, deer bones bearing butchery marks. Radiocarbon dating places these traces at 8,500 years ago, a full millennium earlier than previously thought. But the real shift is something else: these were hunter-gatherers, the people the scientific community had long assumed incapable of crossing open sea. The study, published in *Nature* in 2025, forced a rewrite not just of Malta’s prehistory but of the entire chronology of Mediterranean seafaring.
@@ -21,7 +23,9 @@ I came across this story while translating [Jonathan Clements’ ](https://scrib
 
 Two independent stories, different seas, peoples who knew nothing of each other. Archaeology uncovers a meal cooked eight thousand years ago on an island no one thought reachable; linguistics traces a single word across nine thousand kilometres and five thousand years. Different methods of inquiry converge on the same conclusion: the ability to cross the sea, and the courage to do it, are far older than we believed.
 
-![](img-02.png)Chronological dispersal of Austronesian people across the Pacific
+[Link](https://substackcdn.com/image/fetch/$s_!ZQzo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79912388-2058-4284-99e9-404d0ccdbb37_1280x517.png)
+
+Chronological dispersal of Austronesian people across the Pacific
 
 There is a warning in Clements’ book worth remembering. The theory of Taiwanese origin is potentially appealing to those with geopolitical interests: a single fabricated study in the right journal could turn a linguistic discovery into a territorial claim by China over thirty-seven sovereign states, from the Solomon Islands to Fiji. 
 
