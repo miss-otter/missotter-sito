@@ -7,10 +7,6 @@ original_url: "https://smallbreadcrumbs.substack.com/p/island-hopping-with-ashes
 image: "img-01.jpg"
 ---
 
-![](img-01.jpg)
-
-
-
 Malta is located at about 90 kilometres from Sicily. You can’t see it from the horizon unless you reach higher ground. Getting there by canoe takes over twenty-four hours, which means navigating through the night, steering by the stars.
 
 An [article by Michael Marshall](https://www.newscientist.com/article/2511681-ancient-humans-were-seafaring-far-earlier-than-we-realised/) published this week in Internazionale, an Italian weekly review, reports what happened when archaeologist Eleanor Scerri excavated Latnija cave in northern Malta: she found hearth ash, stone tools, deer bones bearing butchery marks. Radiocarbon dating places these traces at 8,500 years ago, a full millennium earlier than previously thought. But the real shift is something else: these were hunter-gatherers, the people the scientific community had long assumed incapable of crossing open sea. The study, published in *Nature* in 2025, forced a rewrite not just of Malta’s prehistory but of the entire chronology of Mediterranean seafaring.
