@@ -7,8 +7,6 @@ original_url: "https://smallbreadcrumbs.substack.com/p/what-i-already-knew-about
 image: "img-01.jpg"
 ---
 
-[Link](https://substackcdn.com/image/fetch/$s_!jgtO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F373c2f7c-94ed-4746-ab3b-cd6df4b5739f_1382x844.png)
-
 In 2014, Nate Silver had one million followers on Twitter and every link he published drove real traffic to his site. In 2025, he has three million, but the traffic social media brings to his Substack has become irrelevant. Those two numbers alone tell the story of a decade.
 
 The title of his piece is “Social media has become a freak show” — which is more or less what we all think. Except Silver backs it up with data, and from the very particular vantage point of someone who used social media as an editorial channel for fifteen years, with millions of readers on the other end.

@@ -7,8 +7,6 @@ original_url: "https://laleneve.substack.com/p/quello-che-penso-dei-social"
 image: "img-01.jpg"
 ---
 
-[Link](https://substackcdn.com/image/fetch/$s_!XfZi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F080f77f7-67ce-451d-bc86-58ffed745840_1382x844.png)
-
 Nel 2014 Nate Silver aveva un milione di follower su Twitter e ogni link che pubblicava portava traffico reale al suo sito. Nel 2025 ne ha tre milioni ma il traffico portato dai social verso il suo substack è diventato irrilevante. Questi due numeri, da soli, raccontano un decennio.
 
 Il titolo del suo pezzo è “Social media has become a freak show”- che è più o meno quello che pensiamo tutti - solo che Silver lo argomenta con i dati e dal punto di vista molto particolare di chi i social li ha usati per quindici anni come canale editoriale, con milioni di lettori dall’altra parte.

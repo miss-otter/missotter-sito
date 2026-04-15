@@ -150,12 +150,35 @@ def html_to_markdown(content_html, image_map):
     content = re.sub(r'<iframe[^>]*>.*?</iframe>', iframe_to_link, content, flags=re.DOTALL)
     content = re.sub(r'<iframe[^>]*/>', iframe_to_link, content)
 
-    # --- FIX 1: Link che contengono solo un'immagine (tipico di Substack) ---
-    # <a href="..."><img src="..."></a> → solo <img src="...">
-    # Rimuove il wrapper <a> lasciando l'immagine libera
+    # --- FIX 1a: Link che puntano direttamente a un'immagine (CDN Substack) ---
+    # <a href="...cdn-url-immagine..."> ...qualsiasi contenuto... </a>
+    # → sostituito con solo il contenuto interno (di solito l'<img> stessa).
+    # Riconoscerli dall'href: contiene "/image/" o estensione immagine.
+    def strip_image_link(match):
+        return match.group(2)  # solo il contenuto interno
+
     content = re.sub(
-        r'<a[^>]*href=["\'][^"\']*["\'][^>]*>\s*(<img[^>]*>)\s*</a>',
-        r'\1',
+        r'<a[^>]*href=["\']([^"\']*(?:substackcdn\.com/image|/image/fetch|\.(?:jpg|jpeg|png|gif|webp))[^"\']*)["\'][^>]*>(.*?)</a>',
+        strip_image_link,
+        content, flags=re.DOTALL | re.IGNORECASE
+    )
+
+    # --- FIX 1b: Link che contengono solo un'immagine (anche dentro picture/div) ---
+    # <a href="..."><picture>...<img></picture></a> o simili → solo l'<img>
+    def unwrap_img_link(match):
+        inner = match.group(2)
+        img_match = re.search(r'<img[^>]*>', inner)
+        if img_match:
+            # Se l'<a> contiene solo tag wrapper + img (niente testo), lasciamo solo img
+            text_only = re.sub(r'<img[^>]*>', '', inner)
+            text_only = re.sub(r'<[^>]+>', '', text_only).strip()
+            if not text_only:
+                return img_match.group(0)
+        return match.group(0)
+
+    content = re.sub(
+        r'<a[^>]*href=["\'][^"\']*["\'][^>]*>(\s*(?:<(?:picture|source|div|span|figure)[^>]*>\s*)*<img[^>]*>(?:\s*</(?:picture|source|div|span|figure)>)*\s*)</a>',
+        lambda m: re.search(r'<img[^>]*>', m.group(1)).group(0),
         content, flags=re.DOTALL
     )
 
@@ -174,10 +197,8 @@ def html_to_markdown(content_html, image_map):
         if lines:
             title = lines[0][:120]  # Prima riga, max 120 char
         else:
-            title = 'Link'
-        # Se è un link Substack embed, etichettalo
-        if 'substack.com' in href:
-            return f'\n\n[{title}]({href})\n\n'
+            # Nessun testo: è solo un wrapper inutile, rimuovi tutto
+            return ''
         return f'\n\n[{title}]({href})\n\n'
 
     # Cattura <a> che contengono più di un semplice testo (hanno tag interni)

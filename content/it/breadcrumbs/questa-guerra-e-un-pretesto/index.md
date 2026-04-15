@@ -7,8 +7,6 @@ original_url: "https://laleneve.substack.com/p/questa-guerra-e-un-pretesto"
 image: "img-01.jpg"
 ---
 
-[Link](https://substackcdn.com/image/fetch/$s_!Qsai!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06c5e6f4-770e-43ff-baec-381e58d3e349_1651x922.jpeg)
-
 “Uno dei piaceri di parlare con una collega è che possiamo concederci il lusso di discorrere del passato. La storia di questo tipo di trasfigurazioni alchemiche della democrazia mediante la guerra è lunga.”
 
 Lo dice Timothy Snyder a Ruth Ben-Ghiat in una conversazione in live video, e quella frase mi ha colpita: due storici americani si concedono il lusso di parlare del passato proprio mentre il presente sta prendendo una piega che il passato può aiutarci a riconoscere. Vale la pena di seguirli.

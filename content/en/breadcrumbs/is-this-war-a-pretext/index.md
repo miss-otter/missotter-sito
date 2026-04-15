@@ -7,8 +7,6 @@ original_url: "https://smallbreadcrumbs.substack.com/p/is-this-war-a-pretext"
 image: "img-01.jpg"
 ---
 
-[Link](https://substackcdn.com/image/fetch/$s_!vubN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29f2bbb8-cfed-471b-8763-92c0be432f21_1651x922.jpeg)
-
 “One of the pleasures of talking with a colleague is that we can indulge ourselves a little bit by talking about the past. There’s a long history of this kind of alchemical transfiguration of democracy by way of war.”
 
 Timothy Snyder says this to Ruth Ben-Ghiat in a conversation, and that sentence stopped me: two American historians allowing themselves the luxury of talking about the past precisely while the present is taking a turn that the past can help us recognise. Worth following.
