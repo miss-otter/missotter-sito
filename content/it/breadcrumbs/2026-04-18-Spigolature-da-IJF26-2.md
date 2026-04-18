@@ -1,5 +1,5 @@
 ---
-title: "Spigolature da IJF26 2"
+title: "Spigolature da IJF26 #2"
 date: 2026-04-18
 ---
 
