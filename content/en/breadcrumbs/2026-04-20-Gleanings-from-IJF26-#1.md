@@ -1,0 +1,7 @@
+---
+title: "Gleanings from IJF26 #1"
+date: 2026-04-20
+---
+
+Following [this panel](https://www.festivaldelgiornalismo.com/programme/2026/the-censors-paradox-israeli-censorship-gaza-and-information-control-in-the-ai-age), I learned things I didn't know and had confirmation of others I'd intuited or suspected about the Israeli media landscape. The first key piece of information: content produced by Israeli journalists is subject to a military censorship system. Some of the restrictions are reasonable — it's forbidden to specify the exact location hit by a missile, since doing so would allow whoever fired it to adjust their aim with the next one. From there, though, the step toward self-censorship is short: the majority of the Israeli population leans centre-right, and the war has significantly intensified their patriotism. Writing things that don't align with the feelings of your majority audience costs you listeners, readers, approval.
+Then there's Gaza. Israeli citizens don't know what their government and army have done inside Gaza, because their journalists are not allowed to report on it. Nor do they know which articles they read have been subject to censorship — because indicating that is also forbidden.
