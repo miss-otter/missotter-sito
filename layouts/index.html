@@ -2,7 +2,8 @@
 <div class="home-journal">
   
   {{ $breadcrumbs := where .Site.RegularPages "Section" "breadcrumbs" }}
-  {{ $posts := $breadcrumbs.ByDate.Reverse }}
+  {{ $articles := where $breadcrumbs "Params.source" "substack" }}
+  {{ $posts := $articles.ByDate.Reverse }}
   
   {{ if ge (len $posts) 1 }}
   <div class="journal-three-col">
