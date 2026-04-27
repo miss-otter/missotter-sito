@@ -5,7 +5,7 @@ date: 2024-10-25
 
 #### Lo stufato di fave è il protagonista indiscusso di questo viaggio nella gastronomia, nelle tradizioni e nella storia del Libano meridionale
 
-#### | di **Zahra Hankir** |
+#### | di [**Zahra Hankir**](#lautrice) |
 
 
 
@@ -97,12 +97,17 @@ I figli di Abu Adel hanno imparato da lui l’arte di preparare il ful, ma da un
 Quando ho chiesto a mio padre perché non abbiano fatto uno sforzo per salvare il ristorante di famiglia, lui mi ha risposto semplicemente: «Era troppo difficile. Nessuno sapeva fare il ful come il nonno, nemmeno noi».
 
 
-### L’autrice
+
+
+
+### **L’autrice**
 
 ![](Zahra_Hankir-240x300.jpg)
 
-**[Zahra Hankir](https://zahrahankir.com/)**, giornalista libanese-britannica, è nata nel Regno Unito durante la guerra civile libanese e ha vissuto a Sidone, Beirut, Dubai, New York, Manchester e Londra. Laureata in scienze politiche e studi mediorientali, ha lavorato per sette anni come corrispondente per «Bloomberg News» da Dubai e da Londra, poi ha vinto la borsa Jack R. Howard in giornalismo internazionale della Columbia Journalism School e oggi vive a Brooklyn e viaggia regolarmente in tutto il Medio Oriente, occupandosi di temi che incrociano politica, cultura e società. I suoi articoli si leggono su numerose testate: «Condé Nast Traveler», «The Observer Magazine», «The Times Literary Supplement», «BBC News», «Al Jazeera English», «Bloomberg Businessweek», «Los Angeles Times» e «The Rumpus». Ha curato la bellissima antologia *Our Women on the Ground, *una raccolta di saggi di diciannove delle migliori giornaliste mediorientali che raccontano che cosa significa essere una donna e raccontare la storia del proprio paese in guerra, mentre il suo secondo libro, *Eyeliner: A Cultural History*, è stato pubblicato da Penguin Books (US) e Vintage Books (UK) a novembre 2023. Il brano qui proposto in traduzione con il consenso dell’autrice è [apparso originariamente su «Roads and Kingdoms»](https://roadsandkingdoms.com/2017/the-king-of-ful/).
+**[Zahra Hankir](https://zahrahankir.com/)**, giornalista libanese-britannica, è nata nel Regno Unito durante la guerra civile libanese e ha vissuto a Sidone, Beirut, Dubai, New York, Manchester e Londra. Laureata in scienze politiche e studi mediorientali, ha lavorato per sette anni come corrispondente per «Bloomberg News» da Dubai e da Londra, poi ha vinto la borsa Jack R. Howard in giornalismo internazionale della Columbia Journalism School e oggi vive a Brooklyn e viaggia regolarmente in tutto il Medio Oriente, occupandosi di temi che incrociano politica, cultura e società. I suoi articoli si leggono su numerose testate: «Condé Nast Traveler», «The Observer Magazine», «The Times Literary Supplement», «BBC News», «Al Jazeera English», «Bloomberg Businessweek», «Los Angeles Times» e «The Rumpus». Ha curato la bellissima antologia *Our Women on the Ground, *una raccolta di saggi di diciannove delle migliori giornaliste mediorientali che raccontano che cosa significa essere una donna e raccontare la storia del proprio paese in guerra, mentre il suo secondo libro, *Eyeliner: A Cultural History*, è stato pubblicato da Penguin Books (US) e Vintage Books (UK) a novembre 2023. 
 
-### Credits
 
-L'immagine di copertina, proveniente dall’archivio familiare dell’autrice e riprodotta con il suo consenso, ritrae Ahmed Mustafa Hankir nella cucina del suo ristorante di Sidone assieme a uno dei figli nel 1970.
+
+### **Credits**
+
+Il brano qui proposto in traduzione con il consenso dell’autrice è [apparso originariamente su «Roads and Kingdoms»](https://roadsandkingdoms.com/2017/the-king-of-ful/). L'immagine di copertina, proveniente dall’archivio familiare dell’autrice e riprodotta con il suo consenso, ritrae Ahmed Mustafa Hankir nella cucina del suo ristorante di Sidone assieme a uno dei figli nel 1970.

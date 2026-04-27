@@ -3,11 +3,13 @@ title: "Lungo i binari delle ferrovie fantasma"
 date: 2025-04-02
 ---
 
-#### **Un estratto da *On the Shadow Tracks*, il viaggio-inchiesta di Clare Hammond lungo le ferrovie birmane **
+#### Un estratto da *On the Shadow Tracks*, il viaggio-inchiesta di Clare Hammond lungo le ferrovie birmane
 
-#### **| di Clare Hammond |**
+#### | di [**Clare Hammond**](#lautrice) |
 
 ![](Myingyan_Railway_Station_2.jpg)
+
+
 
 Di ritorno a Yangon dopo una visita a Dawei, il capoluogo della regione del Tanintharyi – una lunga striscia di terra che dal cuore del Myanmar si protende verso sud come la coda di un aquilone –, feci una ricerca su Google con le parole “ferrovia del Tanintharyi”.
 
@@ -85,19 +87,16 @@ I colleghi mi consigliarono anche di vestirmi in modo tradizionale – con i sar
 
 Con la medaglietta riposta nello spallaccio dello zaino presi un aereo per Dawei, nell’estremo sud del Myanmar. Mi sembrava il punto di partenza più ovvio per il mio viaggio, perché la maggior parte delle informazioni che ero riuscita a trovare riguardava proprio la linea meridionale. La vicinanza della Thailandia aveva reso un po’ più facile, per le storie dei rifugiati, raggiungere il mondo esterno. A Dawei c’era anche una società civile molto vivace. Immaginavo che lì avrei incontrato attivisti, storici e scrittori che avevano documentato gli eventi degli anni Novanta e che sarebbero stati in grado di presentarmi ai loro omologhi in altre regioni più isolate. Da Dawei avrei preso un treno in direzione nord e poi avrei fatto il giro del paese in senso orario, attraversando prima Yangon e il delta, quindi la zona arida di Magway e gli stati etnici, per arrivare infine a Naypyidaw, la nuova capitale fatta costruire dalla giunta militare.
 
-
-
-
  
+
+**L'autrice**
+
+<img src="Clare.jpg" style="zoom: 50%;" />
+
+[Clare Hammond](https://www.clarehammond.net/), giornalista britannica, collabora con la Ong [Global Witness](https://globalwitness.org/en/) per realizzare indagini su corruzione, conflitti e sfruttamento delle risorse naturali. Per Global Witness ha svolto indagini sul prelievo illegale di minerali rari e rubini in Myanmar che sono state riprese da molte testate, fra cui Associated Press, BBC, e Al Jazeera. Prima di trasferirsi a Yangon, dove ha vissuto dal 2014 al 2020, ha lavorato a Hong Kong come giornalista finanziaria, occupandosi di banche e mercati finanziari asiatici. A Yangon invece è diventata digital editor di [Frontier](https://www.frontiermyanmar.net/en/), la principale testata investigativa del Myanmar. Vincitrice di una borsa della Google News Initiative Innovation Challenge, Hammond ha guidato la trasformazione digitale della newsroom di Frontier, ispirandosi al lavoro innovativo fatto da Maria Ressa con la testata filippina Rappler, e ha raccolto intorno a sé una squadra di reporter che si occupava di contrastare la disinformazione. Nello stesso periodo, grazie a una borsa del Pulitzer Center on Crisis Reporting, ha inviato reportage pluripremiati dal Myanmar e dal Bangladesh ad Al Jazeera, Bloomberg, The Guardian, NPR e The Economist.
+
+
 
 **Credits**
 
 Il testo, qui riportato in traduzione con il consenso di Clare Hammond, è un estratto del suo libro [*On the Shadow Tracks - A Journey Through Occupied Myanmar*](https://www.penguin.co.uk/books/455020/on-the-shadow-tracks-by-hammond-clare/9780241623893)**, **pubblicato il 6 giugno 2024 da Allen Lane. L’immagine in alto, scattata dall’utente Wikimedia [*kallerna*](https://commons.wikimedia.org/wiki/User:Kallerna) il 23 dicembre del 2019, ritrae un treno della linea Bagan-Mandalay in sosta nella stazione di Myngyan.
-
- 
-
-**L’autrice**
-
-![](https://nonfiction.it/longread/wp-content/uploads/2025/04/Clare-300x300.jpg)
-
-[Clare Hammond](https://www.clarehammond.net/), giornalista britannica, collabora con la Ong [Global Witness](https://globalwitness.org/en/) per realizzare indagini su corruzione, conflitti e sfruttamento delle risorse naturali. Per Global Witness ha svolto indagini sul prelievo illegale di minerali rari e rubini in Myanmar che sono state riprese da molte testate, fra cui Associated Press, BBC, e Al Jazeera. Prima di trasferirsi a Yangon, dove ha vissuto dal 2014 al 2020, ha lavorato a Hong Kong come giornalista finanziaria, occupandosi di banche e mercati finanziari asiatici. A Yangon invece è diventata digital editor di [Frontier](https://www.frontiermyanmar.net/en/), la principale testata investigativa del Myanmar. Vincitrice di una borsa della Google News Initiative Innovation Challenge, Hammond ha guidato la trasformazione digitale della newsroom di Frontier, ispirandosi al lavoro innovativo fatto da Maria Ressa con la testata filippina Rappler, e ha raccolto intorno a sé una squadra di reporter che si occupava di contrastare la disinformazione. Nello stesso periodo, grazie a una borsa del Pulitzer Center on Crisis Reporting, ha inviato reportage pluripremiati dal Myanmar e dal Bangladesh ad Al Jazeera, Bloomberg, The Guardian, NPR e The Economist.

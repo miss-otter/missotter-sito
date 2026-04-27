@@ -1,5 +1,5 @@
 ---
-title: "Quello che penso dei social"
+title: "Quello che penso dei social, spiegato meglio"
 date: 2026-04-11T21:09:18+01:00
 draft: false
 source: "substack"

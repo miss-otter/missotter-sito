@@ -1,5 +1,5 @@
 ---
-title: "What I already knew about social media"
+title: "What I already knew about social media, explained better"
 date: 2026-04-11T16:14:04+01:00
 draft: false
 source: "substack"

@@ -5,7 +5,7 @@ date: 2024-11-26
 
 #### Un saggio storico sulla produzione della plastica per capire le ragioni del disastro ferroviario di East Palestine e sensibilizzare sui rischi per la salute umana e ambientale
 
-#### | di **Rebecca Altman**|
+#### | di **[Rebecca Altman](#lautrice)** |
 
 
 
@@ -143,14 +143,18 @@ Ascoltando la colonna sonora di *Minamata* a ripetizione, la mia scrittura ha as
 Di recente, la colonna sonora è stata rilasciata – non scherzo – anche in vinile.
 
 
-### L’autrice
 
-![](altman_headshot-edited.jpg)
+
+### **L’autrice**
+
+<img src="rebecca_altman_alt.jpg" style="zoom: 150%;" />
 
 **[Rebecca Altman](https://rebecca-altman.com/)** (foto credit Emily Belz) è una sociologa ambientale laureata alla Brown University e un membro del consiglio direttivo del think tank americano Science and Environmental Health Network, con il quale ha lavorato a progetti riguardanti le infrastrutture dei combustibili fossili, il diritto delle future generazioni a un pianeta vivibile e la cura delle comunità affette da contaminazioni croniche. Ha tenuto corsi sulla salute e la giustizia ambientale alla Tufts University e le sue ricerche accademiche sono state pubblicate da «The American Journal of Public Health», «Environmental Health Perspectives» e «Journal of Health and Social Behavior».
 
 Il suo lavoro di scrittrice riguarda la storia sociale della chimica, delle plastiche e dell’inquinamento e l’eredità ambientale, ovvero ciò che trasmettiamo da una generazione all’altra. Rebecca sta attualmente lavorando a un libro su questi temi per Scribner Books e negli ultimi anni i suoi saggi sono apparsi su «Science», «The Atlantic», «The Washington Post», «Aeon Magazine», «Orion Magazine», «Topic», «Terrain», «Brain», «Child» e «ISLE. Interdisciplinary Studies in Literature and Environment».
 
-### Credits
+
+
+### **Credits**
 
 Il testo qui riportato in traduzione, con il consenso dell’autrice, è stato pubblicato ad aprile 2023 sul sito della rivista **«Orion Magazine»** con il titolo ***[On vinyl](https://orionmagazine.org/article/east-palestine-train-derailment-plastics-history/)***. L’immagine in alto è tratta da Unsplash e il suo autore è [Eric Krull](https://unsplash.com/it/foto/disco-in-vinile-nero-su-disco-in-vinile-nero-fi3_lDi3qPE).
