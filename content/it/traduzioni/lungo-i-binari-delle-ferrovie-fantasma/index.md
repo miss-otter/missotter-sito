@@ -99,4 +99,4 @@ Con la medaglietta riposta nello spallaccio dello zaino presi un aereo per Dawei
 
 **Credits**
 
-Il testo, qui riportato in traduzione con il consenso di Clare Hammond, è un estratto del suo libro [*On the Shadow Tracks - A Journey Through Occupied Myanmar*](https://www.penguin.co.uk/books/455020/on-the-shadow-tracks-by-hammond-clare/9780241623893)**, **pubblicato il 6 giugno 2024 da Allen Lane. L’immagine in alto, scattata dall’utente Wikimedia [*kallerna*](https://commons.wikimedia.org/wiki/User:Kallerna) il 23 dicembre del 2019, ritrae un treno della linea Bagan-Mandalay in sosta nella stazione di Myngyan.
+Il testo, qui riportato in traduzione con il consenso di Clare Hammond, è un estratto del suo libro [*On the Shadow Tracks - A Journey Through Occupied Myanmar*](https://www.penguin.co.uk/books/455020/on-the-shadow-tracks-by-hammond-clare/9780241623893), pubblicato il 6 giugno 2024 da Allen Lane. L’immagine in alto, scattata dall’utente Wikimedia [*kallerna*](https://commons.wikimedia.org/wiki/User:Kallerna) il 23 dicembre del 2019, ritrae un treno della linea Bagan-Mandalay in sosta nella stazione di Myngyan.
