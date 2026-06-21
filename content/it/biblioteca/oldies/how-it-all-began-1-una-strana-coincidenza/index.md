@@ -11,20 +11,20 @@ Miss Otter, ovvero la storia della mia passione per le lontre.
 Tutto è cominciato in qualche modo a mia insaputa, quando da ragazzina ascoltavo gli album dei Pink Floyd, iniziavo a masticare un po' di inglese e fantasticavo sul significato di certi titoli, soprattutto di questo:
 
 ![Pink Floyd - The Piper at the Gates of Dawn](pink-floyd-piper-at-the-gates-of-dawn-front.jpg)
- Pink Floyd - The Piper at the Gates of Dawn
+ 
 
 L'epifania si è verificata all'università, quando per preparare la tesi di laurea ho iniziato a lavorare su questo libro:
 
 
 ![Kenneth Grahame - The Wind in the Willows](thewindinthewillows.jpg)
- Kenneth Grahame - The Wind in the Willows
+
 
 Un libro per ragazzi, molto noto in Gran Bretagna, un po' come un Peter Pan, o un Pinocchio per noi, che racconta le avventure di una serie di animali di campagna: il rospo, il tasso, il topo, la talpa e, naturalmente, la lontra.
 Mi è capitato di leggerlo perché ho avuto il privilegio di occuparmi della sua traduzione italiana:
 
- 
+
 ![Beppe Fenoglio - Il vento nei salici](ilventoneisalici.jpg)
- Beppe Fenoglio - Il vento nei salici
+ 
 
 Già, l'amato Fenoglio. Tutta colpa sua, perché il settimo capitolo del libro è intitolato "Il pifferaro alle soglie dell'alba", un titolo davvero troppo singolare per non destare sospetti. E infatti è traduzione di "The Piper at the Gates of Dawn", capitolo in cui il topo e la talpa, accorsi in aiuto della lontra che aveva smarrito un cucciolo, lo ritrovano assopito fra gli zoccoli nientemeno che del dio Pan. The Piper.
 
