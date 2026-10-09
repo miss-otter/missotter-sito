@@ -177,8 +177,9 @@ For a couple of years I have been collaborating with the collective blog project
 <div class="libro-info">
 <p class="libro-autore">Angus Lockyer</p>
 <p class="libro-titolo">Japan - A history in objects</p>
-<p class="libro-editore">Einaudi, 2026</p>
+<p class="libro-editore">Il Giappone - Dalla preistoria ai manga, storia di una civiltà, Einaudi, 2026</p>
 </div>
+
 
 
 </div>
