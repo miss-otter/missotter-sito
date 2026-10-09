@@ -160,13 +160,16 @@ Collaboro da un paio d'anni con il progetto di blog collettivo *[Scritture](http
 
 </a>
 
-<div class="libro-card">
-<div class="libro-cover libro-no-cover"></div>
+<a href="https://www.einaudi.it/catalogo-libri/storia/il-giappone-angus-lockyer-9788806274023/" target="_blank" class="libro-card">
+
+<div class="libro-cover" style="background-image: url('Lockyear_Giappone_copertina.JPG')"></div>
 <div class="libro-info">
-<p class="libro-autore">Work in progress...</p>
-<p class="libro-titolo"></p>
-<p class="libro-editore">Einaudi</p>
+<p class="libro-autore">Angus Lockyer</p>
+<p class="libro-titolo">Il Giappone - Dalla preistoria ai manga, storia di una civiltà</p>
+<p class="libro-editore">Einaudi, 2026</p>
 </div>
+
 </div>
+
 
 </div>

@@ -169,16 +169,16 @@ For a couple of years I have been collaborating with the collective blog project
 </div>
 
 
-
 </a>
 
-<div class="libro-card">
-<div class="libro-cover libro-no-cover"></div>
+<a href="https://www.einaudi.it/catalogo-libri/storia/il-giappone-angus-lockyer-9788806274023/" target="_blank" class="libro-card">
+
+<div class="libro-cover" style="background-image: url('Japan_history_objects.jpg')"></div>
 <div class="libro-info">
-<p class="libro-autore">Work in progress...</p>
-<p class="libro-titolo"></p>
-<p class="libro-editore">Einaudi</p>
+<p class="libro-autore">Angus Lockyer</p>
+<p class="libro-titolo">Japan - A history in objects</p>
+<p class="libro-editore">Einaudi, 2026</p>
 </div>
-</div>
+
 
 </div>
